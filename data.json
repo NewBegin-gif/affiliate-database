@@ -1,82 +1,604 @@
 [
-  {"name": "Payoneer", "category": "Financial Operations", "domain": "payoneer.com", "desc": "Global payment solutions and cross-border billing. Easily receive funds from international clients and marketplaces with low fees.", "link": "https://payoneer557.partnerlinks.io/whpnqt92bm0j"},
-  {"name": "Bill.com", "category": "Financial Operations", "domain": "bill.com", "desc": "Intelligent accounts payable and receivable automation. Streamline your financial workflows and get paid faster with minimal manual entry.", "link": "https://referral.bill.com/d69gftudjro5"},
-  {"name": "Tax1099", "category": "Financial Operations", "domain": "tax1099.com", "desc": "Secure, automated tax form e-filing for businesses and accountants. Manage 1099s, W-2s, and compliance smoothly.", "link": "https://get.tax1099.com/0ivysaedzf4n"},
-  {"name": "Flippa", "category": "Financial Operations", "domain": "flippa.com", "desc": "The world's #1 marketplace to buy and sell online businesses, SaaS, apps, and domains. Turn your digital assets into liquid capital.", "link": "https://referral.flippa.com/423fnj9u9lh5"},
-  {"name": "Credit Repair Cloud", "category": "Financial Operations", "domain": "creditrepaircloud.com", "desc": "The leading software to start, run, and grow a highly profitable credit repair business from anywhere in the world.", "link": "https://get.creditrepaircloud.com/rzjqacc3xbwo"},
-  {"name": "Bitvavo", "category": "Financial Operations", "domain": "bitvavo.com", "desc": "Europe's leading crypto exchange. 350+ assets, low fees, Dutch-regulated and a clean UX for both beginners and pros. Sign up via our link for €10K fee-free.", "link": "https://account.bitvavo.com/create?a=68DCE39715&pid=invite&c=referral&af_adset=68DCE39715&deep_link_value=bitvavo%3A%2F%2Fcreate%3Fa%3D68DCE39715"},
-  {"name": "Bybit", "category": "Financial Operations", "domain": "bybit.com", "desc": "Trade crypto with deep liquidity — derivatives, spot and EU-compliant infrastructure.", "link": "https://www.bybit.eu/invite?ref=43R9RJE"},
-  {"name": "ActiveCampaign", "category": "Growth & Revenue", "domain": "activecampaign.com", "desc": "Advanced marketing automation, email marketing, and CRM. Build complex, automated customer journeys that drive real revenue.", "link": "https://www.activecampaign.com/"},
-  {"name": "Close", "category": "Growth & Revenue", "domain": "close.com", "desc": "A high-performance sales CRM built for growth-focused startups and SMBs. Unifies calling, emailing, and SMS into one powerful inbox.", "link": "https://refer.close.com/8sqpd69pa18l"},
-  {"name": "Vista Social", "category": "Growth & Revenue", "domain": "vistasocial.com", "desc": "Unified social media management and publishing. Schedule posts, manage conversations, and track analytics across all your brand accounts.", "link": "https://join.vistasocial.com/3gvz9j8tfhuo"},
-  {"name": "Reply.io", "category": "Growth & Revenue", "domain": "reply.io", "desc": "AI-driven sales engagement platform. Automate your cold outreach across email, LinkedIn, and calls while keeping the human touch.", "link": "https://get.reply.io/l5ko4nvevkas"},
-  {"name": "Alidrop", "category": "Growth & Revenue", "domain": "alidrop.co", "desc": "End-to-end dropshipping automation for e-commerce entrepreneurs. Streamline product sourcing, fulfillment, and inventory management.", "link": "https://get.alidrop.co/uwv5ldbg7zss"},
-  {"name": "Smartli", "category": "Growth & Revenue", "domain": "smartli.com", "desc": "AI content generation specifically tuned for e-commerce. Automatically write high-converting product listings and ad copy.", "link": "https://smartli.partnerlinks.io/qz3fmukd575c"},
-  {"name": "Logome.ai", "category": "Growth & Revenue", "domain": "logome.ai", "desc": "Instant AI brand and logo generation. Create professional, cohesive brand identities for your new projects in a matter of seconds.", "link": "https://logomeai.partnerlinks.io/b7op64h8prya"},
-  {"name": "AISDR", "category": "Growth & Revenue", "domain": "aisdr.com", "desc": "Deploy an autonomous AI Sales Development Rep. It qualifies leads, books meetings, and handles initial outreach conversations 24/7.", "link": "https://partner.aisdr.com/jnghghgobfl4"},
-  {"name": "ElevateForward", "category": "Growth & Revenue", "domain": "elevateforward.ai", "desc": "Strategic growth and marketing tools designed to help scaling companies optimize their funnels and maximize conversion rates.", "link": "https://partners.elevateforward.ai/clwv8r6l4xj5"},
-  {"name": "Success.co", "category": "Growth & Revenue", "domain": "success.co", "desc": "A comprehensive customer success and retention platform. Monitor client health scores and automate your onboarding flows.", "link": "https://try.success.co/h478dlerxkga"},
-  {"name": "GetResponse", "category": "Growth & Revenue", "domain": "getresponse.com", "desc": "Powerful inbound marketing software combining email automation, landing pages, webinars, and conversion funnels.", "link": "https://try.getresponsetoday.com/8c0sqba28nwf"},
-  {"name": "Campaign Monitor", "category": "Growth & Revenue", "domain": "campaignmonitor.com", "desc": "Premium email marketing tailored for agencies and scaling teams. Delivers stunning templates and reliable deliverability.", "link": "https://partners.campaignmonitor.com/v66v483h4lfy"},
-  {"name": "Amplemarket", "category": "Growth & Revenue", "domain": "amplemarket.com", "desc": "An all-in-one AI-powered sales platform. Discover leads, personalize outreach, and close deals faster with intelligent workflows.", "link": "https://grow.amplemarket.com/ddkfb65s7t1r"},
-  {"name": "Omniseo", "category": "Growth & Revenue", "domain": "omniseo.com", "desc": "Programmatic SEO automation infrastructure. Scale your organic search presence by generating thousands of optimized landing pages.", "link": "https://get.omniseo.com/yy2uzt37r491"},
-  {"name": "Seamless.ai", "category": "Growth & Revenue", "domain": "seamless.ai", "desc": "A massive B2B contact database and lead generation engine. Find verified emails and direct dials for your ideal prospects instantly.", "link": "https://get.seamless.ai/gleubirgjgj8"},
-  {"name": "Unbounce", "category": "Growth & Revenue", "domain": "unbounce.com", "desc": "The premier AI-powered landing page builder. Create high-converting campaigns with intelligent copy generation and A/B testing.", "link": "https://unbounce.partnerlinks.io/ag7tbkfddk5n"},
-  {"name": "Iconosquare", "category": "Growth & Revenue", "domain": "iconosquare.com", "desc": "Deep social media analytics and reporting for agencies and brands. Track performance, schedule content, and monitor competitors.", "link": "https://try.iconosquare.com/jafoipypg7xb"},
-  {"name": "Adwisely", "category": "Growth & Revenue", "domain": "adwisely.com", "desc": "Automated ad campaigns specifically built for e-commerce. Drive retargeting and prospecting across Google and Meta seamlessly.", "link": "https://get.adwisely.com/lahunz19q93e"},
-  {"name": "AdCreative.ai", "category": "Growth & Revenue", "domain": "adcreative.ai", "desc": "Generate conversion-focused ad creatives and banners using AI. Drastically reduce design time while boosting CTR.", "link": "https://free-trial.adcreative.ai/9rbtqowzgwy2"},
-  {"name": "Landingi", "category": "Growth & Revenue", "domain": "landingi.com", "desc": "An intuitive, end-to-end landing page platform. Build, publish, and optimize your marketing campaigns without touching code.", "link": "https://try.landingi.com/hsaaq00kz6qg"},
-  {"name": "AISQ", "category": "Growth & Revenue", "domain": "aisq.com", "desc": "An autonomous marketing execution engine. Consolidates SEO, content distribution, and strategy into one automated workflow.", "link": "https://try.aisq.com/oftwfsjuajyw"},
-  {"name": "ManyChat", "category": "Growth & Revenue", "domain": "manychat.com", "desc": "Industry-leading chat marketing automation. Build engaging bot funnels for Instagram, Facebook Messenger, and SMS.", "link": "https://manychat.partnerlinks.io/fytpn81je1y4"},
-  {"name": "Printify", "category": "Growth & Revenue", "domain": "printify.com", "desc": "Global print-on-demand network. Create custom products and automate your e-commerce fulfillment without holding inventory.", "link": "https://try.printify.com/nnjq3xkyctsk"},
-  {"name": "Frase", "category": "Growth & Revenue", "domain": "frase.io", "desc": "AI-powered SEO content writing and optimization. Research, outline, write, and optimize articles that rank — all in one place.", "link": "https://www.frase.io/?utm_source=firstpromoter&utm_medium=affiliate&utm_campaign=affiliate_program&via=daniel46"},
-  {"name": "Clay", "category": "Growth & Revenue", "domain": "clay.com", "desc": "AI-powered prospecting and outbound. Enrich leads from 75+ data sources and personalize at scale with GPT-driven copy that actually books meetings.", "link": "https://clay.com"},
-  {"name": "Rank Math", "category": "Growth & Revenue", "domain": "rankmath.com", "desc": "The most powerful WordPress SEO plugin. Advanced schema, AI content insights, rank tracking and on-page optimization that actually moves rankings.", "link": "https://rankmath.com/?ref=daanhaket"},
-  {"name": "Atria", "category": "Growth & Revenue", "domain": "tryatria.com", "desc": "Generate winning ad creative and research competitor campaigns across Meta and TikTok — built for performance marketers.", "link": "https://affiliates.tryatria.com/i0fy7orc6mte"},
-  {"name": "Beehiiv", "category": "Growth & Revenue", "domain": "beehiiv.com", "desc": "The newsletter platform built for growth. Advanced analytics, monetization tools, and seamless integrations. Scale from 0 to millions of subscribers like Morning Brew.", "link": "https://www.beehiiv.com/?via=daan-haket"},
-  {"name": "ClickUp", "category": "Operations & Workflow", "domain": "clickup.com", "desc": "The 'everything app' for project and work management. Centralize your tasks, docs, sprints, and team communication in one hub.", "link": "https://try.web.clickup.com/1fuixmntw4bz"},
-  {"name": "Trainual", "category": "Operations & Workflow", "domain": "trainual.com", "desc": "The ultimate playbook for your business. Centralize your Standard Operating Procedures (SOPs) and automate team onboarding.", "link": "https://start.trainual.com/nn7g1qwtr0cd"},
-  {"name": "Beautiful.ai", "category": "Operations & Workflow", "domain": "beautiful.ai", "desc": "Presentation automation with smart design logic. Build professional client decks in minutes without struggling with formatting.", "link": "https://beautifulai.partnerlinks.io/7s7xjgpea39q"},
-  {"name": "Gamma", "category": "Operations & Workflow", "domain": "gamma.app", "desc": "A new medium for presenting ideas. Generate beautiful, interactive documents, decks, and webpages instantly with AI.", "link": "https://try.gamma.app/cw0to3pyxe7t"},
-  {"name": "Databox", "category": "Operations & Workflow", "domain": "databox.com", "desc": "Centralized KPI dashboards. Pull data from all your software tools into one clean interface to monitor your business health.", "link": "https://join.databox.com/2re8xsf55qj4"},
-  {"name": "Tradify", "category": "Operations & Workflow", "domain": "tradifyhq.com", "desc": "Specialized job management software for trade businesses. Handle quoting, scheduling, and invoicing from the field.", "link": "https://partners.tradifyhq.com/633b6rwbm23b"},
-  {"name": "Reclaim.ai", "category": "Operations & Workflow", "domain": "reclaim.ai", "desc": "Smart calendar automation. Protect your deep work, auto-schedule habits, and defend your time against constant meeting requests.", "link": "https://go.reclaim.ai/puu4y5wv8xfj"},
-  {"name": "VEA", "category": "Operations & Workflow", "domain": "vea.ai", "desc": "Custom AI workflow automation for enterprise. Streamline repetitive tasks and connect your disparate software systems.", "link": "https://get.vea.ai/2bxekg1t5ec9"},
-  {"name": "SaneBox", "category": "Operations & Workflow", "domain": "sanebox.com", "desc": "Intelligent email triage. SaneBox uses AI to silently filter out the noise, so you only see the emails that actually matter.", "link": "https://try.sanebox.com/7wul6weu1xvd"},
-  {"name": "Assembly", "category": "Operations & Workflow", "domain": "joinassembly.com", "desc": "A digital HQ for team engagement. Automate internal workflows, recognize employee achievements, and run daily standups.", "link": "https://try.assembly.com/dfgq60cnkuu3"},
-  {"name": "Increff", "category": "Operations & Workflow", "domain": "increff.com", "desc": "Enterprise omnichannel inventory and supply chain management. Optimize your merchandising with intelligent algorithms.", "link": "https://partners.increff.com/qaohl2x2de5c"},
-  {"name": "QuillBot", "category": "Operations & Workflow", "domain": "quillbot.com", "desc": "Advanced AI writing assistant. Instantly paraphrase, summarize, and refine your business communications for maximum clarity.", "link": "https://try.quillbot.com/1kodsf2wz3o2"},
-  {"name": "Lindy.ai", "category": "Operations & Workflow", "domain": "lindy.ai", "desc": "Build and deploy autonomous AI employees. Delegate your repetitive administrative tasks to an agent that connects to all your tools.", "link": "https://try.lindy.ai/04841byjd5bi"},
-  {"name": "Typewise", "category": "Operations & Workflow", "domain": "typewise.app", "desc": "Enterprise AI text prediction and ticket resolution for customer support teams. Drastically reduce handle times and manual typing.", "link": "https://partner.typewise.app/gi20pkpo8bcd"},
-  {"name": "Turbotic", "category": "Operations & Workflow", "domain": "turbotic.com", "desc": "Enterprise automation orchestration. Manage your entire ecosystem of RPA, AI, and scripts from a single control tower.", "link": "https://try.turbotic.com/9bsnqewlv0qm"},
-  {"name": "Pangram", "category": "Operations & Workflow", "domain": "pangram.com", "desc": "Advanced operational workflow optimization to help large teams map out and execute their daily processes efficiently.", "link": "https://affiliate.pangram.com/x1xctagyhhbz"},
-  {"name": "Synthesia", "category": "Operations & Workflow", "domain": "synthesia.io", "desc": "Create studio-quality AI videos in minutes. 150+ realistic avatars, 120+ languages, no camera or studio needed. Trusted by half the Fortune 100.", "link": "https://www.synthesia.io/?via=daniel-haket"},
-  {"name": "InVideo", "category": "Operations & Workflow", "domain": "invideo.io", "desc": "Type a prompt, get a publish-ready video. AI scriptwriter, voiceovers and 5,000+ smart templates for marketing teams that ship fast.", "link": "https://invideo.sjv.io/E00nbn"},
-  {"name": "Murf", "category": "Operations & Workflow", "domain": "murf.ai", "desc": "Enterprise-grade AI voice generator. 200+ natural voices in 20+ languages for voiceovers, podcasts, presentations and YouTube content.", "link": "https://murf.ai/?pscd=get.murf.ai&ps_partner_key=ZmJhZWMxNDQ1M2U3&ps_xid=ucwOJU0WnZj8HA&gsxid=ucwOJU0WnZj8HA&gspk=ZmJhZWMxNDQ1M2U3"},
-  {"name": "Jotform AI Agents", "category": "Operations & Workflow", "domain": "jotform.com", "desc": "Build AI chatbots and customer-service agents in minutes — no code required. Handles leads, support tickets and bookings 24/7. Integrates with your existing forms and CRMs.", "link": "https://www.jotform.com/ai/agents/?partner=aibuildermarketplace"},
-  {"name": "CloudTalk", "category": "Communication & Voice", "domain": "cloudtalk.io", "desc": "Next-generation cloud calling system designed for modern support and sales teams. Includes smart routing and CRM integrations.", "link": "https://get.cloudtalk.io/750eho0hrkyk"},
-  {"name": "Calilio", "category": "Communication & Voice", "domain": "calilio.com", "desc": "Modern, reliable business VoIP communications. Set up clear, automated phone menus and virtual numbers in minutes.", "link": "https://try.calilio.com/ntqjzss06d92"},
-  {"name": "KrispCall", "category": "Communication & Voice", "domain": "krispcall.com", "desc": "Unified cloud telephony platform. Manage virtual numbers across 100+ countries and automate bulk SMS campaigns seamlessly.", "link": "https://try.krispcall.com/oxhjrkcubhma"},
-  {"name": "Hume AI", "category": "Communication & Voice", "domain": "hume.ai", "desc": "Empathic voice intelligence APIs. Build conversational interfaces that actually understand and react to human emotional cues.", "link": "https://try.hume.ai/iah71sw9lwr1"},
-  {"name": "Vida AI", "category": "Communication & Voice", "domain": "vida.io", "desc": "Deploy autonomous frontline voice agents. Let AI answer calls, book appointments, and handle FAQs 24/7 without sounding robotic.", "link": "https://try.vida.io/tao3fvpm3wby"},
-  {"name": "CometChat", "category": "Communication & Voice", "domain": "cometchat.com", "desc": "In-app text, voice, and video chat infrastructure. Easily embed secure, scalable communication features directly into your own software.", "link": "https://try.cometchat.com/155dumgioc1q"},
-  {"name": "MindStudio", "category": "IT & Productivity", "domain": "mindstudio.ai", "desc": "The premier no-code AI agent builder. Visually map out and deploy complex AI workflows and custom web apps in minutes.", "link": "https://get.mindstudio.ai/sw4f21ihy5xi"},
-  {"name": "Consensus", "category": "IT & Productivity", "domain": "consensus.app", "desc": "An AI search engine trained purely on peer-reviewed scientific research. The ultimate tool to avoid AI hallucinations.", "link": "https://get.consensus.app/jmzj2dn2d901"},
-  {"name": "Proton Drive", "category": "IT & Productivity", "domain": "proton.me", "desc": "Swiss-based, end-to-end encrypted cloud storage. Protect your sensitive business documents from surveillance and AI data mining.", "link": "https://now.getproton.me/xtd5ynchlrma"},
-  {"name": "IDrive", "category": "IT & Productivity", "domain": "idrive.com", "desc": "Automated disaster recovery and cloud backup. Securely mirror unlimited devices to the cloud to protect against ransomware.", "link": "https://partners.idrive.com/qrvz8k6i2arr"},
-  {"name": "RunPod", "category": "IT & Productivity", "domain": "runpod.io", "desc": "Serverless GPU compute platform. Rent high-end NVIDIA GPUs by the hour to train and deploy your own machine learning models.", "link": "https://get.runpod.io/dai55gii8gxb"},
-  {"name": "Bitdefender", "category": "IT & Productivity", "domain": "bitdefender.com", "desc": "Enterprise-grade cybersecurity and endpoint protection. Keep your company network safe from malware and advanced threats.", "link": "https://get.bitdefender.com/s1cknsqsf3d1"},
-  {"name": "Browse.ai", "category": "IT & Productivity", "domain": "browse.ai", "desc": "No-code web scraping and data extraction. Turn any website into an automated data pipeline or spreadsheet automatically.", "link": "https://partners.browse.ai/2p19q7ssljpk"},
-  {"name": "Plesk", "category": "IT & Productivity", "domain": "plesk.com", "desc": "The leading WebOps hosting and server management control panel. Securely manage your web infrastructure and applications.", "link": "https://try.plesk.com/bhj2s1yu28h0"},
-  {"name": "Emergent", "category": "IT & Productivity", "domain": "emergent.sh", "desc": "Advanced IT infrastructure monitoring and management platform to ensure maximum uptime for critical systems.", "link": "https://get.emergent.sh/0c8xb55q18c0"},
-  {"name": "Airia", "category": "IT & Productivity", "domain": "airia.com", "desc": "Data intelligence and cloud security solutions to protect sensitive enterprise workloads and maintain strict compliance.", "link": "https://try.airia.com/63zm3k6oocba"},
-  {"name": "Expertise AI", "category": "IT & Productivity", "domain": "expertise.ai", "desc": "Specialized niche AI modeling and knowledge extraction tools for technical and professional services.", "link": "https://expertiseai.partnerlinks.io/e2k8ggh9klcg"},
-  {"name": "Ngram", "category": "IT & Productivity", "domain": "ngram.com", "desc": "Advanced analytics and data architecture platform. Uncover deep insights and trends hidden within your company data.", "link": "https://partner.ngram.com/32s9nqdqy7lr"},
-  {"name": "Replit", "category": "IT & Productivity", "domain": "replit.com", "desc": "Build, deploy and scale software with AI as your co-pilot. Cloud IDE, instant deployments and Replit Agent that ships features for you.", "link": "https://replit.com/signup?referral=dglhaket"},
-  {"name": "NordVPN", "category": "IT & Productivity", "domain": "nordvpn.com", "desc": "Secure VPN with threat protection for business & remote teams", "link": "https://refer-nordvpn.com/rCEQOtjfEJX"},
-  {"name": "Hostinger", "category": "IT & Productivity", "domain": "hostinger.com", "desc": "Affordable, fast hosting with an AI website builder built in. Free domain, free SSL and 24/7 support — perfect for founders launching their first MVP or side project.", "link": "https://www.hostinger.com?REFERRALCODE=UZUDGLHAKW67"},
-  {"name": "ChemiCloud", "category": "IT & Productivity", "domain": "chemicloud.com", "desc": "Lightning-fast cloud hosting with free migrations, daily backups, and 24/7 expert support. Perfect balance of performance and affordability for growing businesses.", "link": "https://chemicloud.com/#h09q7aez7gtgm"},
-  {"name": "Kinsta", "category": "IT & Productivity", "domain": "kinsta.com", "desc": "Managed WordPress hosting on Google Cloud's premium tier. Sub-300ms load times, free migrations and 24/7 expert support. The hosting agencies actually recommend.", "link": "https://kinsta.com/?kaid=EKSCJEFWBYJO"},
-  {"name": "WP Rocket", "category": "IT & Productivity", "domain": "wp-rocket.me", "desc": "The most powerful WordPress caching plugin. Boost site speed by 300%+ with one-click optimization, lazy loading and CDN integration.", "link": "https://www.awin1.com/cread.php?awinmid=52401&awinaffid=2880219&ued=https%3A%2F%2Faibuildermarketplace.com"},
-  {"name": "Aircall", "category": "Communication & Voice", "domain": "aircall.io", "desc": "Cloud phone and call-center platform for sales and support teams. Smart call routing, CRM integrations and AI call insights — set up business numbers in 100+ countries in minutes.", "link": "https://get.aircall.io/1sd4xwyb9qws"}
+  {
+    "name": "Payoneer",
+    "category": "Financial Operations",
+    "domain": "payoneer.com",
+    "desc": "Global payment solutions and cross-border billing. Easily receive funds from international clients and marketplaces with low fees.",
+    "link": "https://payoneer557.partnerlinks.io/whpnqt92bm0j"
+  },
+  {
+    "name": "Bill.com",
+    "category": "Financial Operations",
+    "domain": "bill.com",
+    "desc": "Intelligent accounts payable and receivable automation. Streamline your financial workflows and get paid faster with minimal manual entry.",
+    "link": "https://referral.bill.com/d69gftudjro5"
+  },
+  {
+    "name": "Tax1099",
+    "category": "Financial Operations",
+    "domain": "tax1099.com",
+    "desc": "Secure, automated tax form e-filing for businesses and accountants. Manage 1099s, W-2s, and compliance smoothly.",
+    "link": "https://get.tax1099.com/0ivysaedzf4n"
+  },
+  {
+    "name": "Flippa",
+    "category": "Financial Operations",
+    "domain": "flippa.com",
+    "desc": "The world's #1 marketplace to buy and sell online businesses, SaaS, apps, and domains. Turn your digital assets into liquid capital.",
+    "link": "https://referral.flippa.com/423fnj9u9lh5"
+  },
+  {
+    "name": "Credit Repair Cloud",
+    "category": "Financial Operations",
+    "domain": "creditrepaircloud.com",
+    "desc": "The leading software to start, run, and grow a highly profitable credit repair business from anywhere in the world.",
+    "link": "https://get.creditrepaircloud.com/rzjqacc3xbwo"
+  },
+  {
+    "name": "Bitvavo",
+    "category": "Financial Operations",
+    "domain": "bitvavo.com",
+    "desc": "Europe's leading crypto exchange. 350+ assets, low fees, Dutch-regulated and a clean UX for both beginners and pros. Sign up via our link for €10K fee-free.",
+    "link": "https://account.bitvavo.com/create?a=68DCE39715&pid=invite&c=referral&af_adset=68DCE39715&deep_link_value=bitvavo%3A%2F%2Fcreate%3Fa%3D68DCE39715"
+  },
+  {
+    "name": "Bybit",
+    "category": "Financial Operations",
+    "domain": "bybit.com",
+    "desc": "Trade crypto with deep liquidity — derivatives, spot and EU-compliant infrastructure.",
+    "link": "https://www.bybit.eu/invite?ref=43R9RJE"
+  },
+  {
+    "name": "ActiveCampaign",
+    "category": "Growth & Revenue",
+    "domain": "activecampaign.com",
+    "desc": "Advanced marketing automation, email marketing, and CRM. Build complex, automated customer journeys that drive real revenue.",
+    "link": "https://www.activecampaign.com/"
+  },
+  {
+    "name": "Close",
+    "category": "Growth & Revenue",
+    "domain": "close.com",
+    "desc": "A high-performance sales CRM built for growth-focused startups and SMBs. Unifies calling, emailing, and SMS into one powerful inbox.",
+    "link": "https://refer.close.com/8sqpd69pa18l"
+  },
+  {
+    "name": "Vista Social",
+    "category": "Growth & Revenue",
+    "domain": "vistasocial.com",
+    "desc": "Unified social media management and publishing. Schedule posts, manage conversations, and track analytics across all your brand accounts.",
+    "link": "https://join.vistasocial.com/3gvz9j8tfhuo"
+  },
+  {
+    "name": "Reply.io",
+    "category": "Growth & Revenue",
+    "domain": "reply.io",
+    "desc": "AI-driven sales engagement platform. Automate your cold outreach across email, LinkedIn, and calls while keeping the human touch.",
+    "link": "https://get.reply.io/l5ko4nvevkas"
+  },
+  {
+    "name": "Alidrop",
+    "category": "Growth & Revenue",
+    "domain": "alidrop.co",
+    "desc": "End-to-end dropshipping automation for e-commerce entrepreneurs. Streamline product sourcing, fulfillment, and inventory management.",
+    "link": "https://get.alidrop.co/uwv5ldbg7zss"
+  },
+  {
+    "name": "Smartli",
+    "category": "Growth & Revenue",
+    "domain": "smartli.com",
+    "desc": "AI content generation specifically tuned for e-commerce. Automatically write high-converting product listings and ad copy.",
+    "link": "https://smartli.partnerlinks.io/qz3fmukd575c"
+  },
+  {
+    "name": "Logome.ai",
+    "category": "Growth & Revenue",
+    "domain": "logome.ai",
+    "desc": "Instant AI brand and logo generation. Create professional, cohesive brand identities for your new projects in a matter of seconds.",
+    "link": "https://logomeai.partnerlinks.io/b7op64h8prya"
+  },
+  {
+    "name": "AISDR",
+    "category": "Growth & Revenue",
+    "domain": "aisdr.com",
+    "desc": "Deploy an autonomous AI Sales Development Rep. It qualifies leads, books meetings, and handles initial outreach conversations 24/7.",
+    "link": "https://partner.aisdr.com/jnghghgobfl4"
+  },
+  {
+    "name": "ElevateForward",
+    "category": "Growth & Revenue",
+    "domain": "elevateforward.ai",
+    "desc": "Strategic growth and marketing tools designed to help scaling companies optimize their funnels and maximize conversion rates.",
+    "link": "https://partners.elevateforward.ai/clwv8r6l4xj5"
+  },
+  {
+    "name": "Success.co",
+    "category": "Growth & Revenue",
+    "domain": "success.co",
+    "desc": "A comprehensive customer success and retention platform. Monitor client health scores and automate your onboarding flows.",
+    "link": "https://try.success.co/h478dlerxkga"
+  },
+  {
+    "name": "GetResponse",
+    "category": "Growth & Revenue",
+    "domain": "getresponse.com",
+    "desc": "Powerful inbound marketing software combining email automation, landing pages, webinars, and conversion funnels.",
+    "link": "https://try.getresponsetoday.com/8c0sqba28nwf"
+  },
+  {
+    "name": "Campaign Monitor",
+    "category": "Growth & Revenue",
+    "domain": "campaignmonitor.com",
+    "desc": "Premium email marketing tailored for agencies and scaling teams. Delivers stunning templates and reliable deliverability.",
+    "link": "https://partners.campaignmonitor.com/v66v483h4lfy"
+  },
+  {
+    "name": "Amplemarket",
+    "category": "Growth & Revenue",
+    "domain": "amplemarket.com",
+    "desc": "An all-in-one AI-powered sales platform. Discover leads, personalize outreach, and close deals faster with intelligent workflows.",
+    "link": "https://grow.amplemarket.com/ddkfb65s7t1r"
+  },
+  {
+    "name": "Omniseo",
+    "category": "Growth & Revenue",
+    "domain": "omniseo.com",
+    "desc": "Programmatic SEO automation infrastructure. Scale your organic search presence by generating thousands of optimized landing pages.",
+    "link": "https://get.omniseo.com/yy2uzt37r491"
+  },
+  {
+    "name": "Seamless.ai",
+    "category": "Growth & Revenue",
+    "domain": "seamless.ai",
+    "desc": "A massive B2B contact database and lead generation engine. Find verified emails and direct dials for your ideal prospects instantly.",
+    "link": "https://get.seamless.ai/gleubirgjgj8"
+  },
+  {
+    "name": "Unbounce",
+    "category": "Growth & Revenue",
+    "domain": "unbounce.com",
+    "desc": "The premier AI-powered landing page builder. Create high-converting campaigns with intelligent copy generation and A/B testing.",
+    "link": "https://unbounce.partnerlinks.io/ag7tbkfddk5n"
+  },
+  {
+    "name": "Iconosquare",
+    "category": "Growth & Revenue",
+    "domain": "iconosquare.com",
+    "desc": "Deep social media analytics and reporting for agencies and brands. Track performance, schedule content, and monitor competitors.",
+    "link": "https://try.iconosquare.com/jafoipypg7xb"
+  },
+  {
+    "name": "Adwisely",
+    "category": "Growth & Revenue",
+    "domain": "adwisely.com",
+    "desc": "Automated ad campaigns specifically built for e-commerce. Drive retargeting and prospecting across Google and Meta seamlessly.",
+    "link": "https://get.adwisely.com/lahunz19q93e"
+  },
+  {
+    "name": "AdCreative.ai",
+    "category": "Growth & Revenue",
+    "domain": "adcreative.ai",
+    "desc": "Generate conversion-focused ad creatives and banners using AI. Drastically reduce design time while boosting CTR.",
+    "link": "https://free-trial.adcreative.ai/9rbtqowzgwy2"
+  },
+  {
+    "name": "Landingi",
+    "category": "Growth & Revenue",
+    "domain": "landingi.com",
+    "desc": "An intuitive, end-to-end landing page platform. Build, publish, and optimize your marketing campaigns without touching code.",
+    "link": "https://try.landingi.com/hsaaq00kz6qg"
+  },
+  {
+    "name": "AISQ",
+    "category": "Growth & Revenue",
+    "domain": "aisq.com",
+    "desc": "An autonomous marketing execution engine. Consolidates SEO, content distribution, and strategy into one automated workflow.",
+    "link": "https://try.aisq.com/oftwfsjuajyw"
+  },
+  {
+    "name": "ManyChat",
+    "category": "Growth & Revenue",
+    "domain": "manychat.com",
+    "desc": "Industry-leading chat marketing automation. Build engaging bot funnels for Instagram, Facebook Messenger, and SMS.",
+    "link": "https://manychat.partnerlinks.io/fytpn81je1y4"
+  },
+  {
+    "name": "Printify",
+    "category": "Growth & Revenue",
+    "domain": "printify.com",
+    "desc": "Global print-on-demand network. Create custom products and automate your e-commerce fulfillment without holding inventory.",
+    "link": "https://try.printify.com/nnjq3xkyctsk"
+  },
+  {
+    "name": "Frase",
+    "category": "Growth & Revenue",
+    "domain": "frase.io",
+    "desc": "AI-powered SEO content writing and optimization. Research, outline, write, and optimize articles that rank — all in one place.",
+    "link": "https://www.frase.io/?utm_source=firstpromoter&utm_medium=affiliate&utm_campaign=affiliate_program&via=daniel46"
+  },
+  {
+    "name": "Clay",
+    "category": "Growth & Revenue",
+    "domain": "clay.com",
+    "desc": "AI-powered prospecting and outbound. Enrich leads from 75+ data sources and personalize at scale with GPT-driven copy that actually books meetings.",
+    "link": "https://clay.com"
+  },
+  {
+    "name": "Rank Math",
+    "category": "Growth & Revenue",
+    "domain": "rankmath.com",
+    "desc": "The most powerful WordPress SEO plugin. Advanced schema, AI content insights, rank tracking and on-page optimization that actually moves rankings.",
+    "link": "https://rankmath.com/?ref=daanhaket"
+  },
+  {
+    "name": "Atria",
+    "category": "Growth & Revenue",
+    "domain": "tryatria.com",
+    "desc": "Generate winning ad creative and research competitor campaigns across Meta and TikTok — built for performance marketers.",
+    "link": "https://affiliates.tryatria.com/i0fy7orc6mte"
+  },
+  {
+    "name": "Beehiiv",
+    "category": "Growth & Revenue",
+    "domain": "beehiiv.com",
+    "desc": "The newsletter platform built for growth. Advanced analytics, monetization tools, and seamless integrations. Scale from 0 to millions of subscribers like Morning Brew.",
+    "link": "https://www.beehiiv.com/?via=daan-haket"
+  },
+  {
+    "name": "ClickUp",
+    "category": "Operations & Workflow",
+    "domain": "clickup.com",
+    "desc": "The 'everything app' for project and work management. Centralize your tasks, docs, sprints, and team communication in one hub.",
+    "link": "https://try.web.clickup.com/1fuixmntw4bz"
+  },
+  {
+    "name": "Trainual",
+    "category": "Operations & Workflow",
+    "domain": "trainual.com",
+    "desc": "The ultimate playbook for your business. Centralize your Standard Operating Procedures (SOPs) and automate team onboarding.",
+    "link": "https://start.trainual.com/nn7g1qwtr0cd"
+  },
+  {
+    "name": "Beautiful.ai",
+    "category": "Operations & Workflow",
+    "domain": "beautiful.ai",
+    "desc": "Presentation automation with smart design logic. Build professional client decks in minutes without struggling with formatting.",
+    "link": "https://beautifulai.partnerlinks.io/7s7xjgpea39q"
+  },
+  {
+    "name": "Gamma",
+    "category": "Operations & Workflow",
+    "domain": "gamma.app",
+    "desc": "A new medium for presenting ideas. Generate beautiful, interactive documents, decks, and webpages instantly with AI.",
+    "link": "https://try.gamma.app/cw0to3pyxe7t"
+  },
+  {
+    "name": "Databox",
+    "category": "Operations & Workflow",
+    "domain": "databox.com",
+    "desc": "Centralized KPI dashboards. Pull data from all your software tools into one clean interface to monitor your business health.",
+    "link": "https://join.databox.com/2re8xsf55qj4"
+  },
+  {
+    "name": "Tradify",
+    "category": "Operations & Workflow",
+    "domain": "tradifyhq.com",
+    "desc": "Specialized job management software for trade businesses. Handle quoting, scheduling, and invoicing from the field.",
+    "link": "https://partners.tradifyhq.com/633b6rwbm23b"
+  },
+  {
+    "name": "Reclaim.ai",
+    "category": "Operations & Workflow",
+    "domain": "reclaim.ai",
+    "desc": "Smart calendar automation. Protect your deep work, auto-schedule habits, and defend your time against constant meeting requests.",
+    "link": "https://go.reclaim.ai/puu4y5wv8xfj"
+  },
+  {
+    "name": "VEA",
+    "category": "Operations & Workflow",
+    "domain": "vea.ai",
+    "desc": "Custom AI workflow automation for enterprise. Streamline repetitive tasks and connect your disparate software systems.",
+    "link": "https://get.vea.ai/2bxekg1t5ec9"
+  },
+  {
+    "name": "SaneBox",
+    "category": "Operations & Workflow",
+    "domain": "sanebox.com",
+    "desc": "Intelligent email triage. SaneBox uses AI to silently filter out the noise, so you only see the emails that actually matter.",
+    "link": "https://try.sanebox.com/7wul6weu1xvd"
+  },
+  {
+    "name": "Assembly",
+    "category": "Operations & Workflow",
+    "domain": "joinassembly.com",
+    "desc": "A digital HQ for team engagement. Automate internal workflows, recognize employee achievements, and run daily standups.",
+    "link": "https://try.assembly.com/dfgq60cnkuu3"
+  },
+  {
+    "name": "Increff",
+    "category": "Operations & Workflow",
+    "domain": "increff.com",
+    "desc": "Enterprise omnichannel inventory and supply chain management. Optimize your merchandising with intelligent algorithms.",
+    "link": "https://partners.increff.com/qaohl2x2de5c"
+  },
+  {
+    "name": "QuillBot",
+    "category": "Operations & Workflow",
+    "domain": "quillbot.com",
+    "desc": "Advanced AI writing assistant. Instantly paraphrase, summarize, and refine your business communications for maximum clarity.",
+    "link": "https://try.quillbot.com/1kodsf2wz3o2"
+  },
+  {
+    "name": "Lindy.ai",
+    "category": "Operations & Workflow",
+    "domain": "lindy.ai",
+    "desc": "Build and deploy autonomous AI employees. Delegate your repetitive administrative tasks to an agent that connects to all your tools.",
+    "link": "https://try.lindy.ai/04841byjd5bi"
+  },
+  {
+    "name": "Typewise",
+    "category": "Operations & Workflow",
+    "domain": "typewise.app",
+    "desc": "Enterprise AI text prediction and ticket resolution for customer support teams. Drastically reduce handle times and manual typing.",
+    "link": "https://partner.typewise.app/gi20pkpo8bcd"
+  },
+  {
+    "name": "Turbotic",
+    "category": "Operations & Workflow",
+    "domain": "turbotic.com",
+    "desc": "Enterprise automation orchestration. Manage your entire ecosystem of RPA, AI, and scripts from a single control tower.",
+    "link": "https://try.turbotic.com/9bsnqewlv0qm"
+  },
+  {
+    "name": "Pangram",
+    "category": "Operations & Workflow",
+    "domain": "pangram.com",
+    "desc": "Advanced operational workflow optimization to help large teams map out and execute their daily processes efficiently.",
+    "link": "https://affiliate.pangram.com/x1xctagyhhbz"
+  },
+  {
+    "name": "Synthesia",
+    "category": "Operations & Workflow",
+    "domain": "synthesia.io",
+    "desc": "Create studio-quality AI videos in minutes. 150+ realistic avatars, 120+ languages, no camera or studio needed. Trusted by half the Fortune 100.",
+    "link": "https://www.synthesia.io/?via=daniel-haket"
+  },
+  {
+    "name": "InVideo",
+    "category": "Operations & Workflow",
+    "domain": "invideo.io",
+    "desc": "Type a prompt, get a publish-ready video. AI scriptwriter, voiceovers and 5,000+ smart templates for marketing teams that ship fast.",
+    "link": "https://invideo.sjv.io/E00nbn"
+  },
+  {
+    "name": "Murf",
+    "category": "Operations & Workflow",
+    "domain": "murf.ai",
+    "desc": "Enterprise-grade AI voice generator. 200+ natural voices in 20+ languages for voiceovers, podcasts, presentations and YouTube content.",
+    "link": "https://murf.ai/?pscd=get.murf.ai&ps_partner_key=ZmJhZWMxNDQ1M2U3&ps_xid=ucwOJU0WnZj8HA&gsxid=ucwOJU0WnZj8HA&gspk=ZmJhZWMxNDQ1M2U3"
+  },
+  {
+    "name": "Jotform AI Agents",
+    "category": "Operations & Workflow",
+    "domain": "jotform.com",
+    "desc": "Build AI chatbots and customer-service agents in minutes — no code required. Handles leads, support tickets and bookings 24/7. Integrates with your existing forms and CRMs.",
+    "link": "https://www.jotform.com/ai/agents/?partner=aibuildermarketplace"
+  },
+  {
+    "name": "CloudTalk",
+    "category": "Communication & Voice",
+    "domain": "cloudtalk.io",
+    "desc": "Next-generation cloud calling system designed for modern support and sales teams. Includes smart routing and CRM integrations.",
+    "link": "https://get.cloudtalk.io/750eho0hrkyk"
+  },
+  {
+    "name": "Calilio",
+    "category": "Communication & Voice",
+    "domain": "calilio.com",
+    "desc": "Modern, reliable business VoIP communications. Set up clear, automated phone menus and virtual numbers in minutes.",
+    "link": "https://try.calilio.com/ntqjzss06d92"
+  },
+  {
+    "name": "KrispCall",
+    "category": "Communication & Voice",
+    "domain": "krispcall.com",
+    "desc": "Unified cloud telephony platform. Manage virtual numbers across 100+ countries and automate bulk SMS campaigns seamlessly.",
+    "link": "https://try.krispcall.com/oxhjrkcubhma"
+  },
+  {
+    "name": "Hume AI",
+    "category": "Communication & Voice",
+    "domain": "hume.ai",
+    "desc": "Empathic voice intelligence APIs. Build conversational interfaces that actually understand and react to human emotional cues.",
+    "link": "https://try.hume.ai/iah71sw9lwr1"
+  },
+  {
+    "name": "Vida AI",
+    "category": "Communication & Voice",
+    "domain": "vida.io",
+    "desc": "Deploy autonomous frontline voice agents. Let AI answer calls, book appointments, and handle FAQs 24/7 without sounding robotic.",
+    "link": "https://try.vida.io/tao3fvpm3wby"
+  },
+  {
+    "name": "CometChat",
+    "category": "Communication & Voice",
+    "domain": "cometchat.com",
+    "desc": "In-app text, voice, and video chat infrastructure. Easily embed secure, scalable communication features directly into your own software.",
+    "link": "https://try.cometchat.com/155dumgioc1q"
+  },
+  {
+    "name": "MindStudio",
+    "category": "IT & Productivity",
+    "domain": "mindstudio.ai",
+    "desc": "The premier no-code AI agent builder. Visually map out and deploy complex AI workflows and custom web apps in minutes.",
+    "link": "https://get.mindstudio.ai/sw4f21ihy5xi"
+  },
+  {
+    "name": "Consensus",
+    "category": "IT & Productivity",
+    "domain": "consensus.app",
+    "desc": "An AI search engine trained purely on peer-reviewed scientific research. The ultimate tool to avoid AI hallucinations.",
+    "link": "https://get.consensus.app/jmzj2dn2d901"
+  },
+  {
+    "name": "Proton Drive",
+    "category": "IT & Productivity",
+    "domain": "proton.me",
+    "desc": "Swiss-based, end-to-end encrypted cloud storage. Protect your sensitive business documents from surveillance and AI data mining.",
+    "link": "https://now.getproton.me/xtd5ynchlrma"
+  },
+  {
+    "name": "IDrive",
+    "category": "IT & Productivity",
+    "domain": "idrive.com",
+    "desc": "Automated disaster recovery and cloud backup. Securely mirror unlimited devices to the cloud to protect against ransomware.",
+    "link": "https://partners.idrive.com/qrvz8k6i2arr"
+  },
+  {
+    "name": "RunPod",
+    "category": "IT & Productivity",
+    "domain": "runpod.io",
+    "desc": "Serverless GPU compute platform. Rent high-end NVIDIA GPUs by the hour to train and deploy your own machine learning models.",
+    "link": "https://get.runpod.io/dai55gii8gxb"
+  },
+  {
+    "name": "Bitdefender",
+    "category": "IT & Productivity",
+    "domain": "bitdefender.com",
+    "desc": "Enterprise-grade cybersecurity and endpoint protection. Keep your company network safe from malware and advanced threats.",
+    "link": "https://get.bitdefender.com/s1cknsqsf3d1"
+  },
+  {
+    "name": "Browse.ai",
+    "category": "IT & Productivity",
+    "domain": "browse.ai",
+    "desc": "No-code web scraping and data extraction. Turn any website into an automated data pipeline or spreadsheet automatically.",
+    "link": "https://partners.browse.ai/2p19q7ssljpk"
+  },
+  {
+    "name": "Plesk",
+    "category": "IT & Productivity",
+    "domain": "plesk.com",
+    "desc": "The leading WebOps hosting and server management control panel. Securely manage your web infrastructure and applications.",
+    "link": "https://try.plesk.com/bhj2s1yu28h0"
+  },
+  {
+    "name": "Emergent",
+    "category": "IT & Productivity",
+    "domain": "emergent.sh",
+    "desc": "Advanced IT infrastructure monitoring and management platform to ensure maximum uptime for critical systems.",
+    "link": "https://get.emergent.sh/0c8xb55q18c0"
+  },
+  {
+    "name": "Airia",
+    "category": "IT & Productivity",
+    "domain": "airia.com",
+    "desc": "Data intelligence and cloud security solutions to protect sensitive enterprise workloads and maintain strict compliance.",
+    "link": "https://try.airia.com/63zm3k6oocba"
+  },
+  {
+    "name": "Expertise AI",
+    "category": "IT & Productivity",
+    "domain": "expertise.ai",
+    "desc": "Specialized niche AI modeling and knowledge extraction tools for technical and professional services.",
+    "link": "https://expertiseai.partnerlinks.io/e2k8ggh9klcg"
+  },
+  {
+    "name": "Ngram",
+    "category": "IT & Productivity",
+    "domain": "ngram.com",
+    "desc": "Advanced analytics and data architecture platform. Uncover deep insights and trends hidden within your company data.",
+    "link": "https://partner.ngram.com/32s9nqdqy7lr"
+  },
+  {
+    "name": "Replit",
+    "category": "IT & Productivity",
+    "domain": "replit.com",
+    "desc": "Build, deploy and scale software with AI as your co-pilot. Cloud IDE, instant deployments and Replit Agent that ships features for you.",
+    "link": "https://replit.com/signup?referral=dglhaket"
+  },
+  {
+    "name": "NordVPN",
+    "category": "IT & Productivity",
+    "domain": "nordvpn.com",
+    "desc": "Secure VPN with threat protection for business & remote teams",
+    "link": "https://refer-nordvpn.com/rCEQOtjfEJX"
+  },
+  {
+    "name": "Hostinger",
+    "category": "IT & Productivity",
+    "domain": "hostinger.com",
+    "desc": "Affordable, fast hosting with an AI website builder built in. Free domain, free SSL and 24/7 support — perfect for founders launching their first MVP or side project.",
+    "link": "https://www.hostinger.com?REFERRALCODE=UZUDGLHAKW67"
+  },
+  {
+    "name": "ChemiCloud",
+    "category": "IT & Productivity",
+    "domain": "chemicloud.com",
+    "desc": "Lightning-fast cloud hosting with free migrations, daily backups, and 24/7 expert support. Perfect balance of performance and affordability for growing businesses.",
+    "link": "https://chemicloud.com/#h09q7aez7gtgm"
+  },
+  {
+    "name": "Kinsta",
+    "category": "IT & Productivity",
+    "domain": "kinsta.com",
+    "desc": "Managed WordPress hosting on Google Cloud's premium tier. Sub-300ms load times, free migrations and 24/7 expert support. The hosting agencies actually recommend.",
+    "link": "https://kinsta.com/?kaid=EKSCJEFWBYJO"
+  },
+  {
+    "name": "WP Rocket",
+    "category": "IT & Productivity",
+    "domain": "wp-rocket.me",
+    "desc": "The most powerful WordPress caching plugin. Boost site speed by 300%+ with one-click optimization, lazy loading and CDN integration.",
+    "link": "https://www.awin1.com/cread.php?awinmid=52401&awinaffid=2880219&ued=https%3A%2F%2Faibuildermarketplace.com"
+  },
+  {
+    "name": "Aircall",
+    "category": "Communication & Voice",
+    "domain": "aircall.io",
+    "desc": "Cloud phone and call-center platform for sales and support teams. Smart call routing, CRM integrations and AI call insights — set up business numbers in 100+ countries in minutes.",
+    "link": "https://get.aircall.io/1sd4xwyb9qws"
+  },
+  {
+    "name": "Katana MRP",
+    "category": "Operations & Workflow",
+    "domain": "katanamrp.com",
+    "desc": "Cloud manufacturing and inventory platform for product businesses. Live inventory control, production scheduling and order syncing across your sales channels — know exactly what to make and when.",
+    "link": "https://psref.katanamrp.com/gn4sa2lpjjph"
+  },
+  {
+    "name": "Process Street",
+    "category": "Operations & Workflow",
+    "domain": "process.st",
+    "desc": "Turn your recurring work into simple, trackable checklists and SOPs. AI-powered workflows, approvals and conditional logic — so your team runs smoothly even when you're not in the room.",
+    "link": "https://get.process.st/hyrxoou4prfc"
+  },
+  {
+    "name": "Gusto",
+    "category": "Financial Operations",
+    "domain": "gusto.com",
+    "desc": "Payroll, benefits and HR in one friendly platform. Automated tax filings, employee onboarding and time tracking — run payroll for your whole team in just a few clicks.",
+    "link": "https://get.gusto.com/bz0jei7y1zzh"
+  },
+  {
+    "name": "Bright Data",
+    "category": "IT & Productivity",
+    "domain": "brightdata.com",
+    "desc": "The web data platform trusted by enterprises. Collect public web data at scale with proxies, ready-made datasets and scraping APIs — fuel for your market research and AI projects.",
+    "link": "https://get.brightdata.com/vnvncunqr9rj"
+  },
+  {
+    "name": "SmartSuite",
+    "category": "Operations & Workflow",
+    "domain": "smartsuite.com",
+    "desc": "One flexible work management platform to plan, track and automate any process. Projects, CRM and operations side by side — replace a stack of scattered tools with a single source of truth.",
+    "link": "https://partners.smartsuite.com/3o9qow98qlja"
+  },
+  {
+    "name": "Melio",
+    "category": "Financial Operations",
+    "domain": "meliopayments.com",
+    "desc": "Effortless B2B bill payments for small businesses. Pay vendors by bank transfer or card (even where cards aren't accepted), sync with your accounting tools and keep cash flow in your control.",
+    "link": "https://affiliates.meliopayments.com/3k7t5bt87uuu"
+  }
 ]
