@@ -53,7 +53,7 @@
     "category": "Growth & Revenue",
     "domain": "activecampaign.com",
     "desc": "Advanced marketing automation, email marketing, and CRM. Build complex, automated customer journeys that drive real revenue.",
-    "link": "https://www.activecampaign.com/"
+    "link": "https://try.activecampaign.com/h07gxhkcy8v7"
   },
   {
     "name": "Close",
@@ -663,5 +663,68 @@
     "domain": "callhippo.com",
     "desc": "AI-driven business phone system. Virtual numbers in 50+ countries, power dialer, call analytics and AI agents — set up your sales and support calling in minutes.",
     "link": "https://join.callhippo.com/acacgh9cnvo1"
+  },
+  {
+    "name": "Bokun",
+    "category": "Operations & Workflow",
+    "domain": "bokun.io",
+    "desc": "Booking management for tours and activities, by Tripadvisor. Manage availability, channel sales and online bookings in one place — built for experience businesses.",
+    "link": "https://join.bokun.io/krrda8zfzjxg"
+  },
+  {
+    "name": "Shiftie",
+    "category": "Operations & Workflow",
+    "domain": "shiftie.co",
+    "desc": "Online staff scheduling and team management. Build rotas in minutes, handle clock-ins, leave and shift swaps — scheduling without the spreadsheet headache.",
+    "link": "https://try.shiftie.co/vndu93lvag6m"
+  },
+  {
+    "name": "Marketing 360",
+    "category": "Growth & Revenue",
+    "domain": "marketing360.com",
+    "desc": "All-in-one marketing platform for small business. Websites, CRM, ads, email and reputation management under one roof — with real humans to help.",
+    "link": "https://marketing360.partnerlinks.io/6d40krecy1fg"
+  },
+  {
+    "name": "SignNow",
+    "category": "Operations & Workflow",
+    "domain": "signnow.com",
+    "desc": "Electronic signatures and custom eSignature workflows by airSlate. Send, sign and manage documents on any device — legally binding and team-friendly.",
+    "link": "https://partnerstack.signnow.com/gfoy0vr9uwnr"
+  },
+  {
+    "name": "Gravity Forms",
+    "category": "IT & Productivity",
+    "domain": "gravity.com",
+    "desc": "The gold standard in WordPress forms. Build advanced forms, surveys and workflows with conditional logic and hundreds of integrations.",
+    "link": "https://try.gravity.com/8odrg2wkes2d"
+  },
+  {
+    "name": "Goflow",
+    "category": "Operations & Workflow",
+    "domain": "goflow.com",
+    "desc": "Multichannel e-commerce operations: orders, inventory, listings and shipping across all your marketplaces in one dashboard.",
+    "link": "https://ps.goflow.com/50ln3o9ky3ie"
+  },
+  {
+    "name": "Readymode",
+    "category": "Communication & Voice",
+    "domain": "readymode.com",
+    "desc": "Outbound customer engagement platform with AI-powered dialing. Reach more contacts per hour with compliant, intelligent call campaigns.",
+    "link": "https://try.readymode.com/w9q86uhvjvzd"
+  },
+  {
+    "name": "Weave",
+    "category": "Communication & Voice",
+    "domain": "getweave.com",
+    "desc": "All-in-one communication platform for small practices: phone, texting, payments and reviews — front desk superpowers for healthcare and service businesses.",
+    "link": "https://partnerstack.getweave.com/6ofmdour3p3q"
+  },
+  {
+    "name": "Navan",
+    "category": "Financial Operations",
+    "domain": "navan.com",
+    "desc": "Business travel and expense management in one. Book trips, automate expense reports and control spend with real-time visibility.",
+    "link": "https://get.navan.com/onj1xewpcdit"
   }
 ]
