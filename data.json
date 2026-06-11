@@ -642,5 +642,26 @@
     "domain": "webcatalog.io",
     "desc": "Turn web apps into tidy desktop apps and manage multiple accounts side by side. Less tab chaos, more focus — your whole stack organized in one place.",
     "link": "https://try.webcatalog.io/powenno3ohno"
+  },
+  {
+    "name": "Livestorm",
+    "category": "Growth & Revenue",
+    "domain": "livestorm.com",
+    "desc": "All-in-one webinar and video engagement platform for marketing teams. Browser-based events, automated emails, polls and analytics — run professional webinars without the tech headaches.",
+    "link": "https://get.livestorm.co/cfc8vpp5fl59"
+  },
+  {
+    "name": "Volza",
+    "category": "Growth & Revenue",
+    "domain": "volza.com",
+    "desc": "Global export-import trade intelligence. Search real shipment data to find verified buyers, suppliers and market trends across 80+ countries — prospecting built on actual trade records.",
+    "link": "https://partner.volza.com/gfxywibpiht5"
+  },
+  {
+    "name": "CallHippo",
+    "category": "Communication & Voice",
+    "domain": "callhippo.com",
+    "desc": "AI-driven business phone system. Virtual numbers in 50+ countries, power dialer, call analytics and AI agents — set up your sales and support calling in minutes.",
+    "link": "https://join.callhippo.com/acacgh9cnvo1"
   }
 ]
