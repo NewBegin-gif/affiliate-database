@@ -600,5 +600,47 @@
     "domain": "meliopayments.com",
     "desc": "Effortless B2B bill payments for small businesses. Pay vendors by bank transfer or card (even where cards aren't accepted), sync with your accounting tools and keep cash flow in your control.",
     "link": "https://affiliates.meliopayments.com/3k7t5bt87uuu"
+  },
+  {
+    "name": "Quo",
+    "category": "Communication & Voice",
+    "domain": "quo.com",
+    "desc": "The business phone system formerly known as OpenPhone. Shared numbers, AI call summaries and a clean app — professional calling and texting for startups and small teams.",
+    "link": "https://get.quo.com/npur0vxl3w49"
+  },
+  {
+    "name": "Flocksy",
+    "category": "Growth & Revenue",
+    "domain": "flocksy.com",
+    "desc": "A dedicated creative team for one flat monthly fee. Unlimited graphic design, video editing, motion graphics and web design — your marketing never waits on a freelancer again.",
+    "link": "https://join.flocksy.com/gkm4cd2nj6km"
+  },
+  {
+    "name": "Shippo",
+    "category": "Operations & Workflow",
+    "domain": "goshippo.com",
+    "desc": "Multi-carrier shipping software for e-commerce. Compare rates, print discounted labels and automate tracking across carriers — shipping that scales with your store.",
+    "link": "https://try.shippo.com/bt14md940onh"
+  },
+  {
+    "name": "TaxCycle",
+    "category": "Financial Operations",
+    "domain": "taxcycle.com",
+    "desc": "Professional tax preparation suite for Canadian accountants and bookkeepers. Prepare, review and e-file returns faster with smart checks and seamless CRA integration.",
+    "link": "https://invitation.taxcycle.com/ngza3ochezk9"
+  },
+  {
+    "name": "Alohi",
+    "category": "Operations & Workflow",
+    "domain": "alohi.com",
+    "desc": "One secure ecosystem for document workflows: Sign.Plus e-signatures, Fax.Plus online faxing and Scan.Plus scanning — paperwork handled, compliance included.",
+    "link": "https://ref.alohi.com/i94t0wafno1b"
+  },
+  {
+    "name": "WebCatalog",
+    "category": "IT & Productivity",
+    "domain": "webcatalog.io",
+    "desc": "Turn web apps into tidy desktop apps and manage multiple accounts side by side. Less tab chaos, more focus — your whole stack organized in one place.",
+    "link": "https://try.webcatalog.io/powenno3ohno"
   }
 ]
