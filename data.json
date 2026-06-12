@@ -726,5 +726,19 @@
     "domain": "navan.com",
     "desc": "Business travel and expense management in one. Book trips, automate expense reports and control spend with real-time visibility.",
     "link": "https://get.navan.com/onj1xewpcdit"
+  },
+  {
+    "name": "Softr",
+    "category": "IT & Productivity",
+    "domain": "softr.io",
+    "desc": "Build custom AI business apps, client portals and internal tools without code. Connect Airtable, Google Sheets or your data and launch in an afternoon.",
+    "link": "https://get.softr.io/39gkvjscbtyc"
+  },
+  {
+    "name": "MarketerHire",
+    "category": "Growth & Revenue",
+    "domain": "marketerhire.com",
+    "desc": "Hire pre-vetted expert marketing talent on demand: growth marketers, paid ads specialists, email pros and more — matched to your business within days.",
+    "link": "https://try.marketerhire.com/ybfi0nx3i7r7"
   }
 ]
