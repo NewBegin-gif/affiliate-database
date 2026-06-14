@@ -838,5 +838,12 @@
     "domain": "salesflare.com",
     "desc": "An intelligent CRM for startups and SMBs that requires zero manual data entry. Automatically tracks emails, meetings, and contacts to maximize sales efficiency.",
     "link": "https://go.salesflare.com/3qgsyippvq9p"
+  },
+  {
+    "name": "Dify",
+    "category": "IT & Productivity",
+    "domain": "dify.ai",
+    "desc": "Leading open-source platform for building agentic AI workflows and LLM apps. Visual builder, RAG pipelines and model-agnostic — ship AI features without reinventing the plumbing.",
+    "link": "https://affiliate.dify.ai/6g7z70ov0bx6"
   }
 ]
