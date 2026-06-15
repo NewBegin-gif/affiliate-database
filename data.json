@@ -845,5 +845,68 @@
     "domain": "dify.ai",
     "desc": "Leading open-source platform for building agentic AI workflows and LLM apps. Visual builder, RAG pipelines and model-agnostic — ship AI features without reinventing the plumbing.",
     "link": "https://affiliate.dify.ai/6g7z70ov0bx6"
+  },
+  {
+    "name": "Later",
+    "category": "Growth & Revenue",
+    "domain": "later.com",
+    "desc": "Visual social media scheduler and planner. Plan, preview and auto-publish posts across Instagram, TikTok, Facebook and more from one calendar.",
+    "link": "https://try.later.com/mc4lhvgxp83g"
+  },
+  {
+    "name": "Shorby",
+    "category": "Growth & Revenue",
+    "domain": "shorby.com",
+    "desc": "Smart link-in-bio pages and short links for social media. Turn one bio link into a hub for all your content, offers and channels.",
+    "link": "https://shorby.partnerlinks.io/86ecade3e22e"
+  },
+  {
+    "name": "Keap",
+    "category": "Growth & Revenue",
+    "domain": "keap.com",
+    "desc": "CRM, sales and marketing automation built for small businesses. Capture leads, automate follow-up and manage your pipeline in one place.",
+    "link": "https://get.keap.com/cm2hr7do914n"
+  },
+  {
+    "name": "folk",
+    "category": "Growth & Revenue",
+    "domain": "folk.app",
+    "desc": "Lightweight, collaborative CRM for managing contacts and relationships. Centralize your network and personalize outreach without the bloat.",
+    "link": "https://try.folk.app/dw7ixvqtmou8"
+  },
+  {
+    "name": "Outgrow",
+    "category": "Growth & Revenue",
+    "domain": "outgrow.co",
+    "desc": "Interactive content builder for quizzes, calculators, polls and assessments. Generate and qualify leads with engaging, no-code experiences.",
+    "link": "https://share.outgrow.biz/qgj4ctjituaf"
+  },
+  {
+    "name": "DropGenius",
+    "category": "Growth & Revenue",
+    "domain": "dropgenius.com",
+    "desc": "AI-powered dropshipping store builder. Launch a ready-to-sell online store with products, branding and copy generated in minutes.",
+    "link": "https://dropgenius.partnerlinks.io/e38toiu5ul2g"
+  },
+  {
+    "name": "Diginius",
+    "category": "Growth & Revenue",
+    "domain": "diginius.com",
+    "desc": "Digital marketing and e-commerce performance platform. Manage PPC, analytics and product feeds to improve online sales and visibility.",
+    "link": "https://get.diginius.com/xbub3a16tmb1"
+  },
+  {
+    "name": "Tresorit",
+    "category": "IT & Productivity",
+    "domain": "tresorit.com",
+    "desc": "End-to-end encrypted cloud storage and secure file sharing. Protect sensitive business documents with zero-knowledge security and granular access controls.",
+    "link": "https://partnerstack.tresorit.com/idfq7npoqkue"
+  },
+  {
+    "name": "Bolt Business",
+    "category": "Operations & Workflow",
+    "domain": "bolt.eu",
+    "desc": "Business travel and mobility management. Give your team expense-tracked rides and travel with centralized billing and reporting.",
+    "link": "https://get.business.bolt.eu/vds68rt0efvz"
   }
 ]
