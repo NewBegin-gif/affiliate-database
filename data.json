@@ -943,5 +943,54 @@
     "domain": "todoist.com",
     "desc": "A clean, powerful to-do and task manager. Capture tasks, set due dates and organize projects so nothing slips — across all your devices.",
     "link": "https://get.todoist.io/j2mu6x3husri"
+  },
+  {
+    "name": "Aira",
+    "category": "Growth & Revenue",
+    "domain": "aira.app",
+    "desc": "AI-powered sales engagement that qualifies and books leads automatically, so outreach keeps running without constant manual follow-up.",
+    "link": "https://get.aira.app/i885nzzcmgg4"
+  },
+  {
+    "name": "Apollo",
+    "category": "Growth & Revenue",
+    "domain": "apollo.io",
+    "desc": "Sales intelligence and engagement platform with a large B2B contact database. Find ideal-fit leads, enrich them and run multichannel outreach from one place.",
+    "link": "https://get.apollo.io/ak6o5ffgks79"
+  },
+  {
+    "name": "Ruby",
+    "category": "Communication & Voice",
+    "domain": "ruby.com",
+    "desc": "Live virtual receptionists and chat for small businesses. Real people backed by smart tech answer your calls and messages so you never miss a customer.",
+    "link": "https://get.ruby.com/wlngs0yc8d9c"
+  },
+  {
+    "name": "Devs.ai",
+    "category": "IT & Productivity",
+    "domain": "devs.ai",
+    "desc": "Build AI apps and agents without heavy engineering. Combine multiple leading LLMs to create chatbots and internal tools your team can actually use.",
+    "link": "https://join.devs.ai/exn0gdsa9tab"
+  },
+  {
+    "name": "Salesmessage",
+    "category": "Communication & Voice",
+    "domain": "salesmessage.com",
+    "desc": "Business texting and SMS marketing in one shared inbox. Reach customers where they actually reply — two-way texting, automation and team collaboration.",
+    "link": "https://join.salesmessage.com/y1pdhmogp2y0"
+  },
+  {
+    "name": "Leadpages",
+    "category": "Growth & Revenue",
+    "domain": "leadpages.com",
+    "desc": "Landing page and lead-generation builder. Launch high-converting pages, pop-ups and alert bars without a designer to turn traffic into leads.",
+    "link": "https://try.leadpages.com/q9pd6qx3xjq8"
+  },
+  {
+    "name": "Hive",
+    "category": "Operations & Workflow",
+    "domain": "hive.com",
+    "desc": "Project management and team collaboration in one workspace. Plan projects, assign tasks and centralize communication so work keeps moving.",
+    "link": "https://get.hive.com/7n7ynth8pjn1"
   }
 ]
