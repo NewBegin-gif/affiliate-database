@@ -1006,5 +1006,26 @@
     "domain": "fullenrich.com",
     "desc": "B2B contact enrichment with waterfall data. Find verified emails and direct phone numbers for prospects by combining 15+ data sources in one lookup.",
     "link": "https://fullenrich.partnerlinks.io/a824mq4mnaha"
+  },
+  {
+    "name": "Brevo",
+    "category": "Growth & Revenue",
+    "domain": "brevo.com",
+    "desc": "Email marketing, SMS and CRM in one platform. Design campaigns, automate follow-ups and manage contacts so you can nurture leads and customers from a single hub.",
+    "link": "https://get.brevo.com/1fja6u7hu62y"
+  },
+  {
+    "name": "MRPeasy",
+    "category": "Operations & Workflow",
+    "domain": "mrpeasy.com",
+    "desc": "Cloud manufacturing ERP for small manufacturers. Plan production, track inventory and manage orders and procurement so a growing workshop runs without spreadsheets.",
+    "link": "https://try.mrpeasy.com/2m1rmkvas37h"
+  },
+  {
+    "name": "Capsule",
+    "category": "Growth & Revenue",
+    "domain": "capsulecrm.com",
+    "desc": "Simple, focused CRM for small businesses. Track contacts, sales pipelines and tasks in one tidy place so nothing slips between deals and follow-ups.",
+    "link": "https://get.capsulenow.io/q99x0fa3klb8"
   }
 ]
