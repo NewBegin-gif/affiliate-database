@@ -47,7 +47,13 @@ def api_get(path, key, params=None):
     if params:
         from urllib.parse import urlencode
         url += "?" + urlencode(params)
-    req = urllib.request.Request(url, headers={"Authorization": f"Bearer {key}"})
+    req = urllib.request.Request(url, headers={
+        "Authorization": f"Bearer {key}",
+        "Accept": "application/json",
+        # Cloudflare (error 1010) blokkeert de default Python-urllib UA als bot
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+                      "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    })
     try:
         with urllib.request.urlopen(req, timeout=30) as r:
             return json.loads(r.read().decode("utf-8"))
