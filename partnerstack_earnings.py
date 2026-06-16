@@ -20,14 +20,16 @@ import argparse
 import json
 import os
 import re
+import subprocess
 import sys
-import urllib.request
-import urllib.error
+import time
 from collections import defaultdict
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urlencode
 
 API = "https://api.partnerstack.com/api/v2"
 PREFIX_RE = re.compile(r"^(www|try|get|go|join|start|now|refer|partners?|affiliates?|psref)\.")
+UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
 
 
 def norm(s):
@@ -42,26 +44,37 @@ def host_root(link):
     return PREFIX_RE.sub("", h)
 
 
-def api_get(path, key, params=None):
+def api_get(path, key, params=None, retries=3):
+    """Praat via curl (urllib's TLS-fingerprint wordt door Cloudflare als bot
+    geblokt, error 1010). Retry op 502/503/504 (PartnerStack-backend timeouts)."""
     url = f"{API}/{path}"
     if params:
-        from urllib.parse import urlencode
         url += "?" + urlencode(params)
-    req = urllib.request.Request(url, headers={
-        "Authorization": f"Bearer {key}",
-        "Accept": "application/json",
-        # Cloudflare (error 1010) blokkeert de default Python-urllib UA als bot
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
-                      "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
-    })
-    try:
-        with urllib.request.urlopen(req, timeout=30) as r:
-            return json.loads(r.read().decode("utf-8"))
-    except urllib.error.HTTPError as e:
-        body = e.read().decode("utf-8", "replace")[:300]
-        raise SystemExit(f"❌ PartnerStack {e.code} op /{path}: {body}")
-    except urllib.error.URLError as e:
-        raise SystemExit(f"❌ Verbinding mislukt: {e}")
+    cmd = ["curl", "-sS", "--max-time", "60", "-w", "\n%{http_code}",
+           "-H", f"Authorization: Bearer {key}", "-H", "Accept: application/json",
+           "-H", f"User-Agent: {UA}", url]
+    for attempt in range(retries):
+        p = subprocess.run(cmd, capture_output=True, text=True)
+        out = p.stdout.rsplit("\n", 1)
+        body, code = (out[0], out[1].strip()) if len(out) == 2 else (p.stdout, "000")
+        if code == "200":
+            try:
+                return json.loads(body)
+            except json.JSONDecodeError:
+                raise SystemExit(f"❌ Geen geldige JSON van /{path}: {body[:200]}")
+        if code in ("502", "503", "504") and attempt < retries - 1:
+            time.sleep(3 * (attempt + 1))
+            continue
+        raise SystemExit(f"❌ PartnerStack HTTP {code} op /{path} "
+                         f"(poging {attempt + 1}/{retries}): {body[:200]}")
+
+
+def _rows(body):
+    """PartnerStack v2: {'data': {'items': [...], 'has_more': bool}}."""
+    d = body.get("data", body) if isinstance(body, dict) else body
+    if isinstance(d, dict):
+        return d.get("items", []), bool(d.get("has_more"))
+    return (d or []), False
 
 
 def fetch_all(path, key, limit=100):
@@ -71,24 +84,21 @@ def fetch_all(path, key, limit=100):
         params = {"limit": limit}
         if after:
             params["starting_after"] = after
-        body = api_get(path, key, params)
-        rows = body.get("data") if isinstance(body, dict) else body
+        rows, more = _rows(api_get(path, key, params))
         if not rows:
             break
         out.extend(rows)
-        if len(rows) < limit:
-            break
-        last = rows[-1]
-        after = last.get("key") or last.get("id")
-        if not after:
+        after = rows[-1].get("key") or rows[-1].get("id")
+        if not more or not after:
             break
     return out
 
 
-# velden die (mogelijk) het programma/de vendor aanduiden, in volgorde van voorkeur
-PROGRAM_FIELDS = ("group_name", "product_name", "program_name", "partnership_name")
-NESTED = {"group": ("name", "slug"), "product": ("name",), "program": ("name",),
-          "partnership": ("name", "group_name")}
+# velden die (mogelijk) het programma/de vendor aanduiden, in volgorde van voorkeur.
+# Partnerships/rewards dragen de vendor in company.name (bv. "Aira").
+PROGRAM_FIELDS = ("company_name", "group_name", "product_name", "program_name")
+NESTED = {"company": ("name",), "group": ("name", "slug"), "product": ("name",),
+          "program": ("name",), "partnership": ("name", "group_name")}
 
 
 def program_of(reward):
