@@ -992,5 +992,19 @@
     "domain": "hive.com",
     "desc": "Project management and team collaboration in one workspace. Plan projects, assign tasks and centralize communication so work keeps moving.",
     "link": "https://get.hive.com/7n7ynth8pjn1"
+  },
+  {
+    "name": "Fastmail",
+    "category": "IT & Productivity",
+    "domain": "fastmail.com",
+    "desc": "Private, ad-free email hosting with your own domain. Fast, secure email, calendars and contacts from an independent provider that doesn't mine your data.",
+    "link": "https://join.fastmail.com/86ecade3e22e"
+  },
+  {
+    "name": "FullEnrich",
+    "category": "Growth & Revenue",
+    "domain": "fullenrich.com",
+    "desc": "B2B contact enrichment with waterfall data. Find verified emails and direct phone numbers for prospects by combining 15+ data sources in one lookup.",
+    "link": "https://fullenrich.partnerlinks.io/a824mq4mnaha"
   }
 ]
