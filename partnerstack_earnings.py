@@ -169,7 +169,7 @@ def main():
         print(f"  {total:9.2f}  {tool:22} ({n}x, programma '{prog}')")
     if unmatched:
         print(f"\n⚠️  Niet-gematchte programma's (mapping nodig):")
-        for prog, (_, total, n) in sorted(unmatched.items(), key=lambda x: -x[1]):
+        for prog, (_, total, n) in sorted(unmatched.items(), key=lambda x: -x[1][1]):
             print(f"  {total:9.2f}  '{prog}' ({n}x)")
     print(f"\nTotaal: {sum(v[1] for v in matched.values()) + sum(v[1] for v in unmatched.values()):.2f} "
           f"over {len(matched)} gematchte + {len(unmatched)} ongematchte programma's.")
