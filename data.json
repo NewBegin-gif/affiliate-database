@@ -1125,5 +1125,19 @@
     "desc": "B2B email lists and verified contact data on demand. Build targeted prospect lists with verified business emails and pay only for the contacts you need.",
     "link": "https://join.bookyourdata.com/ouvoovh8z8ws",
     "replaces": "ZoomInfo"
+  },
+  {
+    "name": "Sentaro",
+    "category": "IT & Productivity",
+    "domain": "sentaro.com",
+    "desc": "Email threat detection that flags phishing, risky and malicious messages right in your inbox. Surfaces the dangerous emails that look perfectly normal — before anyone clicks.",
+    "link": "https://join.sentaro.com/o73rglywcalc"
+  },
+  {
+    "name": "BuddyPunch",
+    "category": "Operations & Workflow",
+    "domain": "buddypunch.com",
+    "desc": "Time clock and employee time tracking for hourly teams. Track hours, breaks, PTO and overtime with GPS and photo punch-in, and export payroll-ready reports.",
+    "link": "https://try.buddypunch.com/co77x0t3buk8"
   }
 ]
