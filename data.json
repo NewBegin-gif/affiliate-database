@@ -1027,5 +1027,26 @@
     "domain": "capsulecrm.com",
     "desc": "Simple, focused CRM for small businesses. Track contacts, sales pipelines and tasks in one tidy place so nothing slips between deals and follow-ups.",
     "link": "https://get.capsulenow.io/q99x0fa3klb8"
+  },
+  {
+    "name": "Trainerize",
+    "category": "Operations & Workflow",
+    "domain": "trainerize.com",
+    "desc": "Personal training and fitness-coaching platform. Deliver workout and nutrition plans, message clients and take payments from one branded app, so trainers can coach more clients online.",
+    "link": "https://getstarted.trainerize.com/u6f1n0n63u5w"
+  },
+  {
+    "name": "PDWare",
+    "category": "Operations & Workflow",
+    "domain": "pdware.com",
+    "desc": "Resource and capacity planning for project teams. Plan who works on what, balance workloads and forecast capacity in real time so projects don't stall on people bottlenecks.",
+    "link": "https://try.pdware.com/m3yqr8camu6y"
+  },
+  {
+    "name": "Nutshell",
+    "category": "Growth & Revenue",
+    "domain": "nutshell.com",
+    "desc": "Sales CRM with built-in email marketing for small teams. Manage your pipeline, automate follow-ups and run campaigns from one place, without enterprise complexity.",
+    "link": "https://try.nutshell.com/w254cqomwd5i"
   }
 ]
