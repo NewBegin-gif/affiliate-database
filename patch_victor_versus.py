@@ -1,24 +1,22 @@
 #!/usr/bin/env python3
 """Contentkwaliteit #1 — stop + ruim de onzinnige programmatische 'vs'-pagina's op.
 
-Bug: de Versus-generator pakt 50% van de tijd een WILLEKEURIGE tool als
-tegenhanger (random.choice op alle merken) i.p.v. de curated COMPETITORS-lijst,
-→ pagina's als 'bitvavo-vs-kinsta', 'beehiiv-vs-wprocket' (niemand zoekt die;
-Google leest het als programmatische spam → helpful-content-risico).
+Bug: de Versus-generator pakte 50% v/d tijd een WILLEKEURIGE tool als tegenhanger
+i.p.v. de curated COMPETITORS-lijst → pagina's als 'bitvavo-vs-kinsta' (niemand
+zoekt die; Google = programmatische spam → helpful-content-risico).
 
 Dit script:
- 1) fixt generate_article.py: alleen nog COMPETITORS-paren (geen curated
-    concurrent → geen versus-pagina);
- 2) classificeert bestaande b2b/*-vs-*.html: paren die NIET in COMPETITORS zitten
-    → meta robots noindex + uit sitemap.xml;
+ 1) fixt generate_article.py: alleen nog COMPETITORS-paren;
+ 2) classificeert bestaande vs-pagina's — ZOWEL flat 'slug.html' ALS directory
+    'slug/index.html' — en zet paren die NIET in COMPETITORS zitten op noindex +
+    haalt ze uit sitemap.xml;
  3) dry-run default (toont aantal + sample); --apply voert door + commit/push.
-
-COMPETITORS wordt uit generate_article.py zelf ge-ast-parsed (volledige dict).
 """
 import argparse
 import ast
 import os
 import re
+import shutil
 import subprocess
 import sys
 import time
@@ -41,7 +39,7 @@ def slug(s):
     return s.lower().replace(" ", "").replace(".", "")
 
 
-# ── COMPETITORS volledig uit het bestand halen ───────────────────────────
+# ── COMPETITORS volledig uit het bestand ast-parsen ──────────────────────
 src = open(GEN, encoding="utf-8").read()
 m = re.search(r'COMPETITORS\s*=\s*\{', src)
 if not m:
@@ -81,47 +79,55 @@ if OLD in src:
     gen_status = "FIX klaar" if not A.apply else "GEFIXT"
     if A.apply:
         import py_compile
-        new_src = src.replace(OLD, NEW, 1)
         tmp = GEN + ".new"
-        open(tmp, "w", encoding="utf-8").write(new_src)
+        open(tmp, "w", encoding="utf-8").write(src.replace(OLD, NEW, 1))
         try:
             py_compile.compile(tmp, doraise=True)
         except py_compile.PyCompileError as e:
             os.remove(tmp)
             sys.exit("❌ generator-fix compileert niet — afgebroken:\n" + str(e))
-        import shutil
         shutil.copy(GEN, GEN + ".bak." + str(int(time.time())))
         os.replace(tmp, GEN)
 print(f"1) generator Versus-fix: {gen_status}")
 
-# ── 2) classificeer bestaande vs-pagina's ────────────────────────────────
+# ── 2) classificeer: flat .html EN directory/index.html ──────────────────
+def candidates():
+    for fn in os.listdir(B2B):
+        if "-vs-" not in fn:
+            continue
+        full = os.path.join(B2B, fn)
+        if os.path.isfile(full) and fn.endswith(".html"):
+            yield fn[:-5], full
+        elif os.path.isdir(full):
+            idx = os.path.join(full, "index.html")
+            if os.path.exists(idx):
+                yield fn, idx
+
+
 nonsense, ok = [], 0
-for fn in os.listdir(B2B):
-    if "-vs-" not in fn or not fn.endswith(".html"):
-        continue
-    mm = re.match(r"(.+?)-vs-(.+?)(?:-([a-z]{2}))?$", fn[:-5])
+for slug_, path in candidates():
+    mm = re.match(r"(.+?)-vs-(.+?)(?:-([a-z]{2}))?$", slug_)
     if not mm:
         continue
     if (mm.group(1), mm.group(2)) in valid:
         ok += 1
     else:
-        nonsense.append(fn)
+        nonsense.append((slug_, path))
 
 print(f"2) vs-pagina's: {ok} zinnig (COMPETITORS) | {len(nonsense)} ONZIN → noindex")
-for fn in nonsense[:15]:
-    print(f"     - {fn}")
+for slug_, _ in nonsense[:15]:
+    print(f"     - {slug_}")
 if len(nonsense) > 15:
     print(f"     … en {len(nonsense) - 15} meer")
 
 if not A.apply:
-    print("\nDRY-RUN — draai met --apply om de generator te fixen, onzin te noindexen + pushen.")
+    print("\nDRY-RUN — draai met --apply om door te voeren + pushen.")
     sys.exit(0)
 
 # ── apply: noindex + sitemap + commit ────────────────────────────────────
 done = 0
 sitemap = open(SITEMAP, encoding="utf-8").read() if os.path.exists(SITEMAP) else ""
-for fn in nonsense:
-    p = os.path.join(B2B, fn)
+for slug_, p in nonsense:
     try:
         h = open(p, encoding="utf-8", errors="ignore").read()
     except Exception:
@@ -134,15 +140,14 @@ for fn in nonsense:
             h = h.replace("<head>", '<head>\n<meta name="robots" content="noindex, follow">', 1)
         open(p, "w", encoding="utf-8").write(h)
         done += 1
-    stem = fn[:-5]
     if sitemap:
-        sitemap = re.sub(r"\s*<url>(?:(?!</url>).)*?/b2b/" + re.escape(stem) +
-                         r"[/.](?:(?!</url>).)*?</url>", "", sitemap, flags=re.S)
+        sitemap = re.sub(r"\s*<url>(?:(?!</url>).)*?/b2b/" + re.escape(slug_) +
+                         r"[/.<](?:(?!</url>).)*?</url>", "", sitemap, flags=re.S)
 if sitemap and os.path.exists(SITEMAP):
     open(SITEMAP, "w", encoding="utf-8").write(sitemap)
 
 git("add", "-A")
-git("commit", "-m", f"Content quality: noindex {done} nonsensical programmatic vs-pages + fix versus pairing")
+git("commit", "-m", f"Content quality: noindex {done} nonsensical vs-pages (flat+dir) + fix versus pairing")
 git("pull", "--no-rebase", "-X", "ours", "origin", "main", "--no-edit")
 ps = git("push", "origin", "main")
 tail = (ps.stdout + ps.stderr).strip().splitlines()
