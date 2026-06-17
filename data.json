@@ -1182,5 +1182,28 @@
     "domain": "barcodestalk.com",
     "desc": "Authentic UPC and EAN barcodes for retail and Amazon listings. Buy GS1-sourced barcodes for your products as a one-time purchase, without an annual GS1 membership.",
     "link": "https://barcodestalk.partnerlinks.io/w8ro9evm6hm7"
+  },
+  {
+    "name": "NiceJob",
+    "category": "Growth & Revenue",
+    "domain": "nicejob.com",
+    "desc": "Reputation marketing on autopilot. Automatically ask happy customers for reviews, showcase them on your site, and turn word-of-mouth into a steady stream of leads.",
+    "link": "https://try.nicejob.com/k3v3ud10kczz"
+  },
+  {
+    "name": "SMTP2GO",
+    "category": "IT & Productivity",
+    "domain": "smtp2go.com",
+    "desc": "Reliable transactional and bulk email delivery. Send via a simple SMTP relay or API with strong deliverability, real-time analytics and global sending infrastructure.",
+    "link": "https://get.smtp2go.com/ypwj175gg6j4",
+    "replaces": "SendGrid"
+  },
+  {
+    "name": "Kit",
+    "category": "Growth & Revenue",
+    "domain": "kit.com",
+    "desc": "Email marketing built for creators (formerly ConvertKit). Grow your list with landing pages and forms, then automate newsletters and sell digital products from one place.",
+    "link": "https://partners.kit.com/3m3blymamusy",
+    "replaces": "Mailchimp"
   }
 ]
