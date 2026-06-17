@@ -1117,5 +1117,13 @@
     "desc": "Sales CRM with built-in email marketing for small teams. Manage your pipeline, automate follow-ups and run campaigns from one place, without enterprise complexity.",
     "link": "https://try.nutshell.com/w254cqomwd5i",
     "replaces": "HubSpot"
+  },
+  {
+    "name": "Bookyourdata",
+    "category": "Growth & Revenue",
+    "domain": "bookyourdata.com",
+    "desc": "B2B email lists and verified contact data on demand. Build targeted prospect lists with verified business emails and pay only for the contacts you need.",
+    "link": "https://join.bookyourdata.com/ouvoovh8z8ws",
+    "replaces": "ZoomInfo"
   }
 ]
