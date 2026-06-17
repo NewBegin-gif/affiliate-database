@@ -4,7 +4,8 @@
     "category": "Financial Operations",
     "domain": "payoneer.com",
     "desc": "Global payment solutions and cross-border billing. Easily receive funds from international clients and marketplaces with low fees.",
-    "link": "https://payoneer557.partnerlinks.io/whpnqt92bm0j"
+    "link": "https://payoneer557.partnerlinks.io/whpnqt92bm0j",
+    "replaces": "PayPal"
   },
   {
     "name": "Bill.com",
@@ -39,42 +40,48 @@
     "category": "Financial Operations",
     "domain": "bitvavo.com",
     "desc": "Europe's leading crypto exchange. 350+ assets, low fees, Dutch-regulated and a clean UX for both beginners and pros. Sign up via our link for €10K fee-free.",
-    "link": "https://account.bitvavo.com/create?a=68DCE39715&pid=invite&c=referral&af_adset=68DCE39715&deep_link_value=bitvavo%3A%2F%2Fcreate%3Fa%3D68DCE39715"
+    "link": "https://account.bitvavo.com/create?a=68DCE39715&pid=invite&c=referral&af_adset=68DCE39715&deep_link_value=bitvavo%3A%2F%2Fcreate%3Fa%3D68DCE39715",
+    "replaces": "Coinbase"
   },
   {
     "name": "Bybit",
     "category": "Financial Operations",
     "domain": "bybit.com",
     "desc": "Trade crypto with deep liquidity — derivatives, spot and EU-compliant infrastructure.",
-    "link": "https://www.bybit.eu/invite?ref=43R9RJE"
+    "link": "https://www.bybit.eu/invite?ref=43R9RJE",
+    "replaces": "Binance"
   },
   {
     "name": "ActiveCampaign",
     "category": "Growth & Revenue",
     "domain": "activecampaign.com",
     "desc": "Advanced marketing automation, email marketing, and CRM. Build complex, automated customer journeys that drive real revenue.",
-    "link": "https://try.activecampaign.com/h07gxhkcy8v7"
+    "link": "https://try.activecampaign.com/h07gxhkcy8v7",
+    "replaces": "Mailchimp"
   },
   {
     "name": "Close",
     "category": "Growth & Revenue",
     "domain": "close.com",
     "desc": "A high-performance sales CRM built for growth-focused startups and SMBs. Unifies calling, emailing, and SMS into one powerful inbox.",
-    "link": "https://refer.close.com/8sqpd69pa18l"
+    "link": "https://refer.close.com/8sqpd69pa18l",
+    "replaces": "Salesforce"
   },
   {
     "name": "Vista Social",
     "category": "Growth & Revenue",
     "domain": "vistasocial.com",
     "desc": "Unified social media management and publishing. Schedule posts, manage conversations, and track analytics across all your brand accounts.",
-    "link": "https://join.vistasocial.com/3gvz9j8tfhuo"
+    "link": "https://join.vistasocial.com/3gvz9j8tfhuo",
+    "replaces": "Hootsuite"
   },
   {
     "name": "Reply.io",
     "category": "Growth & Revenue",
     "domain": "reply.io",
     "desc": "AI-driven sales engagement platform. Automate your cold outreach across email, LinkedIn, and calls while keeping the human touch.",
-    "link": "https://get.reply.io/l5ko4nvevkas"
+    "link": "https://get.reply.io/l5ko4nvevkas",
+    "replaces": "Outreach"
   },
   {
     "name": "Alidrop",
@@ -123,21 +130,24 @@
     "category": "Growth & Revenue",
     "domain": "getresponse.com",
     "desc": "Powerful inbound marketing software combining email automation, landing pages, webinars, and conversion funnels.",
-    "link": "https://try.getresponsetoday.com/8c0sqba28nwf"
+    "link": "https://try.getresponsetoday.com/8c0sqba28nwf",
+    "replaces": "Mailchimp"
   },
   {
     "name": "Campaign Monitor",
     "category": "Growth & Revenue",
     "domain": "campaignmonitor.com",
     "desc": "Premium email marketing tailored for agencies and scaling teams. Delivers stunning templates and reliable deliverability.",
-    "link": "https://partners.campaignmonitor.com/v66v483h4lfy"
+    "link": "https://partners.campaignmonitor.com/v66v483h4lfy",
+    "replaces": "Mailchimp"
   },
   {
     "name": "Amplemarket",
     "category": "Growth & Revenue",
     "domain": "amplemarket.com",
     "desc": "An all-in-one AI-powered sales platform. Discover leads, personalize outreach, and close deals faster with intelligent workflows.",
-    "link": "https://grow.amplemarket.com/ddkfb65s7t1r"
+    "link": "https://grow.amplemarket.com/ddkfb65s7t1r",
+    "replaces": "Outreach"
   },
   {
     "name": "Omniseo",
@@ -151,14 +161,16 @@
     "category": "Growth & Revenue",
     "domain": "seamless.ai",
     "desc": "A massive B2B contact database and lead generation engine. Find verified emails and direct dials for your ideal prospects instantly.",
-    "link": "https://get.seamless.ai/gleubirgjgj8"
+    "link": "https://get.seamless.ai/gleubirgjgj8",
+    "replaces": "ZoomInfo"
   },
   {
     "name": "Unbounce",
     "category": "Growth & Revenue",
     "domain": "unbounce.com",
     "desc": "The premier AI-powered landing page builder. Create high-converting campaigns with intelligent copy generation and A/B testing.",
-    "link": "https://unbounce.partnerlinks.io/ag7tbkfddk5n"
+    "link": "https://unbounce.partnerlinks.io/ag7tbkfddk5n",
+    "replaces": "Instapage"
   },
   {
     "name": "Iconosquare",
@@ -179,14 +191,16 @@
     "category": "Growth & Revenue",
     "domain": "adcreative.ai",
     "desc": "Generate conversion-focused ad creatives and banners using AI. Drastically reduce design time while boosting CTR.",
-    "link": "https://free-trial.adcreative.ai/9rbtqowzgwy2"
+    "link": "https://free-trial.adcreative.ai/9rbtqowzgwy2",
+    "replaces": "Canva"
   },
   {
     "name": "Landingi",
     "category": "Growth & Revenue",
     "domain": "landingi.com",
     "desc": "An intuitive, end-to-end landing page platform. Build, publish, and optimize your marketing campaigns without touching code.",
-    "link": "https://try.landingi.com/hsaaq00kz6qg"
+    "link": "https://try.landingi.com/hsaaq00kz6qg",
+    "replaces": "Unbounce"
   },
   {
     "name": "AISQ",
@@ -207,28 +221,32 @@
     "category": "Growth & Revenue",
     "domain": "printify.com",
     "desc": "Global print-on-demand network. Create custom products and automate your e-commerce fulfillment without holding inventory.",
-    "link": "https://try.printify.com/nnjq3xkyctsk"
+    "link": "https://try.printify.com/nnjq3xkyctsk",
+    "replaces": "Printful"
   },
   {
     "name": "Frase",
     "category": "Growth & Revenue",
     "domain": "frase.io",
     "desc": "AI-powered SEO content writing and optimization. Research, outline, write, and optimize articles that rank — all in one place.",
-    "link": "https://www.frase.io/?utm_source=firstpromoter&utm_medium=affiliate&utm_campaign=affiliate_program&via=daniel46"
+    "link": "https://www.frase.io/?utm_source=firstpromoter&utm_medium=affiliate&utm_campaign=affiliate_program&via=daniel46",
+    "replaces": "Surfer"
   },
   {
     "name": "Clay",
     "category": "Growth & Revenue",
     "domain": "clay.com",
     "desc": "AI-powered prospecting and outbound. Enrich leads from 75+ data sources and personalize at scale with GPT-driven copy that actually books meetings.",
-    "link": "https://clay.com"
+    "link": "https://clay.com",
+    "replaces": "ZoomInfo"
   },
   {
     "name": "Rank Math",
     "category": "Growth & Revenue",
     "domain": "rankmath.com",
     "desc": "The most powerful WordPress SEO plugin. Advanced schema, AI content insights, rank tracking and on-page optimization that actually moves rankings.",
-    "link": "https://rankmath.com/?ref=daanhaket"
+    "link": "https://rankmath.com/?ref=daanhaket",
+    "replaces": "Yoast SEO"
   },
   {
     "name": "Atria",
@@ -242,14 +260,16 @@
     "category": "Growth & Revenue",
     "domain": "beehiiv.com",
     "desc": "The newsletter platform built for growth. Advanced analytics, monetization tools, and seamless integrations. Scale from 0 to millions of subscribers like Morning Brew.",
-    "link": "https://www.beehiiv.com/?via=daan-haket"
+    "link": "https://www.beehiiv.com/?via=daan-haket",
+    "replaces": "Substack"
   },
   {
     "name": "ClickUp",
     "category": "Operations & Workflow",
     "domain": "clickup.com",
     "desc": "The 'everything app' for project and work management. Centralize your tasks, docs, sprints, and team communication in one hub.",
-    "link": "https://try.web.clickup.com/1fuixmntw4bz"
+    "link": "https://try.web.clickup.com/1fuixmntw4bz",
+    "replaces": "monday.com"
   },
   {
     "name": "Trainual",
@@ -263,14 +283,16 @@
     "category": "Operations & Workflow",
     "domain": "beautiful.ai",
     "desc": "Presentation automation with smart design logic. Build professional client decks in minutes without struggling with formatting.",
-    "link": "https://beautifulai.partnerlinks.io/7s7xjgpea39q"
+    "link": "https://beautifulai.partnerlinks.io/7s7xjgpea39q",
+    "replaces": "PowerPoint"
   },
   {
     "name": "Gamma",
     "category": "Operations & Workflow",
     "domain": "gamma.app",
     "desc": "A new medium for presenting ideas. Generate beautiful, interactive documents, decks, and webpages instantly with AI.",
-    "link": "https://try.gamma.app/cw0to3pyxe7t"
+    "link": "https://try.gamma.app/cw0to3pyxe7t",
+    "replaces": "PowerPoint"
   },
   {
     "name": "Databox",
@@ -326,14 +348,16 @@
     "category": "Operations & Workflow",
     "domain": "quillbot.com",
     "desc": "Advanced AI writing assistant. Instantly paraphrase, summarize, and refine your business communications for maximum clarity.",
-    "link": "https://try.quillbot.com/1kodsf2wz3o2"
+    "link": "https://try.quillbot.com/1kodsf2wz3o2",
+    "replaces": "Grammarly"
   },
   {
     "name": "Lindy.ai",
     "category": "Operations & Workflow",
     "domain": "lindy.ai",
     "desc": "Build and deploy autonomous AI employees. Delegate your repetitive administrative tasks to an agent that connects to all your tools.",
-    "link": "https://try.lindy.ai/04841byjd5bi"
+    "link": "https://try.lindy.ai/04841byjd5bi",
+    "replaces": "Zapier"
   },
   {
     "name": "Typewise",
@@ -361,7 +385,8 @@
     "category": "Operations & Workflow",
     "domain": "synthesia.io",
     "desc": "Create studio-quality AI videos in minutes. 150+ realistic avatars, 120+ languages, no camera or studio needed. Trusted by half the Fortune 100.",
-    "link": "https://www.synthesia.io/?via=daniel-haket"
+    "link": "https://www.synthesia.io/?via=daniel-haket",
+    "replaces": "HeyGen"
   },
   {
     "name": "InVideo",
@@ -375,7 +400,8 @@
     "category": "Operations & Workflow",
     "domain": "murf.ai",
     "desc": "Enterprise-grade AI voice generator. 200+ natural voices in 20+ languages for voiceovers, podcasts, presentations and YouTube content.",
-    "link": "https://murf.ai/?pscd=get.murf.ai&ps_partner_key=ZmJhZWMxNDQ1M2U3&ps_xid=ucwOJU0WnZj8HA&gsxid=ucwOJU0WnZj8HA&gspk=ZmJhZWMxNDQ1M2U3"
+    "link": "https://murf.ai/?pscd=get.murf.ai&ps_partner_key=ZmJhZWMxNDQ1M2U3&ps_xid=ucwOJU0WnZj8HA&gsxid=ucwOJU0WnZj8HA&gspk=ZmJhZWMxNDQ1M2U3",
+    "replaces": "ElevenLabs"
   },
   {
     "name": "Jotform AI Agents",
@@ -389,7 +415,8 @@
     "category": "Communication & Voice",
     "domain": "cloudtalk.io",
     "desc": "Next-generation cloud calling system designed for modern support and sales teams. Includes smart routing and CRM integrations.",
-    "link": "https://get.cloudtalk.io/750eho0hrkyk"
+    "link": "https://get.cloudtalk.io/750eho0hrkyk",
+    "replaces": "RingCentral"
   },
   {
     "name": "Calilio",
@@ -403,7 +430,8 @@
     "category": "Communication & Voice",
     "domain": "krispcall.com",
     "desc": "Unified cloud telephony platform. Manage virtual numbers across 100+ countries and automate bulk SMS campaigns seamlessly.",
-    "link": "https://try.krispcall.com/oxhjrkcubhma"
+    "link": "https://try.krispcall.com/oxhjrkcubhma",
+    "replaces": "RingCentral"
   },
   {
     "name": "Hume AI",
@@ -445,14 +473,16 @@
     "category": "IT & Productivity",
     "domain": "proton.me",
     "desc": "Swiss-based, end-to-end encrypted cloud storage. Protect your sensitive business documents from surveillance and AI data mining.",
-    "link": "https://now.getproton.me/xtd5ynchlrma"
+    "link": "https://now.getproton.me/xtd5ynchlrma",
+    "replaces": "Dropbox"
   },
   {
     "name": "IDrive",
     "category": "IT & Productivity",
     "domain": "idrive.com",
     "desc": "Automated disaster recovery and cloud backup. Securely mirror unlimited devices to the cloud to protect against ransomware.",
-    "link": "https://partners.idrive.com/qrvz8k6i2arr"
+    "link": "https://partners.idrive.com/qrvz8k6i2arr",
+    "replaces": "Backblaze"
   },
   {
     "name": "RunPod",
@@ -466,7 +496,8 @@
     "category": "IT & Productivity",
     "domain": "bitdefender.com",
     "desc": "Enterprise-grade cybersecurity and endpoint protection. Keep your company network safe from malware and advanced threats.",
-    "link": "https://get.bitdefender.com/s1cknsqsf3d1"
+    "link": "https://get.bitdefender.com/s1cknsqsf3d1",
+    "replaces": "Norton"
   },
   {
     "name": "Browse.ai",
@@ -480,7 +511,8 @@
     "category": "IT & Productivity",
     "domain": "plesk.com",
     "desc": "The leading WebOps hosting and server management control panel. Securely manage your web infrastructure and applications.",
-    "link": "https://try.plesk.com/bhj2s1yu28h0"
+    "link": "https://try.plesk.com/bhj2s1yu28h0",
+    "replaces": "cPanel"
   },
   {
     "name": "Emergent",
@@ -515,21 +547,24 @@
     "category": "IT & Productivity",
     "domain": "replit.com",
     "desc": "Build, deploy and scale software with AI as your co-pilot. Cloud IDE, instant deployments and Replit Agent that ships features for you.",
-    "link": "https://replit.com/signup?referral=dglhaket"
+    "link": "https://replit.com/signup?referral=dglhaket",
+    "replaces": "GitHub Codespaces"
   },
   {
     "name": "NordVPN",
     "category": "IT & Productivity",
     "domain": "nordvpn.com",
     "desc": "Secure VPN with threat protection for business & remote teams",
-    "link": "https://refer-nordvpn.com/rCEQOtjfEJX"
+    "link": "https://refer-nordvpn.com/rCEQOtjfEJX",
+    "replaces": "ExpressVPN"
   },
   {
     "name": "Hostinger",
     "category": "IT & Productivity",
     "domain": "hostinger.com",
     "desc": "Affordable, fast hosting with an AI website builder built in. Free domain, free SSL and 24/7 support — perfect for founders launching their first MVP or side project.",
-    "link": "https://www.hostinger.com?REFERRALCODE=UZUDGLHAKW67"
+    "link": "https://www.hostinger.com?REFERRALCODE=UZUDGLHAKW67",
+    "replaces": "Bluehost"
   },
   {
     "name": "ChemiCloud",
@@ -543,7 +578,8 @@
     "category": "IT & Productivity",
     "domain": "kinsta.com",
     "desc": "Managed WordPress hosting on Google Cloud's premium tier. Sub-300ms load times, free migrations and 24/7 expert support. The hosting agencies actually recommend.",
-    "link": "https://kinsta.com/?kaid=EKSCJEFWBYJO"
+    "link": "https://kinsta.com/?kaid=EKSCJEFWBYJO",
+    "replaces": "WP Engine"
   },
   {
     "name": "WP Rocket",
@@ -557,7 +593,8 @@
     "category": "Communication & Voice",
     "domain": "aircall.io",
     "desc": "Cloud phone and call-center platform for sales and support teams. Smart call routing, CRM integrations and AI call insights — set up business numbers in 100+ countries in minutes.",
-    "link": "https://get.aircall.io/1sd4xwyb9qws"
+    "link": "https://get.aircall.io/1sd4xwyb9qws",
+    "replaces": "RingCentral"
   },
   {
     "name": "Katana MRP",
@@ -578,7 +615,8 @@
     "category": "Financial Operations",
     "domain": "gusto.com",
     "desc": "Payroll, benefits and HR in one friendly platform. Automated tax filings, employee onboarding and time tracking — run payroll for your whole team in just a few clicks.",
-    "link": "https://get.gusto.com/bz0jei7y1zzh"
+    "link": "https://get.gusto.com/bz0jei7y1zzh",
+    "replaces": "ADP"
   },
   {
     "name": "Bright Data",
@@ -592,14 +630,16 @@
     "category": "Operations & Workflow",
     "domain": "smartsuite.com",
     "desc": "One flexible work management platform to plan, track and automate any process. Projects, CRM and operations side by side — replace a stack of scattered tools with a single source of truth.",
-    "link": "https://partners.smartsuite.com/3o9qow98qlja"
+    "link": "https://partners.smartsuite.com/3o9qow98qlja",
+    "replaces": "Airtable"
   },
   {
     "name": "Melio",
     "category": "Financial Operations",
     "domain": "meliopayments.com",
     "desc": "Effortless B2B bill payments for small businesses. Pay vendors by bank transfer or card (even where cards aren't accepted), sync with your accounting tools and keep cash flow in your control.",
-    "link": "https://affiliates.meliopayments.com/3k7t5bt87uuu"
+    "link": "https://affiliates.meliopayments.com/3k7t5bt87uuu",
+    "replaces": "Bill.com"
   },
   {
     "name": "Quo",
@@ -620,7 +660,8 @@
     "category": "Operations & Workflow",
     "domain": "goshippo.com",
     "desc": "Multi-carrier shipping software for e-commerce. Compare rates, print discounted labels and automate tracking across carriers — shipping that scales with your store.",
-    "link": "https://try.shippo.com/bt14md940onh"
+    "link": "https://try.shippo.com/bt14md940onh",
+    "replaces": "ShipStation"
   },
   {
     "name": "TaxCycle",
@@ -648,7 +689,8 @@
     "category": "Growth & Revenue",
     "domain": "livestorm.com",
     "desc": "All-in-one webinar and video engagement platform for marketing teams. Browser-based events, automated emails, polls and analytics — run professional webinars without the tech headaches.",
-    "link": "https://get.livestorm.co/cfc8vpp5fl59"
+    "link": "https://get.livestorm.co/cfc8vpp5fl59",
+    "replaces": "Zoom Webinars"
   },
   {
     "name": "Volza",
@@ -662,7 +704,8 @@
     "category": "Communication & Voice",
     "domain": "callhippo.com",
     "desc": "AI-driven business phone system. Virtual numbers in 50+ countries, power dialer, call analytics and AI agents — set up your sales and support calling in minutes.",
-    "link": "https://join.callhippo.com/acacgh9cnvo1"
+    "link": "https://join.callhippo.com/acacgh9cnvo1",
+    "replaces": "RingCentral"
   },
   {
     "name": "Bokun",
@@ -690,7 +733,8 @@
     "category": "Operations & Workflow",
     "domain": "signnow.com",
     "desc": "Electronic signatures and custom eSignature workflows by airSlate. Send, sign and manage documents on any device — legally binding and team-friendly.",
-    "link": "https://partnerstack.signnow.com/gfoy0vr9uwnr"
+    "link": "https://partnerstack.signnow.com/gfoy0vr9uwnr",
+    "replaces": "DocuSign"
   },
   {
     "name": "Gravity Forms",
@@ -725,7 +769,8 @@
     "category": "Financial Operations",
     "domain": "navan.com",
     "desc": "Business travel and expense management in one. Book trips, automate expense reports and control spend with real-time visibility.",
-    "link": "https://get.navan.com/onj1xewpcdit"
+    "link": "https://get.navan.com/onj1xewpcdit",
+    "replaces": "Expensify"
   },
   {
     "name": "Softr",
@@ -746,7 +791,8 @@
     "category": "Operations & Workflow",
     "domain": "toggl.com",
     "desc": "Intuitive time tracking and project planning for teams. Gain actionable insights into your profitability and streamline your daily workflow.",
-    "link": "https://get.toggl.com/ro1ytpecga8j"
+    "link": "https://get.toggl.com/ro1ytpecga8j",
+    "replaces": "Harvest"
   },
   {
     "name": "Voye",
@@ -767,21 +813,24 @@
     "category": "Growth & Revenue",
     "domain": "usebouncer.com",
     "desc": "Powerful email verification and deliverability platform. Clean your email lists automatically to protect your sender reputation and boost campaign ROI.",
-    "link": "https://withlove.usebouncer.com/a4znwz9xj85p"
+    "link": "https://withlove.usebouncer.com/a4znwz9xj85p",
+    "replaces": "ZeroBounce"
   },
   {
     "name": "SurveySparrow",
     "category": "Growth & Revenue",
     "domain": "surveysparrow.com",
     "desc": "Omnichannel experience management platform. Create highly engaging, conversational surveys that drive higher completion rates and actionable customer feedback.",
-    "link": "https://join.surveysparrow.com/tnkpgu26emfl"
+    "link": "https://join.surveysparrow.com/tnkpgu26emfl",
+    "replaces": "SurveyMonkey"
   },
   {
     "name": "Dify.ai",
     "category": "IT & Productivity",
     "domain": "dify.ai",
     "desc": "Open-source LLM app development platform. Build, deploy, and scale custom AI applications and workflow agents visually without deep coding.",
-    "link": "https://affiliate.dify.ai/6g7z70ov0bx6"
+    "link": "https://affiliate.dify.ai/6g7z70ov0bx6",
+    "replaces": "LangChain"
   },
   {
     "name": "doola",
@@ -802,14 +851,16 @@
     "category": "Operations & Workflow",
     "domain": "wrike.com",
     "desc": "Enterprise-grade work management platform. Centralize your projects, streamline cross-functional collaboration, and automate approvals in one secure workspace.",
-    "link": "https://get.wrike.com/qt81vit0326j"
+    "link": "https://get.wrike.com/qt81vit0326j",
+    "replaces": "Asana"
   },
   {
     "name": "Foxit",
     "category": "IT & Productivity",
     "domain": "foxit.com",
     "desc": "Comprehensive PDF editor and e-signature solution. Edit, secure, and sign digital documents seamlessly as a lightweight alternative to Adobe Acrobat.",
-    "link": "https://partnerstack.foxit.com/9nxma1w823gf"
+    "link": "https://partnerstack.foxit.com/9nxma1w823gf",
+    "replaces": "Adobe Acrobat"
   },
   {
     "name": "Contractor Foreman",
@@ -837,49 +888,56 @@
     "category": "Growth & Revenue",
     "domain": "salesflare.com",
     "desc": "An intelligent CRM for startups and SMBs that requires zero manual data entry. Automatically tracks emails, meetings, and contacts to maximize sales efficiency.",
-    "link": "https://go.salesflare.com/3qgsyippvq9p"
+    "link": "https://go.salesflare.com/3qgsyippvq9p",
+    "replaces": "HubSpot"
   },
   {
     "name": "Dify",
     "category": "IT & Productivity",
     "domain": "dify.ai",
     "desc": "Leading open-source platform for building agentic AI workflows and LLM apps. Visual builder, RAG pipelines and model-agnostic — ship AI features without reinventing the plumbing.",
-    "link": "https://affiliate.dify.ai/6g7z70ov0bx6"
+    "link": "https://affiliate.dify.ai/6g7z70ov0bx6",
+    "replaces": "LangChain"
   },
   {
     "name": "Later",
     "category": "Growth & Revenue",
     "domain": "later.com",
     "desc": "Visual social media scheduler and planner. Plan, preview and auto-publish posts across Instagram, TikTok, Facebook and more from one calendar.",
-    "link": "https://try.later.com/mc4lhvgxp83g"
+    "link": "https://try.later.com/mc4lhvgxp83g",
+    "replaces": "Hootsuite"
   },
   {
     "name": "Shorby",
     "category": "Growth & Revenue",
     "domain": "shorby.com",
     "desc": "Smart link-in-bio pages and short links for social media. Turn one bio link into a hub for all your content, offers and channels.",
-    "link": "https://shorby.partnerlinks.io/86ecade3e22e"
+    "link": "https://shorby.partnerlinks.io/86ecade3e22e",
+    "replaces": "Linktree"
   },
   {
     "name": "Keap",
     "category": "Growth & Revenue",
     "domain": "keap.com",
     "desc": "CRM, sales and marketing automation built for small businesses. Capture leads, automate follow-up and manage your pipeline in one place.",
-    "link": "https://get.keap.com/cm2hr7do914n"
+    "link": "https://get.keap.com/cm2hr7do914n",
+    "replaces": "HubSpot"
   },
   {
     "name": "folk",
     "category": "Growth & Revenue",
     "domain": "folk.app",
     "desc": "Lightweight, collaborative CRM for managing contacts and relationships. Centralize your network and personalize outreach without the bloat.",
-    "link": "https://try.folk.app/dw7ixvqtmou8"
+    "link": "https://try.folk.app/dw7ixvqtmou8",
+    "replaces": "HubSpot"
   },
   {
     "name": "Outgrow",
     "category": "Growth & Revenue",
     "domain": "outgrow.co",
     "desc": "Interactive content builder for quizzes, calculators, polls and assessments. Generate and qualify leads with engaging, no-code experiences.",
-    "link": "https://share.outgrow.biz/qgj4ctjituaf"
+    "link": "https://share.outgrow.biz/qgj4ctjituaf",
+    "replaces": "Typeform"
   },
   {
     "name": "DropGenius",
@@ -900,7 +958,8 @@
     "category": "IT & Productivity",
     "domain": "tresorit.com",
     "desc": "End-to-end encrypted cloud storage and secure file sharing. Protect sensitive business documents with zero-knowledge security and granular access controls.",
-    "link": "https://partnerstack.tresorit.com/idfq7npoqkue"
+    "link": "https://partnerstack.tresorit.com/idfq7npoqkue",
+    "replaces": "Dropbox"
   },
   {
     "name": "Bolt Business",
@@ -928,7 +987,8 @@
     "category": "Growth & Revenue",
     "domain": "socialbee.io",
     "desc": "Social media management and scheduling with content categories. Plan, recycle and publish posts across all your channels from one calendar.",
-    "link": "https://get.socialbee.io/rma5kuv4r9h4"
+    "link": "https://get.socialbee.io/rma5kuv4r9h4",
+    "replaces": "Hootsuite"
   },
   {
     "name": "Ownr",
@@ -942,7 +1002,8 @@
     "category": "Operations & Workflow",
     "domain": "todoist.com",
     "desc": "A clean, powerful to-do and task manager. Capture tasks, set due dates and organize projects so nothing slips — across all your devices.",
-    "link": "https://get.todoist.io/j2mu6x3husri"
+    "link": "https://get.todoist.io/j2mu6x3husri",
+    "replaces": "Asana"
   },
   {
     "name": "Aira",
@@ -956,7 +1017,8 @@
     "category": "Growth & Revenue",
     "domain": "apollo.io",
     "desc": "Sales intelligence and engagement platform with a large B2B contact database. Find ideal-fit leads, enrich them and run multichannel outreach from one place.",
-    "link": "https://get.apollo.io/ak6o5ffgks79"
+    "link": "https://get.apollo.io/ak6o5ffgks79",
+    "replaces": "ZoomInfo"
   },
   {
     "name": "Ruby",
@@ -984,35 +1046,40 @@
     "category": "Growth & Revenue",
     "domain": "leadpages.com",
     "desc": "Landing page and lead-generation builder. Launch high-converting pages, pop-ups and alert bars without a designer to turn traffic into leads.",
-    "link": "https://try.leadpages.com/q9pd6qx3xjq8"
+    "link": "https://try.leadpages.com/q9pd6qx3xjq8",
+    "replaces": "ClickFunnels"
   },
   {
     "name": "Hive",
     "category": "Operations & Workflow",
     "domain": "hive.com",
     "desc": "Project management and team collaboration in one workspace. Plan projects, assign tasks and centralize communication so work keeps moving.",
-    "link": "https://get.hive.com/7n7ynth8pjn1"
+    "link": "https://get.hive.com/7n7ynth8pjn1",
+    "replaces": "monday.com"
   },
   {
     "name": "Fastmail",
     "category": "IT & Productivity",
     "domain": "fastmail.com",
     "desc": "Private, ad-free email hosting with your own domain. Fast, secure email, calendars and contacts from an independent provider that doesn't mine your data.",
-    "link": "https://join.fastmail.com/86ecade3e22e"
+    "link": "https://join.fastmail.com/86ecade3e22e",
+    "replaces": "Gmail"
   },
   {
     "name": "FullEnrich",
     "category": "Growth & Revenue",
     "domain": "fullenrich.com",
     "desc": "B2B contact enrichment with waterfall data. Find verified emails and direct phone numbers for prospects by combining 15+ data sources in one lookup.",
-    "link": "https://fullenrich.partnerlinks.io/a824mq4mnaha"
+    "link": "https://fullenrich.partnerlinks.io/a824mq4mnaha",
+    "replaces": "ZoomInfo"
   },
   {
     "name": "Brevo",
     "category": "Growth & Revenue",
     "domain": "brevo.com",
     "desc": "Email marketing, SMS and CRM in one platform. Design campaigns, automate follow-ups and manage contacts so you can nurture leads and customers from a single hub.",
-    "link": "https://get.brevo.com/1fja6u7hu62y"
+    "link": "https://get.brevo.com/1fja6u7hu62y",
+    "replaces": "Mailchimp"
   },
   {
     "name": "MRPeasy",
@@ -1026,7 +1093,8 @@
     "category": "Growth & Revenue",
     "domain": "capsulecrm.com",
     "desc": "Simple, focused CRM for small businesses. Track contacts, sales pipelines and tasks in one tidy place so nothing slips between deals and follow-ups.",
-    "link": "https://get.capsulenow.io/q99x0fa3klb8"
+    "link": "https://get.capsulenow.io/q99x0fa3klb8",
+    "replaces": "Salesforce"
   },
   {
     "name": "Trainerize",
@@ -1047,6 +1115,7 @@
     "category": "Growth & Revenue",
     "domain": "nutshell.com",
     "desc": "Sales CRM with built-in email marketing for small teams. Manage your pipeline, automate follow-ups and run campaigns from one place, without enterprise complexity.",
-    "link": "https://try.nutshell.com/w254cqomwd5i"
+    "link": "https://try.nutshell.com/w254cqomwd5i",
+    "replaces": "HubSpot"
   }
 ]
