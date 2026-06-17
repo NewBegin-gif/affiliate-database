@@ -1139,5 +1139,48 @@
     "domain": "buddypunch.com",
     "desc": "Time clock and employee time tracking for hourly teams. Track hours, breaks, PTO and overtime with GPS and photo punch-in, and export payroll-ready reports.",
     "link": "https://try.buddypunch.com/co77x0t3buk8"
+  },
+  {
+    "name": "Leadfeeder",
+    "category": "Growth & Revenue",
+    "domain": "leadfeeder.com",
+    "desc": "Website visitor identification for B2B sales. See which companies visit your site and what they viewed, and turn anonymous traffic into a warm pipeline.",
+    "link": "https://leadfeeder.partnerlinks.io/7fb5zd8ilp7c"
+  },
+  {
+    "name": "lemlist",
+    "category": "Growth & Revenue",
+    "domain": "lemlist.com",
+    "desc": "Cold email outreach and sales engagement. Build personalized multichannel sequences (email, LinkedIn, calls) with built-in deliverability tools to book more meetings.",
+    "link": "https://get.lemlist.com/ljskyzhjapd2"
+  },
+  {
+    "name": "Atto",
+    "category": "Operations & Workflow",
+    "domain": "attotime.com",
+    "desc": "Time tracking and timesheets for hourly and mobile teams. Track hours, breaks and locations with GPS and turn timesheets into payroll-ready reports.",
+    "link": "https://affiliate.attotime.com/0yonlt43h0ny"
+  },
+  {
+    "name": "Breezy HR",
+    "category": "Operations & Workflow",
+    "domain": "breezy.hr",
+    "desc": "Recruiting and applicant tracking made simple. Post jobs to 50+ boards, manage candidates on a visual pipeline, and automate scheduling and screening.",
+    "link": "https://breezyhr.partnerlinks.io/od0c6dipn1f2"
+  },
+  {
+    "name": "Kartra",
+    "category": "Growth & Revenue",
+    "domain": "kartra.com",
+    "desc": "All-in-one platform for selling online: landing pages, email automation, funnels, memberships and checkout in one tool — no plugins to stitch together.",
+    "link": "https://try.kartra.com/chp8ss1lpdfr",
+    "replaces": "ClickFunnels"
+  },
+  {
+    "name": "Barcodes Talk",
+    "category": "Operations & Workflow",
+    "domain": "barcodestalk.com",
+    "desc": "Authentic UPC and EAN barcodes for retail and Amazon listings. Buy GS1-sourced barcodes for your products as a one-time purchase, without an annual GS1 membership.",
+    "link": "https://barcodestalk.partnerlinks.io/w8ro9evm6hm7"
   }
 ]
