@@ -101,9 +101,8 @@ def main():
     ms = list(re.finditer(r'<article class="tool-card.*?</article>', rest, re.S))
     if not ms:
         raise SystemExit("❌ geen tool-cards gevonden")
-    between = rest[:ms[0].start()]
-    tail = rest[ms[-1].end():]
-    cards = [m.group(0) for m in ms]
+    head_re = re.compile(r'<div class="tools-section-head"[^>]*data-group="([a-z]+)"[^>]*>.*?</div>', re.S)
+    heads = {m.group(1): m.group(0) for m in head_re.finditer(rest)}
 
     def name_of(card):
         h = re.search(r"<h3>([^<]+)</h3>", card)
@@ -112,19 +111,44 @@ def main():
     def clicks_of(card):
         return tool_clicks.get(name_of(card), 0)
 
-    # stabiele sort: hoogste klikken eerst, rest behoudt volgorde
-    new_cards = sorted(cards, key=lambda c: -clicks_of(c))
-    if new_cards == cards:
-        print("\nVolgorde is al optimaal — niets te wijzigen.")
-        return
-    moved = [name_of(c) for c in new_cards[:8]]
-    print(f"\nNieuwe top-8 van de grid: {moved}")
+    def group_of(card):
+        g = re.search(r'data-group="([a-z]+)"', card)
+        return g.group(1) if g else "support"
 
-    if not a.apply:
-        print("\nDRY-RUN — draai met --apply om de grid te herordenen + pushen.")
-        return
+    cards = [m.group(0) for m in ms]
 
-    new_html = head + between + "\n".join(new_cards) + tail
+    # Sorteer BINNEN elke sectie-groep (ai/support) en behoud de sectiekoppen,
+    # zodat de "AI Tools"/"Business Support"-indeling intact blijft.
+    if "ai" in heads and "support" in heads:
+        start = min(ms[0].start(), min(m.start() for m in head_re.finditer(rest)))
+        end = ms[-1].end()
+        pre, tail = rest[:start], rest[end:]
+        groups = {"ai": [], "support": []}
+        for c in cards:
+            groups.get(group_of(c), groups["support"]).append(c)
+        new_groups = {g: sorted(cs, key=lambda c: -clicks_of(c)) for g, cs in groups.items()}
+        if all(new_groups[g] == groups[g] for g in groups):
+            print("\nVolgorde is al optimaal — niets te wijzigen.")
+            return
+        moved = [name_of(c) for c in (new_groups["ai"] + new_groups["support"])[:8]]
+        print(f"\nNieuwe top-8 (per groep gesorteerd): {moved}")
+        if not a.apply:
+            print("\nDRY-RUN — draai met --apply om de grid te herordenen + pushen.")
+            return
+        block = (heads["ai"] + "\n" + "\n".join(new_groups["ai"]) + "\n"
+                 + heads["support"] + "\n" + "\n".join(new_groups["support"]))
+        new_html = head + pre + block + tail
+    else:
+        # fallback (geen sectiekoppen): sorteer alles, oude gedrag
+        new_cards = sorted(cards, key=lambda c: -clicks_of(c))
+        if new_cards == cards:
+            print("\nVolgorde is al optimaal — niets te wijzigen.")
+            return
+        print(f"\nNieuwe top-8 van de grid: {[name_of(c) for c in new_cards[:8]]}")
+        if not a.apply:
+            print("\nDRY-RUN — draai met --apply om de grid te herordenen + pushen.")
+            return
+        new_html = head + rest[:ms[0].start()] + "\n".join(new_cards) + rest[ms[-1].end():]
     idx.write_text(new_html, encoding="utf-8")
 
     def git(*args):
