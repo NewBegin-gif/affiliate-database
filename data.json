@@ -400,7 +400,7 @@
     "category": "Operations & Workflow",
     "domain": "murf.ai",
     "desc": "Enterprise-grade AI voice generator. 200+ natural voices in 20+ languages for voiceovers, podcasts, presentations and YouTube content.",
-    "link": "https://murf.ai/?pscd=get.murf.ai&ps_partner_key=ZmJhZWMxNDQ1M2U3&ps_xid=ucwOJU0WnZj8HA&gsxid=ucwOJU0WnZj8HA&gspk=ZmJhZWMxNDQ1M2U3",
+    "link": "https://get.murf.ai/ym93ob513bo2",
     "replaces": "ElevenLabs"
   },
   {
@@ -1205,5 +1205,99 @@
     "desc": "Email marketing built for creators (formerly ConvertKit). Grow your list with landing pages and forms, then automate newsletters and sell digital products from one place.",
     "link": "https://partners.kit.com/3m3blymamusy",
     "replaces": "Mailchimp"
+  },
+  {
+    "name": "UniTel Voice",
+    "category": "Communication & Voice",
+    "domain": "unitelvoice.com",
+    "desc": "Virtual business phone system for small teams. Get a toll-free or local number with auto-attendant, call routing and a mobile app — no hardware.",
+    "link": "https://unitelvoice.partnerlinks.io/pez7g9obn4ti"
+  },
+  {
+    "name": "Passpack",
+    "category": "IT & Productivity",
+    "domain": "passpack.com",
+    "desc": "Team password manager for small businesses. Store, share and organize credentials securely with role-based access and encrypted vaults.",
+    "link": "https://try.passpack.com/1ueahem79erx"
+  },
+  {
+    "name": "ZoomInfo",
+    "category": "Growth & Revenue",
+    "domain": "zoominfo.com",
+    "desc": "Enterprise B2B sales intelligence and contact database. Find verified company and contact data, buying signals and org charts to fuel outbound at scale.",
+    "link": "https://try.zoominfo.com/me0vaf3cnryt"
+  },
+  {
+    "name": "Switcher Studio",
+    "category": "Operations & Workflow",
+    "domain": "switcherstudio.com",
+    "desc": "Multi-camera live video production from your iPhone and iPad. Stream, record and sell with professional switching, overlays and shopping integrations.",
+    "link": "https://start.switcherstudio.com/pq0alaki5yss"
+  },
+  {
+    "name": "Blinq",
+    "category": "IT & Productivity",
+    "domain": "blinq.me",
+    "desc": "Digital business cards for modern networking. Share your contact details instantly via QR or link, and capture leads straight into your CRM.",
+    "link": "https://partners.blinq.me/ohdq0uiuc8xg"
+  },
+  {
+    "name": "VWO",
+    "category": "Growth & Revenue",
+    "domain": "vwo.com",
+    "desc": "A/B testing and conversion optimization platform. Run experiments, heatmaps and personalization to lift conversions without developers.",
+    "link": "https://affiliates.vwo.com/c3bgwc9k4t6g",
+    "replaces": "Optimizely"
+  },
+  {
+    "name": "Connecteam",
+    "category": "Operations & Workflow",
+    "domain": "connecteam.com",
+    "desc": "All-in-one app for managing deskless teams. Scheduling, time clock, tasks, training and team chat for hourly and frontline workforces.",
+    "link": "https://partners.connecteam.com/ff7km2y3lp10"
+  },
+  {
+    "name": "BugHerd",
+    "category": "Operations & Workflow",
+    "domain": "bugherd.com",
+    "desc": "Visual bug tracking and website feedback. Let clients and teams point-and-click to report issues right on the page, turned into trackable tasks.",
+    "link": "https://partners.bugherd.com/yf1b0f16yoam"
+  },
+  {
+    "name": "iContact",
+    "category": "Growth & Revenue",
+    "domain": "icontact.com",
+    "desc": "Straightforward email marketing for growing businesses. Build campaigns and automations with drag-and-drop design and deliverability support.",
+    "link": "https://ps.icontact.com/d1d7xi95plm6",
+    "replaces": "Mailchimp"
+  },
+  {
+    "name": "Campaigner",
+    "category": "Growth & Revenue",
+    "domain": "campaigner.com",
+    "desc": "Advanced email and SMS marketing for mid-market teams. Build automated journeys, segment audiences and run A/B tests with detailed reporting.",
+    "link": "https://pstk.campaigner.com/0ypcozjggnji",
+    "replaces": "Mailchimp"
+  },
+  {
+    "name": "LearnWorlds",
+    "category": "Growth & Revenue",
+    "domain": "learnworlds.com",
+    "desc": "Create, sell and scale online courses. Build a branded school with interactive video, assessments, certificates and a built-in checkout.",
+    "link": "https://get.learnworlds.com/1xtk6p7wnwbd"
+  },
+  {
+    "name": "WhatConverts",
+    "category": "Growth & Revenue",
+    "domain": "whatconverts.com",
+    "desc": "Lead tracking and marketing attribution. Capture calls, forms and chats and tie every lead back to the campaign that drove it, for clear ROI.",
+    "link": "https://partners.whatconverts.com/yvtz37zhnib1"
+  },
+  {
+    "name": "Hopp",
+    "category": "IT & Productivity",
+    "domain": "gethopp.com",
+    "desc": "Digital business cards and smart networking for teams. Share contact details instantly and capture leads, with branded cards your whole team can use.",
+    "link": "https://get.business.gethopp.com/bzi57c8cghwg"
   }
 ]
