@@ -434,13 +434,6 @@
     "replaces": "RingCentral"
   },
   {
-    "name": "Hume AI",
-    "category": "Communication & Voice",
-    "domain": "hume.ai",
-    "desc": "Empathic voice intelligence APIs. Build conversational interfaces that actually understand and react to human emotional cues.",
-    "link": "https://try.hume.ai/iah71sw9lwr1"
-  },
-  {
     "name": "Vida AI",
     "category": "Communication & Voice",
     "domain": "vida.io",
