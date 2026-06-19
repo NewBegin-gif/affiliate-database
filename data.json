@@ -1376,5 +1376,12 @@
     "domain": "gelato.com",
     "desc": "Global print-on-demand platform: design, produce and ship custom products (apparel, wall art, mugs, photo books) locally in 30+ countries with no inventory — integrates with Shopify, Etsy and WooCommerce.",
     "link": "https://try.gelato.com/c9ioyi0ycvpz"
+  },
+  {
+    "name": "AfterSell",
+    "category": "Growth & Revenue",
+    "domain": "aftersell.app",
+    "desc": "Post-purchase upsell and cross-sell app for Shopify (by Rokt): one-click upsells, downsells and thank-you-page offers plus checkout customization to lift average order value — no extra ad spend.",
+    "link": "https://try.aftersell.app/vv4g49ide6z2"
   }
 ]
