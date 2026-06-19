@@ -1390,5 +1390,26 @@
     "domain": "smtp.com",
     "desc": "Reliable transactional and bulk email delivery via SMTP relay and API: high-deliverability sending for app notifications, receipts and campaigns, with real-time analytics and dedicated IPs — built for volume senders.",
     "link": "https://pstk.smtp.com/aav1yxqg0i9h"
+  },
+  {
+    "name": "1Password",
+    "category": "IT & Productivity",
+    "domain": "1password.com",
+    "desc": "Password manager and security platform for teams: store and share passwords, passkeys and secrets with autofill, breach monitoring and developer secrets management — enterprise-grade vaults with simple admin controls.",
+    "link": "https://1password.partnerlinks.io/jvm7u5ka0ctm"
+  },
+  {
+    "name": "Stamped",
+    "category": "Growth & Revenue",
+    "domain": "stamped.io",
+    "desc": "Reviews, ratings and loyalty platform for e-commerce: collect product reviews and user-generated content, run rewards and loyalty programs, and show social proof to lift conversions on Shopify and other stores.",
+    "link": "https://get.stamped.io/sdjq70urrlg6"
+  },
+  {
+    "name": "Streak",
+    "category": "Growth & Revenue",
+    "domain": "streak.com",
+    "desc": "CRM built directly inside Gmail: manage pipelines, leads and deals from your inbox with email tracking, mail merge and shared views — ideal for teams that live in Google Workspace.",
+    "link": "https://get.streak.com/jssfh6jx2eqa"
   }
 ]
