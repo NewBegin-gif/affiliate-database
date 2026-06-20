@@ -1411,5 +1411,12 @@
     "domain": "streak.com",
     "desc": "CRM built directly inside Gmail: manage pipelines, leads and deals from your inbox with email tracking, mail merge and shared views — ideal for teams that live in Google Workspace.",
     "link": "https://get.streak.com/jssfh6jx2eqa"
+  },
+  {
+    "name": "Wati",
+    "category": "Communication & Voice",
+    "domain": "wati.io",
+    "desc": "WhatsApp Business API platform for sales and support: shared team inbox, bulk broadcasts, no-code chatbots and automations to manage customer conversations on WhatsApp at scale.",
+    "link": "https://affiliates.wati.io/pzd090owoazz"
   }
 ]
