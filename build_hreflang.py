@@ -113,6 +113,11 @@ if COMMIT and changed:
     git("add", "-A", "--", "b2b")
     r = git("commit", "-m", "hreflang: sync taal-clusters (self-healing)")
     print(r.stdout.strip() or r.stderr.strip())
-    p = git("push", "origin", "main")
-    print((p.stdout + p.stderr).strip())
+    # pull -X ours (Victor pusht vaak tegelijk) + push naar BEIDE branches,
+    # zodat de hourly automerge (staging->main) deze wijzigingen niet terugdraait.
+    git("pull", "--no-rebase", "-X", "ours", "origin", "main")
+    p1 = git("push", "origin", "HEAD:main")
+    print("push main     :", (p1.stdout + p1.stderr).strip()[-200:])
+    p2 = git("push", "origin", "HEAD:victor-staging")
+    print("push staging  :", (p2.stdout + p2.stderr).strip()[-200:])
 print("\n✅ klaar.")
