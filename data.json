@@ -818,14 +818,6 @@
     "replaces": "SurveyMonkey"
   },
   {
-    "name": "Dify.ai",
-    "category": "IT & Productivity",
-    "domain": "dify.ai",
-    "desc": "Open-source LLM app development platform. Build, deploy, and scale custom AI applications and workflow agents visually without deep coding.",
-    "link": "https://affiliate.dify.ai/6g7z70ov0bx6",
-    "replaces": "LangChain"
-  },
-  {
     "name": "doola",
     "category": "Financial Operations",
     "domain": "doola.com",
