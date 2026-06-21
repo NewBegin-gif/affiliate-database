@@ -1425,5 +1425,12 @@
     "desc": "Browser-based remote desktop and remote-support software: connect to any computer with no client install, share one-click access links, transfer files and record sessions — for IT teams, MSPs and remote support.",
     "link": "https://try.getscreen.me/9dvak6w573be",
     "replaces": "TeamViewer"
+  },
+  {
+    "name": "Instapage",
+    "category": "Growth & Revenue",
+    "domain": "instapage.com",
+    "desc": "Enterprise landing-page and conversion platform: build, personalize and A/B-test post-click landing pages at scale, with ad-to-page mapping, heatmaps and fast AMP pages — built for paid-ads and demand-gen teams.",
+    "link": "https://get.instapage.com/2lq0k4uhv1pj"
   }
 ]
