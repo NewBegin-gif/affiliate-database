@@ -24,7 +24,8 @@ sizes = Counter()
 has_html = has_head = has_h1 = has_article = empty = 0
 for name, t in hits:
     n = len(t)
-    sizes["leeg/<100" if n < 100 else ("<1KB" if n < 1024 else ("1-5KB" if n < 5120 else ">5KB")] += 1
+    bucket = "leeg/<100" if n < 100 else ("<1KB" if n < 1024 else ("1-5KB" if n < 5120 else ">5KB"))
+    sizes[bucket] += 1
     if n < 100: empty += 1
     if "<html" in t.lower(): has_html += 1
     if "<head" in t.lower(): has_head += 1
