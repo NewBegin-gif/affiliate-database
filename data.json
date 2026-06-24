@@ -1432,5 +1432,113 @@
     "domain": "instapage.com",
     "desc": "Enterprise landing-page and conversion platform: build, personalize and A/B-test post-click landing pages at scale, with ad-to-page mapping, heatmaps and fast AMP pages — built for paid-ads and demand-gen teams.",
     "link": "https://get.instapage.com/2lq0k4uhv1pj"
+  },
+  {
+    "name": "Feedvisor",
+    "category": "Growth & Revenue",
+    "domain": "feedvisor.com",
+    "desc": "AI-driven Amazon and retail-media optimization: dynamic repricing, ad automation and analytics for brands and larger sellers on Amazon and Walmart.",
+    "link": "https://feedvisor.partnerlinks.io/2lx0ci1imt4c"
+  },
+  {
+    "name": "TicketTailor",
+    "category": "Growth & Revenue",
+    "domain": "tickettailor.com",
+    "desc": "Low-fee event ticketing and box-office software: sell tickets online, manage check-in and keep more of your revenue without per-ticket booking fees.",
+    "link": "https://get.tickettailor.com/k2ghn70e8bkx",
+    "replaces": "Eventbrite"
+  },
+  {
+    "name": "Auware",
+    "category": "Growth & Revenue",
+    "domain": "auware.com",
+    "desc": "B2B e-commerce and digital sales platform for manufacturers and wholesalers. (Positionering checken.)",
+    "link": "https://get.auware.com/3bbijs3hb8rg"
+  },
+  {
+    "name": "Zeffy",
+    "category": "Financial Operations",
+    "domain": "zeffy.com",
+    "desc": "100% free fundraising and donation platform for nonprofits: ticketing, donation forms and payments with no platform fees.",
+    "link": "https://join.zeffy.com/d8gjswsqntkf"
+  },
+  {
+    "name": "SurveyMonkey",
+    "category": "Operations & Workflow",
+    "domain": "surveymonkey.com",
+    "desc": "Survey and feedback platform: build surveys, collect responses at scale and analyze results for market research, CX and employee feedback.",
+    "link": "https://get.surveymonkey.com/j2075v4d79vk"
+  },
+  {
+    "name": "Pipedrive",
+    "category": "Growth & Revenue",
+    "domain": "pipedrive.com",
+    "desc": "Sales-first CRM built around a visual pipeline: track deals, automate follow-ups and forecast revenue — designed for small and mid-size sales teams.",
+    "link": "https://aff.trypipedrive.com/aqpvm5cn8eu0"
+  },
+  {
+    "name": "Notify Me",
+    "category": "Growth & Revenue",
+    "domain": "notify-me.io",
+    "desc": "Back-in-stock and restock alert app for online stores: capture demand on out-of-stock products and notify shoppers automatically. (Positionering checken.)",
+    "link": "https://affiliate.notify-me.io/rg8yn9oel32b"
+  },
+  {
+    "name": "HiBob",
+    "category": "Operations & Workflow",
+    "domain": "hibob.com",
+    "desc": "Modern HR platform (Bob): HRIS, onboarding, time-off and people analytics for growing companies that want culture-first HR without enterprise bloat.",
+    "link": "https://partners.hibob.com/er7lzncj0udv",
+    "replaces": "BambooHR"
+  },
+  {
+    "name": "Kixie",
+    "category": "Communication & Voice",
+    "domain": "kixie.com",
+    "desc": "Sales engagement with a power dialer: automated calling and SMS, CRM integration and call analytics to help reps connect with more leads, faster.",
+    "link": "https://get.kixie.com/e9lu0lbwzvmq"
+  },
+  {
+    "name": "Finale Inventory",
+    "category": "Operations & Workflow",
+    "domain": "finaleinventory.com",
+    "desc": "Inventory and warehouse management for e-commerce and wholesale: multi-channel stock sync, purchasing and barcode workflows that scale with order volume.",
+    "link": "https://try.finaleinventory.com/gmb7s3248u3u"
+  },
+  {
+    "name": "Beefree",
+    "category": "Growth & Revenue",
+    "domain": "beefree.io",
+    "desc": "Drag-and-drop email and landing-page design (BEE): build responsive, on-brand emails fast and export to any major ESP — no coding required.",
+    "link": "https://partners.beefree.io/o4iguobqzx2q"
+  },
+  {
+    "name": "Crazy Egg",
+    "category": "Growth & Revenue",
+    "domain": "crazyegg.com",
+    "desc": "Website optimization with heatmaps, scroll maps, session recordings and A/B testing — see how visitors behave and lift conversions with data.",
+    "link": "https://try.crazyegg.com/8gaco0ajvmye",
+    "replaces": "Hotjar"
+  },
+  {
+    "name": "Wing Assistant",
+    "category": "Operations & Workflow",
+    "domain": "wingassistant.com",
+    "desc": "Managed virtual assistants for founders and teams: delegate admin, inbox, scheduling and repetitive tasks to a dedicated, trained assistant.",
+    "link": "https://affiliate.wingassistant.com/tt7of1h3s2pz"
+  },
+  {
+    "name": "SimpleTexting",
+    "category": "Communication & Voice",
+    "domain": "simpletexting.com",
+    "desc": "SMS marketing and business texting: run mass-text campaigns, two-way conversations and automations with compliance built in.",
+    "link": "https://simpletexting.stptnr.net/4jtoi813qzd0"
+  },
+  {
+    "name": "Dext",
+    "category": "Financial Operations",
+    "domain": "dext.com",
+    "desc": "Bookkeeping automation: capture receipts and invoices, extract the data automatically and sync to your accounting software — less manual entry.",
+    "link": "https://join.dext.com/kpcxwghrlalz"
   }
 ]
