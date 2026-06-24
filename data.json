@@ -1540,5 +1540,13 @@
     "domain": "dext.com",
     "desc": "Bookkeeping automation: capture receipts and invoices, extract the data automatically and sync to your accounting software — less manual entry.",
     "link": "https://join.dext.com/kpcxwghrlalz"
+  },
+  {
+    "name": "Fireflies.ai",
+    "category": "Communication & Voice",
+    "domain": "fireflies.ai",
+    "desc": "AI meeting assistant that records, transcribes and summarizes your calls across Zoom, Google Meet and Teams — searchable notes, action items and CRM sync, so nobody takes minutes by hand.",
+    "link": "https://www.awin1.com/cread.php?awinmid=118085&awinaffid=2880219",
+    "replaces": "Otter.ai"
   }
 ]
