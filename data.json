@@ -1562,5 +1562,21 @@
     "domain": "tenable.com",
     "desc": "Exposure and vulnerability management (makers of Nessus): scan, prioritize and remediate security weaknesses across IT, cloud and OT — for security teams of any size.",
     "link": "https://shop.tenable.com/134ck77eqv64"
+  },
+  {
+    "name": "Riverside",
+    "category": "Growth & Revenue",
+    "domain": "riverside.fm",
+    "desc": "AI-powered studio to record studio-quality podcasts and video remotely — then edit, transcribe and repurpose into clips, all in the browser.",
+    "link": "https://riverside.partnerlinks.io/g04f8x6h3qz8",
+    "replaces": "Zencastr"
+  },
+  {
+    "name": "ZenZap",
+    "category": "Communication & Voice",
+    "domain": "zenzap.co",
+    "desc": "Secure work-chat for teams — organized channels, built-in tasks and workflows, AI agents and admin controls, as easy to use as texting.",
+    "link": "https://try.zenzap.co/piw5krp2j8vw",
+    "replaces": "Slack"
   }
 ]
