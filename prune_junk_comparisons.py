@@ -69,10 +69,21 @@ def is_junk(slug):
     dl, dr = classify(l), classify(r)
     if dl == dr:
         return None  # zelfde domein → zinvol → behouden
-    # incompatibel als minstens één kant gespecialiseerd is en de domeinen verschillen
-    if dl in SPECIALIZED or dr in SPECIALIZED:
-        return (l, dl, r, dr)
-    return None  # GENERAL × GENERAL → echte B2B-vergelijking → behouden
+    doms = {dl, dr}
+    if "GENERAL" in doms:
+        spec = dl if dr == "GENERAL" else dr
+        genside = r if dr == "GENERAL" else l
+        # MEDIA/DEV × GENERAL: te veel legitieme vergelijkingen (video-editors,
+        # coding-tools) → met rust laten (hoge precisie boven volledigheid).
+        if spec in ("MEDIA", "DEV"):
+            return None
+        # CRYPTO × GENERAL: alleen echte tool-vs-tool (korte naam), geen
+        # crypto-prijsartikelen (lange/zin-achtige kant).
+        if spec == "CRYPTO" and len(genside.split("-")) > 2:
+            return None
+        return (l, dl, r, dr)  # CRYPTO×tool of WPCACHE×onverwant → junk
+    # beide kanten gespecialiseerd en verschillend → junk
+    return (l, dl, r, dr)
 
 
 # ── Detectie ──
