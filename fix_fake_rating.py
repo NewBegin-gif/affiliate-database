@@ -196,8 +196,14 @@ CSS_NEW = ".verdict-stats{display:grid;grid-template-columns:repeat(auto-fit,min
 pages = sorted(B2B.glob("*/index.html"))
 counts = {"schema4.6": 0, "schema4.9": 0, "vstat": 0, "sticky": 0, "mobile": 0, "meta": 0, "css": 0}
 changed_files = 0
+hero_skipped = 0
 for f in pages:
     t = f.read_text(encoding="utf-8", errors="ignore")
+    # Hand-gebouwde hero's (author Person Daniel Haket, #daan) hebben ECHTE scores
+    # — ook genuine 4.6 (NordVPN/Apollo). Nooit aanraken.
+    if "about/#daan" in t:
+        hero_skipped += 1
+        continue
     o = t
     t, n = re_schema46.subn("", t); counts["schema4.6"] += n
     t, n = re_schema49.subn("", t); counts["schema4.9"] += n
@@ -214,6 +220,7 @@ for f in pages:
             f.write_text(t, encoding="utf-8")
 
 print(f"  pagina's gescand : {len(pages)}")
+print(f"  hero's overgeslagen (echte scores): {hero_skipped}")
 for k, v in counts.items():
     print(f"  {k:11s}: {v}")
 print(f"  bestanden gewijzigd: {changed_files}")
