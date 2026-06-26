@@ -59,13 +59,16 @@ for title, slugs in title2.items():
     if len(slugs) < 2:
         continue
     slugs_sorted = sorted(slugs, key=lambda s: (len(s), s))
+    DESCR = [" — Compared", " — Top Picks", " — Full Comparison", " — Ranked & Reviewed", " — Complete List", " — Overview"]
     used = {title}
     for s in slugs_sorted[1:]:           # eerste behoudt de titel
-        nt = build_title(title, suffix_for(s, title))
-        i = 2
-        while nt in used:
-            nt = build_title(title, suffix_for(s, title), f" ({i})")
-            i += 1
+        base = suffix_for(s, title)
+        nt = build_title(title, base)
+        di = 0
+        while nt in used:                # natuurlijke, unieke distinctie i.p.v. (2)/(3)
+            extra = DESCR[di % len(DESCR)]
+            nt = build_title(title, base + extra if base else extra)
+            di += 1
         used.add(nt)
         changes[s] = (title, nt)
 
