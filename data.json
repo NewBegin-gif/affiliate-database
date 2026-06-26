@@ -1578,5 +1578,21 @@
     "desc": "Secure work-chat for teams — organized channels, built-in tasks and workflows, AI agents and admin controls, as easy to use as texting.",
     "link": "https://try.zenzap.co/piw5krp2j8vw",
     "replaces": "Slack"
+  },
+  {
+    "name": "Uniqode",
+    "category": "Growth & Revenue",
+    "domain": "uniqode.com",
+    "desc": "Dynamic QR codes and digital business cards with real-time scan analytics — connect offline touchpoints to measurable results and capture leads.",
+    "link": "https://try.uniqode.com/1r2z1l0icwaa",
+    "replaces": "Bitly"
+  },
+  {
+    "name": "Shoeboxed",
+    "category": "Financial Operations",
+    "domain": "shoeboxed.com",
+    "desc": "Turn paper and digital receipts into organized, IRS-ready expense data with OCR plus human verification — syncs with QuickBooks and Xero.",
+    "link": "https://referrals.shoeboxed.com/kac02mcjuo9d",
+    "replaces": "Expensify"
   }
 ]
