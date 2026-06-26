@@ -1594,5 +1594,21 @@
     "desc": "Turn paper and digital receipts into organized, IRS-ready expense data with OCR plus human verification — syncs with QuickBooks and Xero.",
     "link": "https://referrals.shoeboxed.com/kac02mcjuo9d",
     "replaces": "Expensify"
+  },
+  {
+    "name": "Sellfy",
+    "category": "Growth & Revenue",
+    "domain": "sellfy.com",
+    "desc": "No-code store builder for creators to sell digital products, subscriptions and print-on-demand merch — with zero transaction fees and built-in social-media selling.",
+    "link": "https://get.sellfy.com/vbstfilwqb5p",
+    "replaces": "Gumroad"
+  },
+  {
+    "name": "Tellent",
+    "category": "Operations & Workflow",
+    "domain": "tellent.com",
+    "desc": "Modular people-management platform — applicant tracking (Recruitee), core HR and performance management with AI automation, for hiring and managing teams.",
+    "link": "https://join.tellent.com/bom2nc513eer",
+    "replaces": "BambooHR"
   }
 ]
