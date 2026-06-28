@@ -1610,5 +1610,12 @@
     "desc": "Modular people-management platform — applicant tracking (Recruitee), core HR and performance management with AI automation, for hiring and managing teams.",
     "link": "https://join.tellent.com/bom2nc513eer",
     "replaces": "BambooHR"
+  },
+  {
+    "name": "VidPal",
+    "category": "Growth & Revenue",
+    "domain": "vidpal.ai",
+    "desc": "Autonomous content engine for faceless and topic-based channels: it discovers trending stories in your niche, auto-generates short-form videos and carousels with AI voiceovers, and auto-publishes them across Instagram, TikTok, YouTube and more.",
+    "link": "https://vidpal.ai?atp=h2U5ra"
   }
 ]
