@@ -78,7 +78,7 @@ def main():
 
     print(f"\nGSC per /b2b/-groep — {SITE}")
     print(f"periode {start} t/m {end} ({DAYS_BACK} dagen)\n")
-    print(f"{'groep/taal':<26}{'pagina's':>9}{'clicks':>9}{'impressies':>12}{'CTR':>8}")
+    print(f"{'groep/taal':<26}{'paginas':>9}{'clicks':>9}{'impressies':>12}{'CTR':>8}")
     print("-" * 64)
     for k in sorted(g, key=lambda x: -g[x]["impr"]):
         v = g[k]
