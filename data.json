@@ -1617,5 +1617,71 @@
     "domain": "vidpal.ai",
     "desc": "Autonomous content engine for faceless and topic-based channels: it discovers trending stories in your niche, auto-generates short-form videos and carousels with AI voiceovers, and auto-publishes them across Instagram, TikTok, YouTube and more.",
     "link": "https://vidpal.ai?atp=h2U5ra"
+  },
+  {
+    "name": "LettrLabs",
+    "category": "Growth & Revenue",
+    "domain": "lettrlabs.com",
+    "desc": "Automated direct-mail marketing: design, personalise and send physical mailers — handwritten letters, postcards — at scale, synced with your digital campaigns and tracked for ROI.",
+    "link": "https://affiliate.lettrlabs.com/zzv68ffwy4qh"
+  },
+  {
+    "name": "ExpertEx",
+    "category": "IT & Productivity",
+    "domain": "expertex.ai",
+    "desc": "A unified AI studio: chat across multiple models (GPT-4, Gemini), generate images, video and voice, and reuse prompts — multilingual, all in one workspace.",
+    "link": "https://try.expertex.ai/0e5xivitpivy"
+  },
+  {
+    "name": "Guesty",
+    "category": "Operations & Workflow",
+    "domain": "guesty.com",
+    "desc": "All-in-one management for short-term and vacation rentals: unify bookings, guest messaging, channel distribution and pricing across 60+ channels (Airbnb, Vrbo and more) in one dashboard.",
+    "link": "https://join.guesty.com/hbsivmn3jiqk"
+  },
+  {
+    "name": "Alvys",
+    "category": "Operations & Workflow",
+    "domain": "alvys.com",
+    "desc": "Cloud-native transportation management system (TMS) for trucking carriers and freight brokers: dispatch, billing, compliance and reporting in one AI-driven platform.",
+    "link": "https://get.alvys.com/nuay0lqxew7c"
+  },
+  {
+    "name": "Prezi",
+    "category": "Operations & Workflow",
+    "domain": "prezi.com",
+    "desc": "AI presentation maker for dynamic, non-linear decks that stand out from standard slides — turn ideas into polished, interactive presentations fast.",
+    "link": "https://try.prezi.com/rkzfgy3kd8th",
+    "replaces": "PowerPoint"
+  },
+  {
+    "name": "QuickSigner",
+    "category": "IT & Productivity",
+    "domain": "quicksigner.com",
+    "desc": "Simple, legally-binding e-signatures: upload a document, add signers and collect AATL-certified signatures in seconds — a cost-effective alternative to enterprise e-sign tools.",
+    "link": "https://get.quicksigner.com/rovxkyohvtcb",
+    "replaces": "DocuSign"
+  },
+  {
+    "name": "Plansom",
+    "category": "Operations & Workflow",
+    "domain": "plansom.com",
+    "desc": "AI project management and work OS for teams: organise tasks, goals and collaboration, with AI that helps prioritise what actually moves the needle.",
+    "link": "https://get.plansom.com/rbq5isz20va4",
+    "replaces": "Asana"
+  },
+  {
+    "name": "Superfiliate",
+    "category": "Growth & Revenue",
+    "domain": "superfiliate.com",
+    "desc": "Creator-led growth for D2C brands: run influencer, affiliate and referral programs in one platform across Shopify, Meta and TikTok Shop — discovery, automation, gifting and revenue tracking.",
+    "link": "https://ps.superfiliate.com/z350tf5gg5u4"
+  },
+  {
+    "name": "Dryground AI",
+    "category": "IT & Productivity",
+    "domain": "dryground.ai",
+    "desc": "Full-stack AI implementation services: helps businesses design and integrate AI across their tech stack — for teams that want AI built and shipped, not just advised.",
+    "link": "https://partners.dryground.ai/7cnrj412d54z"
   }
 ]
