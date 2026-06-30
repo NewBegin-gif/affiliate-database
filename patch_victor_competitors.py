@@ -11,7 +11,7 @@ AG = "/root/felix_hq/generate_article.py"
 
 VAULT_NEW = {
     "Clay":"https://clay.com","CallRail":"https://partners.callrail.com/nvve8beie0o6",
-    "Aspire":"https://partners.aspireapp.com/rxabq4f89u7t","Checkr":"https://get.checkr.com/dlmrvlliqgxm",
+    "Aspire":"https://partners.aspireapp.com/AIBuilder","Checkr":"https://get.checkr.com/dlmrvlliqgxm",
     "Freshchat":"https://affiliatepartner-freshchat.freshworks.com/613iz3k6u70i","Birch":"https://join.bir.ch/aje5arihw6cw",
     "Freshservice":"https://affiliatepartner-freshservice.freshworks.com/fllek8c4eikg","AWeber":"https://psjoin.aweber.com/l7c34qaiww5c",
     "InboxAlly":"https://get.inboxally.com/anvbioq7ns18","Gelato":"https://try.gelato.com/c9ioyi0ycvpz",

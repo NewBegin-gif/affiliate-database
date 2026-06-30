@@ -62,7 +62,7 @@ else:
     )
     entry = (
         '    "Aspire": {\n'
-        '        "url": "https://partners.aspireapp.com/rxabq4f89u7t",\n'
+        '        "url": "https://partners.aspireapp.com/AIBuilder",\n'
         '        "rating": "4.5",\n'
         '        "reviews": "",\n'
         '        "price": "",\n'
