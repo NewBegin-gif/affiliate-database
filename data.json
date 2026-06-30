@@ -1685,5 +1685,13 @@
     "domain": "dryground.ai",
     "desc": "Full-stack AI implementation services: helps businesses design and integrate AI across their tech stack — for teams that want AI built and shipped, not just advised.",
     "link": "https://partners.dryground.ai/7cnrj412d54z"
+  },
+  {
+    "name": "Sendcloud",
+    "category": "Operations & Workflow",
+    "domain": "sendcloud.com",
+    "desc": "European e-commerce shipping platform: connect 160+ carriers, print labels in batches, show delivery options at checkout, send branded tracking (email, WhatsApp, SMS) and run a self-service returns portal — with rules-based shipping automation. Free plan available.",
+    "link": "https://sendcloud.getsc.eu/smge2ar5przm",
+    "replaces": "ShipStation"
   }
 ]
