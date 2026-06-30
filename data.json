@@ -1202,8 +1202,9 @@
     "name": "Passpack",
     "category": "IT & Productivity",
     "domain": "passpack.com",
-    "desc": "Team password manager for small businesses. Store, share and organize credentials securely with role-based access and encrypted vaults.",
-    "link": "https://try.passpack.com/1ueahem79erx"
+    "desc": "Team password manager for small businesses. Store, share and organize credentials securely with role-based access, zero-knowledge encryption and shared team vaults — at a low per-user price.",
+    "link": "https://try.passpack.com/1ueahem79erx",
+    "replaces": "1Password"
   },
   {
     "name": "ZoomInfo",
