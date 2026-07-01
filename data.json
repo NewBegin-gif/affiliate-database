@@ -1693,5 +1693,21 @@
     "desc": "European e-commerce shipping platform: connect 160+ carriers, print labels in batches, show delivery options at checkout, send branded tracking (email, WhatsApp, SMS) and run a self-service returns portal — with rules-based shipping automation. Free plan available.",
     "link": "https://sendcloud.getsc.eu/smge2ar5przm",
     "replaces": "ShipStation"
+  },
+  {
+    "name": "AgencyAnalytics",
+    "category": "Growth & Revenue",
+    "domain": "agencyanalytics.com",
+    "desc": "Client reporting and dashboards built for marketing agencies: aggregate 80+ marketing platforms into white-label dashboards and automated reports, with per-client KPI goals. White-labeling on every plan.",
+    "link": "https://try.agencyanalytics.com/wbvfos4lz97z",
+    "replaces": "Databox"
+  },
+  {
+    "name": "Healthie",
+    "category": "Operations & Workflow",
+    "domain": "gethealthie.com",
+    "desc": "All-in-one practice management and EHR for health, wellness and nutrition providers: scheduling, telehealth, secure messaging, billing and a branded client portal — plus a full API (GraphQL + webhooks) for automation. Built to scale with group practices.",
+    "link": "https://refer.gethealthie.com/fwvt80nnt1fq",
+    "replaces": "SimplePractice"
   }
 ]
