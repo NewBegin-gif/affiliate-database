@@ -1727,5 +1727,13 @@
   "desc": "Booking and business software for local service businesses (salons, barbers, wellness, coaches): 24/7 online appointments via your website, Google and Instagram, calendar and staff scheduling, client profiles, automated reminders that cut no-shows, plus email marketing and POS. Fixed monthly price with unlimited bookings — no per-booking commission.",
   "link": "https://try.shore.com/cdwievnt6wb5",
   "replaces": "Fresha"
+ },
+ {
+  "name": "Velora",
+  "category": "Operations & Workflow",
+  "domain": "joinvelora.com",
+  "desc": "Unified operations platform for nonprofits: Keela (donor CRM), Aplos (fund accounting) and Raisely (online fundraising) as one connected suite — donor management, campaigns and finances built for charities instead of adapted from business software.",
+  "link": "https://partnerstack.joinvelora.com/w52wdps7sva8",
+  "replaces": "Blackbaud"
  }
 ]
