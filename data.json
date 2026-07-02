@@ -1719,5 +1719,13 @@
   "desc": "Free US service that automatically finds and switches you to a cheaper electricity supply rate in the 13 deregulated states (Northeast, Midwest, Texas). Your utility and wiring stay the same, no service interruption, cancel anytime — Arbor is paid a referral fee by the supplier, so households pay nothing.",
   "link": "https://get.joinarbor.com/1br17seg3993",
   "replaces": "Arcadia"
+ },
+ {
+  "name": "Shore",
+  "category": "Operations & Workflow",
+  "domain": "shore.com",
+  "desc": "Booking and business software for local service businesses (salons, barbers, wellness, coaches): 24/7 online appointments via your website, Google and Instagram, calendar and staff scheduling, client profiles, automated reminders that cut no-shows, plus email marketing and POS. Fixed monthly price with unlimited bookings — no per-booking commission.",
+  "link": "https://try.shore.com/cdwievnt6wb5",
+  "replaces": "Fresha"
  }
 ]
