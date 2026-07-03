@@ -1735,5 +1735,13 @@
   "desc": "Unified operations platform for nonprofits: Keela (donor CRM), Aplos (fund accounting) and Raisely (online fundraising) as one connected suite — donor management, campaigns and finances built for charities instead of adapted from business software.",
   "link": "https://partnerstack.joinvelora.com/w52wdps7sva8",
   "replaces": "Blackbaud"
+ },
+ {
+  "name": "Hello Bar",
+  "category": "Growth & Revenue",
+  "domain": "hellobar.com",
+  "desc": "Popup and notification-bar tool for lead capture: sticky bars, popups, slide-ins and full-screen takeovers that turn visitors into subscribers — with A/B testing, targeting rules and 20+ email-tool integrations.",
+  "link": "https://try.hellobar.com/vz8mv5n0fc5o",
+  "replaces": "OptinMonster"
  }
 ]
