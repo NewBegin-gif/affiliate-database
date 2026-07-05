@@ -1751,5 +1751,13 @@
   "desc": "Shopify web-push and omnichannel marketing, now part of Brevo. One-click push lets stores re-engage shoppers who never leave an email — recovering abandoned carts and browsing sessions — then layer in email, SMS and WhatsApp on Brevo's deliverability stack. Usage-based pricing: you pay for what you send, not list size.",
   "link": "https://pushowl.partnerlinks.io/q6pgekp20d5r",
   "replaces": null
+ },
+ {
+  "name": "Claude",
+  "category": "IT & Productivity",
+  "domain": "claude.ai",
+  "desc": "Anthropic's AI assistant for writing, coding, analysis and long-document work — strong reasoning and a careful, direct tone rather than an eager-to-please one. Free tier plus Pro, Max, Team and Enterprise plans, and a per-token API (Opus, Sonnet, Haiku) for builders.",
+  "link": "https://claude.ai/referral/X1LTpF6c2g",
+  "replaces": null
  }
 ]
