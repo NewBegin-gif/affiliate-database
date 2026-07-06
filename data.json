@@ -1759,5 +1759,13 @@
   "desc": "Anthropic's AI assistant for writing, coding, analysis and long-document work — strong reasoning and a careful, direct tone rather than an eager-to-please one. Free tier plus Pro, Max, Team and Enterprise plans, and a per-token API (Opus, Sonnet, Haiku) for builders.",
   "link": "https://claude.ai/referral/X1LTpF6c2g",
   "replaces": null
+ },
+ {
+  "name": "UltaHost",
+  "category": "IT & Productivity",
+  "domain": "ultahost.com",
+  "desc": "Budget-friendly web hosting across shared, VPS, WordPress and dedicated plans — NVMe SSD storage, free SSL and migration, DDoS protection and 24/7 multilingual support, from 30+ global data centers.",
+  "link": "https://ultahost.partnerlinks.io/abbakj2xux9m",
+  "replaces": null
  }
 ]
