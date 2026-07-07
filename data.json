@@ -1775,5 +1775,13 @@
     "desc": "AI-powered video and podcast editor: edit media by editing the text transcript — cut, overdub and remove filler words like editing a doc — with screen recording, AI voice cloning and an AI assistant (Underlord) built in.",
     "link": "https://get.descript.com/lt9i7t1hqzpb",
     "replaces": null
+  },
+  {
+    "name": "Miro",
+    "category": "Operations & Workflow",
+    "domain": "miro.com",
+    "desc": "Visual collaboration platform: an infinite online whiteboard for brainstorms, diagrams, workshops and planning — with templates, voting and AI that generates diagrams and summaries, built for real-time and async teamwork.",
+    "link": "https://ps.miro-affiliate.com/7itdogqkusu9",
+    "replaces": null
   }
 ]
