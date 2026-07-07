@@ -1189,7 +1189,7 @@
     "name": "Kit",
     "category": "Growth & Revenue",
     "domain": "kit.com",
-    "desc": "Email marketing built for creators (formerly ConvertKit). Grow your list with landing pages and forms, then automate newsletters and sell digital products from one place.",
+    "desc": "Email marketing built for creators (formerly ConvertKit). Grow your list with landing pages and forms, then automate newsletters and sell digital products from one place; a beta Kit MCP connects AI assistants like Claude directly to your account.",
     "link": "https://partners.kit.com/3m3blymamusy",
     "replaces": "Mailchimp"
   },
@@ -1766,6 +1766,14 @@
     "domain": "ultahost.com",
     "desc": "Budget-friendly web hosting across shared, VPS, WordPress and dedicated plans — NVMe SSD storage, free SSL and migration, DDoS protection and 24/7 multilingual support, from 30+ global data centers.",
     "link": "https://ultahost.partnerlinks.io/abbakj2xux9m",
+    "replaces": null
+  },
+  {
+    "name": "Descript",
+    "category": "Operations & Workflow",
+    "domain": "descript.com",
+    "desc": "AI-powered video and podcast editor: edit media by editing the text transcript — cut, overdub and remove filler words like editing a doc — with screen recording, AI voice cloning and an AI assistant (Underlord) built in.",
+    "link": "https://get.descript.com/lt9i7t1hqzpb",
     "replaces": null
   }
 ]
