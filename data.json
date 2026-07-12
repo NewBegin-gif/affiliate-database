@@ -1,5 +1,61 @@
 [
  {
+  "name": "Pricefy",
+  "domain": "pricefy.io",
+  "link": "https://www.pricefy.io/?red=aibuil",
+  "category": "E-commerce",
+  "desc": "Competitor price monitoring and dynamic repricing for e-commerce \u2014 AI product matching, price-intelligence dashboards, feed channels and autopilot repricing."
+ },
+ {
+  "name": "Signeasy",
+  "domain": "signeasy.com",
+  "link": "https://signeasy.com/?red=aibuil",
+  "category": "Productivity",
+  "desc": "E-signature and contract management for SMBs \u2014 unlimited signing and sending, templates, audit trails and integrations, priced per seat."
+ },
+ {
+  "name": "AhaSlides",
+  "domain": "ahaslides.com",
+  "link": "https://ahaslides.com/?red=aibuil&utm_source=aibuil&utm_medium=revshare&utm_affiliate_network=reditus",
+  "category": "Design & Content",
+  "desc": "Interactive presentation platform \u2014 live polls, quizzes, word clouds and audience Q&A, free for up to 50 participants."
+ },
+ {
+  "name": "Algomo",
+  "domain": "algomo.com",
+  "link": "https://www.algomo.com/?red=aibuil",
+  "category": "Sales & CRM",
+  "desc": "AI inbound agent and website personalization for B2B \u2014 qualifies visitors by identity, holds contextual conversations and books meetings from your existing traffic."
+ },
+ {
+  "name": "Geotargetly",
+  "domain": "geotargetly.com",
+  "link": "https://geotargetly.com/?red=aibuil",
+  "category": "Marketing",
+  "desc": "Geo-targeting toolkit \u2014 location-based redirects, content swaps, popups and personalization by country, state and city, priced by traffic volume."
+ },
+ {
+  "name": "Warmup Inbox",
+  "domain": "warmupinbox.com",
+  "link": "https://www.warmupinbox.com/?red=aibuil",
+  "category": "Marketing",
+  "desc": "Standalone email warm-up service \u2014 automated inbox warming, deliverability monitoring and integrations for Google, Outlook, Zoho and SendGrid."
+ },
+ {
+  "name": "UptimeRobot",
+  "domain": "uptimerobot.com",
+  "link": "https://uptimerobot.com/?red=aibuil",
+  "category": "Developer Tools",
+  "desc": "Uptime monitoring with a generous free tier \u2014 website, port, keyword and API checks down to 60-second intervals, status pages, integrations and mobile apps."
+ },
+ {
+  "name": "GrapeLeads",
+  "domain": "grapeleads.com",
+  "link": "https://grapeleads.com/?gr_pk=OG4A",
+  "category": "Sales & CRM",
+  "desc": "Lead-finding for web developers and agencies \u2014 surfaces local businesses without websites from Google Maps, with contact details, on signup credits."
+ },
+ {
   "name": "Joiin",
   "domain": "joiin.co",
   "link": "https://joiin.co/?red=aibuil&utm_source=aibuil&utm_medium=revshare&utm_affiliate_network=reditus",
@@ -180,7 +236,7 @@
   "name": "Amplemarket",
   "category": "Growth & Revenue",
   "domain": "amplemarket.com",
-  "desc": "An all-in-one AI sales platform: an AI 'Searcher' that turns a plain-English ICP into verified contacts, 100+ contact-level buying-intent signals, and social prospecting from LinkedIn, plus multichannel outreach and deliverability tooling \u2014 drawing on a large multi-source contact database it refreshes continuously.",
+  "desc": "An all-in-one AI sales platform: an AI 'Searcher' that turns a plain-English ICP into verified contacts, 100+ contact-level buying-intent signals, and social prospecting from LinkedIn, plus multichannel outreach and deliverability tooling \u2014 drawing on a large multi-source contact database it refreshes continuously. Its Duo copilot proactively surfaces prioritized leads from 20+ real-time signal types, and an MCP server puts the platform inside ChatGPT or Claude.",
   "link": "https://grow.amplemarket.com/ddkfb65s7t1r",
   "replaces": "Outreach"
  },
