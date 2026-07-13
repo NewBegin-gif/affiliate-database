@@ -1,5 +1,26 @@
 [
  {
+  "name": "Clutch",
+  "domain": "clutch.co",
+  "link": "https://start.clutch.co/76rethb2evjx",
+  "category": "Operations & Workflow",
+  "desc": "B2B services marketplace \\u2014 submit a free project brief and get matched with verified, best-fit agencies for your project, no research required."
+ },
+ {
+  "name": "Clonable",
+  "domain": "clonable.net",
+  "link": "https://clonable.net/?red=aibuil",
+  "category": "Design & Content",
+  "desc": "Creates a continuously-translated clone of your existing website \\u2014 fast multilingual versions that stay synced as your site changes, without rebuilding it."
+ },
+ {
+  "name": "Leavo",
+  "domain": "leavo.com",
+  "link": "https://leavo.com/?red=aibuil",
+  "category": "HR & People",
+  "desc": "Team time-tracking, attendance and overtime banking with transparent per-user pricing and a 30-day free trial."
+ },
+ {
   "name": "BabyLoveGrowth",
   "domain": "babylovegrowth.ai",
   "link": "https://www.babylovegrowth.ai/?red=aibuil",
@@ -1921,7 +1942,7 @@
   "category": "Operations & Workflow",
   "domain": "miro.com",
   "desc": "Visual collaboration platform: an infinite online whiteboard for brainstorms, diagrams, workshops and planning \u2014 with templates, voting and AI that generates diagrams and summaries, built for real-time and async teamwork.",
-  "link": "https://ps.miro-affiliate.com/7itdogqkusu9",
+  "link": "https://miro.com/?red=aibuil&utm_source=aibuil&utm_medium=revshare&utm_affiliate_network=reditus",
   "replaces": null
  },
  {
