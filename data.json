@@ -1,5 +1,33 @@
 [
  {
+  "name": "Insightful",
+  "domain": "insightful.io",
+  "link": "https://www.insightful.io/?red=aibuil&utm_source=reditus&utm_medium=affiliate&utm_campaign=aibuil",
+  "category": "HR & People",
+  "desc": "Workforce analytics and productivity monitoring \u2014 time tracking, workflow optimization and insider-threat detection, priced per seat."
+ },
+ {
+  "name": "Expandi",
+  "domain": "expandi.io",
+  "link": "https://expandi.io/?red=aibuil",
+  "category": "Sales & CRM",
+  "desc": "LinkedIn and email outreach automation for sales teams and agencies \u2014 smart limits, warm-up and multi-account management."
+ },
+ {
+  "name": "WebinarGeek",
+  "domain": "webinargeek.com",
+  "link": "https://webinargeek.com/?red=aibuil",
+  "category": "Marketing",
+  "desc": "European live and automated webinar platform \u2014 viewer-tier pricing, engagement tools, CRM integrations and GDPR-friendly hosting."
+ },
+ {
+  "name": "Wegic",
+  "domain": "wegic.ai",
+  "link": "https://try.wegic.ai/gy39hk291ujf",
+  "category": "Design & Content",
+  "desc": "AI website builder that generates and hosts sites from a conversation \u2014 credit-based, with custom domains and code export on higher tiers."
+ },
+ {
   "name": "Pricefy",
   "domain": "pricefy.io",
   "link": "https://www.pricefy.io/?red=aibuil",
