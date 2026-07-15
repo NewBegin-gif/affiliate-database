@@ -1,5 +1,19 @@
 [
  {
+  "name": "BillingNow",
+  "domain": "billingnow.com",
+  "link": "https://billingnow.com/?red=aibuil",
+  "category": "Finance & Accounting",
+  "desc": "Invoicing and expense tracking with AI \\u2014 unlimited invoices, expenses, clients and users on one flat $9.99/month plan, made in Geneva."
+ },
+ {
+  "name": "Thordata",
+  "domain": "thordata.com",
+  "link": "https://affiliate.thordata.com/ecwzewzmthol",
+  "category": "Developer Tools",
+  "desc": "Proxy infrastructure and scraping stack \\u2014 residential, mobile, ISP and datacenter proxies plus SERP/web-scraper APIs, priced per GB, IP or 1K requests."
+ },
+ {
   "name": "PagePulse",
   "domain": "getpagepulse.io",
   "link": "https://getpagepulse.io/?red=aibuil",
