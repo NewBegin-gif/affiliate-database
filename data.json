@@ -1399,7 +1399,7 @@
   "name": "Kit",
   "category": "Growth & Revenue",
   "domain": "kit.com",
-  "desc": "Email marketing built for creators (formerly ConvertKit). Grow your list with landing pages and forms, then automate newsletters and sell digital products from one place; a beta Kit MCP connects AI assistants like Claude directly to your account.",
+  "desc": "Email marketing built for creators (formerly ConvertKit). Grow your list with landing pages and forms, then automate newsletters and sell digital products from one place; a beta Kit MCP connects AI assistants like Claude directly to your account. Recent additions: a new landing-page editor, Dynamic Content, Newsletter Sponsorships, and App Store integrations on paid plans \u2014 SMS via SlickText, Patreon member sync (tier and support data in automations), Luma/Eventbrite event sync, and two-way HubSpot CRM sync on Pro.",
   "link": "https://partners.kit.com/3m3blymamusy",
   "replaces": "Mailchimp"
  },
