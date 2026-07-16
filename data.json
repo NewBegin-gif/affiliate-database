@@ -2103,5 +2103,19 @@
   "domain": "buzz.ai",
   "desc": "AI-powered outbound platform: prompt it and it finds intent-ready buyers, writes multichannel sequences and books the meetings — per-seat plans with monthly credit allowances and a free start.",
   "link": "https://buzz.ai/?red=aibuil"
+ },
+ {
+  "name": "involve.me",
+  "category": "Marketing",
+  "domain": "involve.me",
+  "desc": "Interactive funnel builder: quizzes, calculators, assessments and payment pages with built-in email sequences — free tier to start, paid tiers priced by live-funnel count from $19/mo annual.",
+  "link": "https://www.involve.me/?red=aibuil"
+ },
+ {
+  "name": "Mktg.ai",
+  "category": "Marketing",
+  "domain": "mktg.ai",
+  "desc": "Always-on AI marketing analyst: unified creative visibility, live performance signals and plain-language questions over your own spend data — no public pricing, demo-first.",
+  "link": "http://mktg.ai/?red=aibuil"
  }
 ]
