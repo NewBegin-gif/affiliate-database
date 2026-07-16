@@ -2096,5 +2096,12 @@
   "domain": "elevenlabs.io",
   "desc": "Market-leading AI voice platform: hyper-realistic text-to-speech, voice cloning, dubbing, sound effects and conversational agents — with a developer API and a free tier to test voices before you pay.",
   "link": "https://try.elevenlabs.io/zwowb7xj774d"
+ },
+ {
+  "name": "Buzz.ai",
+  "category": "Sales & CRM",
+  "domain": "buzz.ai",
+  "desc": "AI-powered outbound platform: prompt it and it finds intent-ready buyers, writes multichannel sequences and books the meetings — per-seat plans with monthly credit allowances and a free start.",
+  "link": "https://buzz.ai/?red=aibuil"
  }
 ]
