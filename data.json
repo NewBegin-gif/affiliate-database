@@ -2117,5 +2117,12 @@
   "domain": "mktg.ai",
   "desc": "Always-on AI marketing analyst: unified creative visibility, live performance signals and plain-language questions over your own spend data — no public pricing, demo-first.",
   "link": "http://mktg.ai/?red=aibuil"
+ },
+ {
+  "name": "eDesk",
+  "category": "Communication & Voice",
+  "domain": "edesk.com",
+  "desc": "E-commerce helpdesk: one unified inbox for Amazon, eBay, Shopify and email, with order data and an AI Agent that bills per resolved outcome. Free plan; paid from $39/agent/mo (annual).",
+  "link": "https://www.edesk.com/?red=aibuil"
  }
 ]
