@@ -347,7 +347,7 @@
   "category": "Growth & Revenue",
   "domain": "logome.ai",
   "desc": "Instant AI brand and logo generation. Create professional, cohesive brand identities for your new projects in a matter of seconds.",
-  "link": "https://logomeai.partnerlinks.io/b7op64h8prya"
+  "link": "https://logomeai.partnerlinks.io/b7op64h8prya?url=https%3A%2F%2Fapp.logome.ai%2F"
  },
  {
   "name": "AISDR",
@@ -1293,7 +1293,7 @@
   "name": "Fastmail",
   "category": "IT & Productivity",
   "domain": "fastmail.com",
-  "desc": "Private, ad-free email hosting with your own domain. Fast, secure email, calendars and contacts from an independent provider that doesn't mine your data.",
+  "desc": "Private, ad-free email hosting with your own domain. Fast, secure email, calendars and contacts from an independent provider that doesn't mine your data. From 1 August 2026 you pick EU (Amsterdam) or US data residency, encrypted at rest on Fastmail's own servers — note that EU data is initially still replicated and backed up to the US while that infrastructure matures.",
   "link": "https://join.fastmail.com/86ecade3e22e",
   "replaces": "Gmail"
  },
@@ -1537,7 +1537,7 @@
   "name": "Carbon6",
   "category": "Operations & Workflow",
   "domain": "carbon6.io",
-  "desc": "A suite of tools for Amazon and e-commerce sellers. Recover lost FBA reimbursements, optimize advertising and protect your listings to grow and defend your store.",
+  "desc": "SPS Commerce Revenue Recovery — the toolset formerly sold as Carbon6, acquired by SPS Commerce on 7 Feb 2025 and folded into spscommerce.com. Recovers retailer deductions, chargebacks and shortages for 1P suppliers across Amazon, Walmart, Target and Kroger, alongside SoStocked, ScanUnlimited and SPS Ad Performance (formerly PixelMe). Note: the 3P Amazon FBA reimbursement arm was divested on 30 Jun 2026 to an undisclosed buyer.",
   "link": "https://ps.carbon6.io/d2uxhs1usng6"
  },
  {
@@ -1758,7 +1758,7 @@
   "name": "Beefree",
   "category": "Growth & Revenue",
   "domain": "beefree.io",
-  "desc": "Drag-and-drop email and landing-page design (BEE): build responsive, on-brand emails fast and export to any major ESP — no coding required.",
+  "desc": "RGE Studio (formerly Beefree — renamed 14 May 2026): drag-and-drop email and landing-page design. Build responsive, on-brand emails fast and export clean HTML to any major ESP, no coding required. Beefree remains the company name and the name of its separate developer SDK; the builder itself now lives under reallygoodemails.com.",
   "link": "https://partners.beefree.io/o4iguobqzx2q"
  },
  {
@@ -1810,7 +1810,7 @@
   "category": "IT & Productivity",
   "domain": "tenable.com",
   "desc": "Exposure and vulnerability management (makers of Nessus): scan, prioritize and remediate security weaknesses across IT, cloud and OT — for security teams of any size.",
-  "link": "https://shop.tenable.com/134ck77eqv64"
+  "link": "https://www.tenable.com/products/nessus"
  },
  {
   "name": "Riverside",
@@ -2138,5 +2138,26 @@
   "link": "https://alttext.ai/?red=aibuil",
   "category": "Marketing",
   "desc": "Bulk AI alt-text generation for image-heavy sites: crawls your pages or plugs into your CMS (WordPress, Shopify, WooCommerce, Magento, Contentful, DatoCMS) and writes the alt attributes back automatically, in 130+ languages. Credit-metered — 25 free credits to try, then from $5/mo for 100 images."
+ },
+ {
+  "name": "Cloudways",
+  "domain": "cloudways.com",
+  "link": "https://www.awin1.com/cread.php?awinmid=89935&awinaffid=2880219&ued=https%3A%2F%2Fwww.awin1.com%2Fcread.php%3Fs%3D4430136%26v%3D89935%26q%3D574000%26r%3D2880219",
+  "category": "IT & Productivity",
+  "desc": "Managed-hosting layer that rents you servers on DigitalOcean, Vultr, Linode, AWS or Google Cloud through one dashboard, with the stack, caching, staging, cloning, backups and 24/7 platform support pre-built on top. You buy a server and put as many sites on it as it holds — no per-site plans and no visit metering — billed hourly and invoiced monthly in arrears with no contract. The trade is control: Cloudways' own documentation states there is no root access and no bring-your-own cloud account, so the server lives in Cloudways' name. Owned by DigitalOcean since September 2022."
+ },
+ {
+  "name": "TextExpander",
+  "domain": "textexpander.com",
+  "link": "https://textexpander.com/?red=aibuil&utm_source=aibuil&utm_medium=revshare&utm_affiliate_network=reditus",
+  "category": "Productivity",
+  "desc": "Text-expansion tool: you type a short abbreviation and it expands into a stored snippet system-wide on macOS and Windows and in Chrome, with fill-in fields, nested snippets, date maths and scripting. The real product is the team layer — a shared snippet library with permissions, sign-up by email domain, auto-subscribe for new hires, usage statistics and SSO — aimed at support, clinical-admin, recruiting and sales teams that need everyone sending the same approved wording. The vendor self-attests SOC 2/SOC 3 and HIPAA compliance with a BAA available, which is the clearest argument for paying rather than using a free expander. From $3.33 per user/month billed annually; no free plan, 30-day trial without a credit card."
+ },
+ {
+  "name": "SEO Space",
+  "domain": "seospace.co",
+  "link": "https://www.seospace.co/?red=aibuil",
+  "category": "Marketing",
+  "desc": "SEO tool built exclusively for Squarespace, delivered as a Chrome extension paired with a web dashboard. The extension runs inside the Squarespace editor and on live pages, scoring each page and saying in plain language what to change and where the setting lives; the dashboard adds site-wide audits, keyword rank tracking, backlink and competitor data, local SEO tools and scheduled white-label PDF client reports. Pricing is keyed to the number of websites rather than seats, which is why it suits freelancers and studios managing client sites. There is a genuinely usable free plan; paid starts at $18.99/month for one site."
  }
 ]
