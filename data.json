@@ -2124,5 +2124,19 @@
   "domain": "edesk.com",
   "desc": "E-commerce helpdesk: one unified inbox for Amazon, eBay, Shopify and email, with order data and an AI Agent that bills per resolved outcome. Free plan; paid from $39/agent/mo (annual).",
   "link": "https://www.edesk.com/?red=aibuil"
+ },
+ {
+  "name": "Papaya Global",
+  "domain": "papayaglobal.com",
+  "link": "https://get.papayaglobal.com/jask07ch1ho5",
+  "category": "HR & People",
+  "desc": "Enterprise workforce-payments platform unifying global payroll, EOR hiring, contractor management and cross-border payments in one system — finance-first, with same-day local payouts on owned payment rails and deep ERP/HRIS integration. Premium, quote-only pricing."
+ },
+ {
+  "name": "AltText.ai",
+  "domain": "alttext.ai",
+  "link": "https://alttext.ai/?red=aibuil",
+  "category": "Marketing",
+  "desc": "Bulk AI alt-text generation for image-heavy sites: crawls your pages or plugs into your CMS (WordPress, Shopify, WooCommerce, Magento, Contentful, DatoCMS) and writes the alt attributes back automatically, in 130+ languages. Credit-metered — 25 free credits to try, then from $5/mo for 100 images."
  }
 ]
