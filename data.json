@@ -1937,7 +1937,7 @@
   "name": "Sendcloud",
   "category": "Operations & Workflow",
   "domain": "sendcloud.com",
-  "desc": "European e-commerce shipping platform: connect 160+ carriers, print labels in batches, show delivery options at checkout, send branded tracking (email, WhatsApp, SMS) and run a self-service returns portal — with rules-based shipping automation. Free plan available.",
+  "desc": "European e-commerce shipping platform: connect 160+ carriers, print labels in batches, show delivery options at checkout, send branded tracking (email, WhatsApp, SMS) and run a self-service returns portal — with rules-based shipping automation. Available to online retailers in 8 countries (Netherlands, Belgium, UK, France, Germany, Austria, Italy, Spain). Free plan available.",
   "link": "https://sendcloud.getsc.eu/smge2ar5przm",
   "replaces": "ShipStation"
  },
