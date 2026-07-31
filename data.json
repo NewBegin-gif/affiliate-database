@@ -643,7 +643,7 @@
   "name": "Pangram",
   "category": "Operations & Workflow",
   "domain": "pangram.com",
-  "desc": "AI content detector. Identifies AI-generated text with a focus on minimizing false positives — used by educators, publishers and platforms to verify whether writing is human or machine, via web app and API.",
+  "desc": "AI content detector. Identifies AI-generated text with a focus on minimizing false positives — used by educators, publishers and platforms to verify whether writing is human or machine, via web app and API. The vendor's Pangram 4.0 release (July 2026) claims a false-positive rate of 1 in 10,000, detection of output from the newest frontier models, resistance to \"humanized\" text written to evade detection, and improved boundary detection between human and AI passages. An early research preview adds AI image detection, flagging which segments of an image appear AI-generated and verifying C2PA content credentials where present.",
   "link": "https://affiliate.pangram.com/x1xctagyhhbz"
  },
  {
@@ -2194,7 +2194,7 @@
   "domain": "sellersnap.io",
   "link": "https://referrals.sellersnap.io/l/AIBUILDER/",
   "category": "E-commerce",
-  "desc": "AI repricer and seller-analytics platform for Amazon and Walmart — what the vendor calls game-theory repricing, aimed at Buy Box share rather than racing to the bottom, plus min/max profit calculation, 80+ analytics data points and imports from tools like InventoryLab and SkuVault. Starter is $100/month billed annually (annual only); month-to-month starts at $250. 15-day free trial, no credit card."
+  "desc": "AI repricer and seller-analytics platform for Amazon and Walmart — what the vendor calls game-theory repricing, aimed at Buy Box share rather than racing to the bottom, plus min/max profit calculation, 80+ analytics data points and imports from tools like InventoryLab and SkuVault. Starter is $100/month billed annually (annual only); month-to-month starts at $250. 15-day free trial, no credit card. A July 2026 interface release adds live Buy Box insight with SKU-level filters, multi-store management from one screen including bulk cost updates, repricing from mobile, historical inventory-value tracking, saved views, customizable columns and a dark mode."
  },
  {
   "name": "ZenBusiness",
@@ -2223,5 +2223,19 @@
   "link": "https://get.compliancely.com/nu7sf4gds5ba",
   "category": "Financial Operations",
   "desc": "Compliance and verification API for US businesses and individuals: real-time and bulk IRS TIN matching, KYB business verification, USPS address and Secretary of State lookups, Form I-9 and E-Verify, consent-based IRS tax transcript retrieval, and ongoing OFAC, watchlist and FATCA monitoring. Built by Zenwork, the company behind Tax1099."
+ },
+ {
+  "name": "Deputy",
+  "domain": "deputy.com",
+  "link": "https://partner.deputy.com/0p7734yb0psu",
+  "category": "Operations & Workflow",
+  "desc": "Workforce management for hourly and shift-based teams: rota building, time clocking, timesheet approval and labour-law compliance, with payroll and HR integrations."
+ },
+ {
+  "name": "Glide",
+  "domain": "glideapps.com",
+  "link": "https://join.glideapps.com/bpkt7j2hkzk5",
+  "category": "IT & Productivity",
+  "desc": "No-code app builder that turns spreadsheets and databases into working business apps — internal tools, client portals and field apps, with workflows and an API."
  }
 ]
