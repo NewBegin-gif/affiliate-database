@@ -2237,5 +2237,19 @@
   "link": "https://join.glideapps.com/bpkt7j2hkzk5",
   "category": "IT & Productivity",
   "desc": "No-code app builder that turns spreadsheets and databases into working business apps — internal tools, client portals and field apps, with workflows and an API."
+ },
+ {
+  "name": "Spiky.ai",
+  "domain": "spiky.ai",
+  "link": "https://get.spiky.ai/k4gfcalpqoju",
+  "category": "Sales & CRM",
+  "desc": "AI meeting intelligence for revenue teams — records and analyses sales calls, tracks keywords and talk patterns, and coaches reps. Free tier at 3 meetings per user, then $15 to $40 per user per month on annual billing."
+ },
+ {
+  "name": "Proton",
+  "domain": "getproton.me",
+  "link": "https://now.getproton.me/xtd5ynchlrma",
+  "category": "IT & Productivity",
+  "desc": "Privacy-first suite from the makers of ProtonMail — encrypted mail, calendar, drive, VPN and password manager under one account, with a free tier and paid bundles."
  }
 ]
