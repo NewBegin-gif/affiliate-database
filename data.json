@@ -680,7 +680,7 @@
     "name": "CloudTalk",
     "category": "Communication & Voice",
     "domain": "cloudtalk.io",
-    "desc": "Next-generation cloud calling system designed for modern support and sales teams. Includes smart routing and CRM integrations.",
+    "desc": "Next-generation cloud calling system designed for modern support and sales teams. Includes smart routing and CRM integrations. Its AI voice agents answer inbound calls around the clock, route them or take a message and hand the call to a human; calendar sync with automated booking and rescheduling sits on the paid AI Specialist tier, while the entry-level AI Receptionist still lists appointment scheduling as coming soon.",
     "link": "https://get.cloudtalk.io/750eho0hrkyk",
     "replaces": "RingCentral"
   },
