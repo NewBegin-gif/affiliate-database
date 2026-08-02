@@ -411,7 +411,7 @@
   "name": "Amplemarket",
   "category": "Growth & Revenue",
   "domain": "amplemarket.com",
-  "desc": "An all-in-one AI sales platform: an AI 'Searcher' that turns a plain-English ICP into verified contacts, 100+ contact-level buying-intent signals, and social prospecting from LinkedIn, plus multichannel outreach and deliverability tooling — drawing on a large multi-source contact database it refreshes continuously. Its Duo copilot proactively surfaces prioritized leads from 20+ real-time signal types, and an MCP server puts the platform inside ChatGPT or Claude — where it can triage the Unibox, update or remove leads, and since July run a whole account-based play end to end: research the account, pull enriched profiles, and enrol every contact into one sequence with copy written per person and per step, without leaving the chat. A GTM Skills Library exposes the rest of the platform the same way. Since June you can also describe a workflow in plain English and have it built for you in the normal editor, and meeting notes from Fathom and Attention flow into the activity feed. Deliverability is a named toolkit rather than a footnote: a Domain Health Center for SPF/DKIM/DMARC, inbox-to-outbox ratio, spam-list and mailbox-age monitoring; automated warm-up and recovery for flagged Gmail or Outlook mailboxes; weekly spam-placement tests before a campaign goes out; and Duo rotating the sending mailbox per email against that same health data.",
+  "desc": "An all-in-one AI sales platform: an AI 'Searcher' that turns a plain-English ICP into verified contacts, 100+ contact-level buying-intent signals, and social prospecting from LinkedIn, plus multichannel outreach and deliverability tooling — drawing on a large multi-source contact database it refreshes continuously. Its Duo copilot proactively surfaces prioritized leads from 20+ real-time signal types, and an MCP server puts the platform inside ChatGPT or Claude — where it can triage the Unibox, update or remove leads, and since July run a whole account-based play end to end: research the account, pull enriched profiles, and enrol every contact into one sequence with copy written per person and per step, without leaving the chat. A GTM Skills Library exposes the rest of the platform the same way. Since June you can also describe a workflow in plain English and have it built for you in the normal editor, and meeting notes from Fathom and Attention flow into the activity feed. Deliverability is a named toolkit rather than a footnote: a Domain Health Center for SPF/DKIM/DMARC, inbox-to-outbox ratio, spam-list and mailbox-age monitoring; automated warm-up and recovery for flagged Gmail or Outlook mailboxes; weekly spam-placement tests before a campaign goes out; and Duo rotating the sending mailbox per email against that same health data. Workflows, the automation layer, is included for every customer rather than sold as a premium add-on: triggers (a sequence finishing with no reply, a bounce, a meeting booked, a call logged, a CRM field changing), filters for who qualifies, branching paths and actions (enrol in another sequence, update CRM fields, create tasks, manage lists, enrich, add to exclusion lists), assembled on a visual canvas so the whole logic is readable at a glance. Twenty ready-made Recipes cover lead routing, keeping non-responders warm, account plays, CRM hygiene and do-not-contact enforcement. It runs against Salesforce and HubSpot out of the box, and without a CRM connected the triggers and actions that don't depend on one still work.",
   "link": "https://grow.amplemarket.com/ddkfb65s7t1r",
   "replaces": "Outreach"
  },
@@ -798,7 +798,7 @@
   "name": "Ngram",
   "category": "IT & Productivity",
   "domain": "ngram.com",
-  "desc": "AI video creation for product and marketing teams. Turn docs, screenshots and recordings into polished, on-brand videos — scripted, storyboarded and produced with AI on a credit-based model.",
+  "desc": "AI video creation for product and marketing teams. Turn docs, screenshots and recordings into polished, on-brand videos — scripted, storyboarded and produced with AI on a credit-based model. A published blog post or doc URL is a valid starting point in its own right: paste the link and it handles the research, script, storyboard, voice and style choice and the render in one sitting, with no editor in the loop, and hands back a shareable public link or an embed.",
   "link": "https://partner.ngram.com/32s9nqdqy7lr"
  },
  {
@@ -1737,7 +1737,7 @@
   "name": "SurveyMonkey",
   "category": "Operations & Workflow",
   "domain": "surveymonkey.com",
-  "desc": "Survey and feedback platform: build surveys, collect responses at scale and analyze results for market research, CX and employee feedback.",
+  "desc": "Survey and feedback platform: build surveys, collect responses at scale and analyze results for market research, CX and employee feedback. A native Salesforce integration pushes responses straight into Salesforce, triggers workflows off the answers themselves (churn-risk follow-up or an NPS detractor landing on a rep's desk, for instance) and ties feedback back to accounts and pipeline, so sales and CS read it inside the tool they already work in rather than in a separate reporting dashboard.",
   "link": "https://get.surveymonkey.com/j2075v4d79vk"
  },
  {
