@@ -1678,7 +1678,7 @@
   "name": "Wati",
   "category": "Communication & Voice",
   "domain": "wati.io",
-  "desc": "WhatsApp Business API platform for sales and support: shared team inbox, bulk broadcasts and no-code chatbots — plus Astra, its AI agent builder for agents that actually resolve conversations (orders, refunds, bookings, lead qualification) across WhatsApp, web and voice. Its omnichannel inbox now also carries TikTok DMs natively (all plans, no extra cost) alongside Instagram and RCS — with ad-to-chat context that shows exactly which TikTok ad triggered a conversation.",
+  "desc": "WhatsApp Business API platform for sales and support: shared team inbox, bulk broadcasts and no-code chatbots — plus Astra, its AI agent builder for agents that actually resolve conversations (orders, refunds, bookings, lead qualification) across WhatsApp, web and voice. Its omnichannel inbox now also carries TikTok DMs natively (all plans, no extra cost) alongside Instagram and RCS — with ad-to-chat context that shows exactly which TikTok ad triggered a conversation. It now ships its own MCP server as well: connect Claude or ChatGPT once and manage contacts, send WhatsApp campaigns, read past chats and build agents in plain language, while sends still run on your own approved templates and the full history stays in the Wati dashboard. Wati's own page puts the cost like this: free for current paid Astra customers with no usage cap during launch, and full MCP access on every Astra plan for new customers (checked 4 Aug 2026).",
   "link": "https://affiliates.wati.io/pzd090owoazz"
  },
  {
@@ -2523,6 +2523,6 @@
   "domain": "pippit.ai",
   "category": "Marketing",
   "link": "https://pippit.pxf.io/jRBnqn",
-  "desc": "AI marketing-content maker by CapCut — turns a product link into marketing videos, avatar presenters, talking photos and sales posters, with scheduling and multi-platform publishing. Credit-based, with a free tier that needs no card."
+  "desc": "AI marketing-content maker by CapCut — turns a product link into marketing videos, avatar presenters, talking photos and sales posters, with scheduling and multi-platform publishing. Credit-based, with a free tier that needs no card. Seedance 2.5 is now listed among its video models: clips up to 30 seconds, text timestamps to pin key moments, footage extension for longer scenes and reference inputs to steer the direction — although their own model page still describes it with \"upcoming\" wording (checked 4 Aug 2026)."
  }
 ]
