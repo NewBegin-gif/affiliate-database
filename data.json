@@ -426,7 +426,7 @@
   "name": "Seamless.ai",
   "category": "Growth & Revenue",
   "domain": "seamless.ai",
-  "desc": "A massive B2B contact database and lead generation engine. Find verified emails and direct dials for your ideal prospects instantly.",
+  "desc": "A massive B2B contact database and lead generation engine. Find verified emails and direct dials for your ideal prospects instantly. It ships its own MCP server at mcp.seamless.ai/mcp, so Claude or ChatGPT can run the searching, enrichment and list-building for you — 54 tools, each labelled read, write or destructive. Search and research are open to all users; campaigns, email and calls need a Connect licence on top.",
   "link": "https://get.seamless.ai/gleubirgjgj8",
   "replaces": "ZoomInfo"
  },
