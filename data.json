@@ -2552,5 +2552,12 @@
   "link": "https://try.signalhouse.io/wqnlthk1tjwi",
   "category": "Communication & Voice",
   "desc": "SMS and Voice API positioned as a Twilio alternative. Usage-based with no platform fee: $0.0065 per SMS segment with no minimum, down to $0.0030 above 10m, and $1.00 a month per local number. A2P 10DLC fees are published; voice rates are not."
+ },
+ {
+  "name": "Remote People",
+  "domain": "remotepeople.com",
+  "link": "https://remotepeople.partnerlinks.io/4vd87tyluk42",
+  "category": "HR & People",
+  "desc": "Employer of Record and global hiring in 150+ countries. EOR from $199 per employee a month with no setup fee, no deposit and no minimum headcount; contractor management from $29, US PEO from $99. Recruitment is charged separately at 20-25% of annual salary."
  }
 ]
