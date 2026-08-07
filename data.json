@@ -2545,5 +2545,12 @@
   "link": "https://try.accessibe.com/g102j14bqso5",
   "category": "IT & Productivity",
   "desc": "Web-accessibility widget (accessWidget) that scans a site every 24 hours and adjusts it in the browser — contrast, text sizing, keyboard hints — plus an accessibility statement. Priced by monthly visits: $490/year up to 5,000, $1,490 up to 30,000, $3,990 up to 100,000. An aid, not WCAG conformance."
+ },
+ {
+  "name": "Signal House",
+  "domain": "signalhouse.io",
+  "link": "https://try.signalhouse.io/wqnlthk1tjwi",
+  "category": "Communication & Voice",
+  "desc": "SMS and Voice API positioned as a Twilio alternative. Usage-based with no platform fee: $0.0065 per SMS segment with no minimum, down to $0.0030 above 10m, and $1.00 a month per local number. A2P 10DLC fees are published; voice rates are not."
  }
 ]
