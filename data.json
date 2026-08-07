@@ -2063,7 +2063,7 @@
   "name": "Survicate",
   "category": "Operations & Workflow",
   "domain": "survicate.com",
-  "desc": "Customer feedback platform for continuous surveys: NPS, CSAT and in-product micro-surveys across web, in-app, email and link — with templates, audience targeting and native integrations that pipe feedback straight into your CRM and analytics.",
+  "desc": "Customer feedback platform for continuous surveys: NPS, CSAT and in-product micro-surveys across web, in-app, email and link — with templates, audience targeting and native integrations (Segment and RudderStack among them) that pipe feedback straight into your CRM and analytics.",
   "link": "https://try.survicate.com/378o5t18zkm2",
   "replaces": null
  },
