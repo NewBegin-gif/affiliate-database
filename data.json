@@ -744,7 +744,7 @@
   "replaces": "Backblaze"
  },
  {
-  "name": "RunPod",
+  "name": "Runpod",
   "category": "IT & Productivity",
   "domain": "runpod.io",
   "desc": "Serverless GPU compute platform. Rent high-end NVIDIA GPUs by the hour to train and deploy your own machine learning models.",
