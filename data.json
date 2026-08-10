@@ -621,7 +621,7 @@
   "name": "Lindy.ai",
   "category": "Operations & Workflow",
   "domain": "lindy.ai",
-  "desc": "Build and deploy autonomous AI employees. Delegate your repetitive administrative tasks to an agent that connects to all your tools.",
+  "desc": "An AI teammate that lives in Slack: @mention it and it works across Gmail, Notion, HubSpot and 1,000+ other tools, sits in your meetings for shared context, runs jobs on a schedule and ships 40+ built-in skills. Nothing to build, and it asks before it changes anything.",
   "link": "https://try.lindy.ai/04841byjd5bi",
   "replaces": "Zapier"
  },
