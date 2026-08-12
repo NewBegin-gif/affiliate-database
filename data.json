@@ -74,7 +74,7 @@
   "domain": "getpagepulse.io",
   "link": "https://getpagepulse.io/?red=aibuil",
   "category": "Marketing",
-  "desc": "Simple site analytics with heatmaps and AI insights — see what visitors do per page, with a genuinely free single-page tier and per-page/member pricing."
+  "desc": "Per-page site analytics with heatmaps and AI-summarised insights. Free for one member and one page; Starter at $29/month buys one member and two pages. The tiers gate on members and tracked pages at once, and the 'unlimited traffic' promise carries a fair-use footnote."
  },
  {
   "name": "Bread & Butter",
@@ -95,7 +95,7 @@
   "domain": "goteampulse.io",
   "link": "https://goteampulse.io/?red=aibuil",
   "category": "Operations & Workflow",
-  "desc": "All-in-one work management with a built-in CRM — projects, tasks, chat, files, sales pipelines and AI, with a genuinely free starter tier."
+  "desc": "Projects, tasks, chat, files and a light CRM pipeline in one tool. The tiers gate on members and projects at once, and the pipeline does not exist below the $79 Growth plan — Starter at $29 is a single seat with five projects. The listed rates assume annual billing."
  },
  {
   "name": "Moosend",
@@ -269,7 +269,7 @@
   "name": "Payoneer",
   "category": "Financial Operations",
   "domain": "payoneer.com",
-  "desc": "Global payment solutions and cross-border billing. Easily receive funds from international clients and marketplaces with low fees.",
+  "desc": "Local receiving accounts for freelancers and sellers paid by international clients and marketplaces. Free to open — the cost sits in the fees: 1% on non-local currency received, 1.2–4% on conversion, $1.50 flat to withdraw locally, and a $29.95 annual fee waived above $6,000 received.",
   "link": "https://payoneer557.partnerlinks.io/whpnqt92bm0j",
   "replaces": "PayPal"
  },
@@ -277,35 +277,35 @@
   "name": "Bill.com",
   "category": "Financial Operations",
   "domain": "bill.com",
-  "desc": "Intelligent accounts payable and receivable automation. Streamline your financial workflows and get paid faster with minimal manual entry.",
+  "desc": "Accounts-payable and receivable automation for finance teams with real approval chains. Priced per user from about $45/month, with transaction fees stacked on top — roughly $0.49 ACH, $1.99 cheque, $9.99 international wire, 2.9% card.",
   "link": "https://referral.bill.com/d69gftudjro5"
  },
  {
   "name": "Tax1099",
   "category": "Financial Operations",
   "domain": "tax1099.com",
-  "desc": "Secure, automated tax form e-filing for businesses and accountants. Manage 1099s, W-2s, and compliance smoothly.",
+  "desc": "Per-form e-filing of 1099s, W-2s and related forms, falling to about $0.68 a form at high volume, with an eFile Plus subscription near $249/year for frequent filers. TIN matching, W-9 requests, state filing and corrections can each carry their own charge, so tally the add-ons.",
   "link": "https://get.tax1099.com/0ivysaedzf4n"
  },
  {
   "name": "Flippa",
   "category": "Financial Operations",
   "domain": "flippa.com",
-  "desc": "The world's #1 marketplace to buy and sell online businesses, SaaS, apps, and domains. Turn your digital assets into liquid capital.",
+  "desc": "Marketplace for buying and selling online businesses, SaaS, apps and domains. Self-serve, so the due diligence is yours. Sellers pay a listing fee from about $29 plus a success fee starting near 3% — a bracket rate on the whole sale price, not a marginal one.",
   "link": "https://referral.flippa.com/423fnj9u9lh5"
  },
  {
   "name": "Credit Repair Cloud",
   "category": "Financial Operations",
   "domain": "creditrepaircloud.com",
-  "desc": "The leading software to start, run, and grow a highly profitable credit repair business from anywhere in the world.",
+  "desc": "Software for running a credit-repair business: client management, dispute automation and letter workflows. It is not a tool for repairing your own credit. Plans run from about $49/month (Personal) to $599 (Enterprise), scaling by active clients and seats.",
   "link": "https://get.creditrepaircloud.com/rzjqacc3xbwo"
  },
  {
   "name": "Bitvavo",
   "category": "Financial Operations",
   "domain": "bitvavo.com",
-  "desc": "Europe's leading crypto exchange. 350+ assets, low fees, Dutch-regulated and a clean UX for both beginners and pros. Sign up via our link for €10K fee-free.",
+  "desc": "Dutch-regulated, euro-native crypto exchange with deep EUR pairs and an API for automation. No subscription — the base tier under €100k monthly volume runs about 0.15% maker and 0.25% taker, dropping through nine volume tiers. Sign up via our link for €10K fee-free.",
   "link": "https://account.bitvavo.com/create?a=68DCE39715&pid=invite&c=referral&af_adset=68DCE39715&deep_link_value=bitvavo%3A%2F%2Fcreate%3Fa%3D68DCE39715",
   "replaces": "Coinbase"
  },
@@ -313,7 +313,7 @@
   "name": "Bybit",
   "category": "Financial Operations",
   "domain": "bybit.com",
-  "desc": "Trade crypto with deep liquidity — derivatives, spot and EU-compliant infrastructure.",
+  "desc": "Crypto exchange covering spot, perpetuals and options. No subscription — spot is 0.1% maker and taker for non-VIP, derivatives around 0.02% and 0.055%, with volume tiers cutting lower. Funding rates on perpetuals are a recurring cost the fee table does not show, and availability differs per country.",
   "link": "https://www.bybit.eu/invite?ref=43R9RJE",
   "replaces": "Binance"
  },
@@ -321,7 +321,7 @@
   "name": "ActiveCampaign",
   "category": "Growth & Revenue",
   "domain": "activecampaign.com",
-  "desc": "Advanced marketing automation, email marketing, and CRM. Build complex, automated customer journeys that drive real revenue.",
+  "desc": "Marketing automation and lifecycle email with a light CRM attached. Priced by contact count from about $15/month on Starter, with CRM pipelines, SMS and extra seats sold as add-ons — the sticker price sits well below what a real automation setup costs.",
   "link": "https://try.activecampaign.com/h07gxhkcy8v7",
   "replaces": "Mailchimp"
  },
@@ -329,7 +329,7 @@
   "name": "Close",
   "category": "Growth & Revenue",
   "domain": "close.com",
-  "desc": "A high-performance sales CRM built for growth-focused startups and SMBs. Unifies calling, emailing, and SMS into one powerful inbox. Now ships with Chloe, a built-in AI teammate for notetaking, chat, pipeline suggestions and CRM enrichment, with outbound AI voice calling still in beta.",
+  "desc": "Sales CRM unifying calling, email and SMS in one inbox, for teams that live on the phone. Seats run about $9 (Solo) to $139 (Scale) per user/month billed annually, and call, SMS and Power Dialer credits bill separately on top — a $99 plan can land nearer $160 once a rep dials all day.",
   "link": "https://refer.close.com/8sqpd69pa18l",
   "replaces": "Salesforce"
  },
@@ -353,21 +353,21 @@
   "name": "Alidrop",
   "category": "Growth & Revenue",
   "domain": "alidrop.co",
-  "desc": "End-to-end dropshipping automation for e-commerce entrepreneurs. Streamline product sourcing, fulfillment, and inventory management.",
+  "desc": "Dropshipping automation — product sourcing, fulfilment and inventory sync, with access to faster-shipping US and EU suppliers. Plans run $39/month for 50 unique products up to $299. The subscription sits on top of wholesale cost, so margins still turn on product selection and ad efficiency.",
   "link": "https://get.alidrop.co/uwv5ldbg7zss"
  },
  {
   "name": "Smartli",
   "category": "Growth & Revenue",
   "domain": "smartli.ai",
-  "desc": "AI content generation specifically tuned for e-commerce. Automatically write high-converting product listings and ad copy.",
+  "desc": "AI writing suite for e-commerce: product listings, ad copy, SEO text and brand assets. Monthly runs $39 (Starter) to $299; on annual billing Starter disappears and Pro drops to about $24/month. Each of the nine tools is competent rather than deep, so leaning hard on one job means outgrowing it.",
   "link": "https://www.smartli.ai/"
  },
  {
   "name": "Logome.ai",
   "category": "Growth & Revenue",
   "domain": "logome.ai",
-  "desc": "Instant AI brand and logo generation. Create professional, cohesive brand identities for your new projects in a matter of seconds.",
+  "desc": "Generates a logo and basic brand assets from a prompt. Designing and previewing is free, but downloading requires a paid plan — Basic at around $29/month gives one file without a transparent background. Their public site including pricing returned 404 at last check, so verify what you are charged.",
   "link": "https://logomeai.partnerlinks.io/b7op64h8prya?url=https%3A%2F%2Fapp.logome.ai%2F"
  },
  {
@@ -395,7 +395,7 @@
   "name": "GetResponse",
   "category": "Growth & Revenue",
   "domain": "getresponse.com",
-  "desc": "Powerful inbound marketing software combining email automation, landing pages, webinars, and conversion funnels.",
+  "desc": "Email marketing with landing pages, automation and webinars in one suite, priced by contact count. Starter is €16/month (€13.12 billed annually) and allows a single automation workflow; unlimited workflows start on Marketer at €54. The better rates need long commitments.",
   "link": "https://try.getresponsetoday.com/8c0sqba28nwf",
   "replaces": "Mailchimp"
  },
@@ -403,7 +403,7 @@
   "name": "Campaign Monitor",
   "category": "Growth & Revenue",
   "domain": "campaignmonitor.com",
-  "desc": "Premium email marketing tailored for agencies and scaling teams. Delivers stunning templates and reliable deliverability.",
+  "desc": "Email campaigns with strong templates and client-friendly management for brands and agencies. Priced per contact rather than per send: Essentials at 10,000 contacts runs about $89/month, so dormant subscribers bill like active ones. Automation depth is lighter than dedicated platforms.",
   "link": "https://partners.campaignmonitor.com/v66v483h4lfy",
   "replaces": "Mailchimp"
  },
@@ -426,7 +426,7 @@
   "name": "Seamless.ai",
   "category": "Growth & Revenue",
   "domain": "seamless.ai",
-  "desc": "A massive B2B contact database and lead generation engine. Find verified emails and direct dials for your ideal prospects instantly. It ships its own MCP server at mcp.seamless.ai/mcp, so Claude or ChatGPT can run the searching, enrichment and list-building for you — 54 tools, each labelled read, write or destructive. Search and research are open to all users; campaigns, email and calls need a Connect licence on top.",
+  "desc": "B2B contact database with AI list-building, plus an MCP server so Claude or ChatGPT can run the searching and enrichment. Paid plans are quote-based, reported around $147/month for 250 credits. Independent tests put deliverability near 74%, and contracts auto-renew with 30–60 days' notice to cancel.",
   "link": "https://get.seamless.ai/gleubirgjgj8",
   "replaces": "ZoomInfo"
  },
@@ -434,7 +434,7 @@
   "name": "Unbounce",
   "category": "Growth & Revenue",
   "domain": "unbounce.com",
-  "desc": "The premier AI-powered landing page builder. Create high-converting campaigns with intelligent copy generation and A/B testing.",
+  "desc": "Landing page builder for paid campaigns, with A/B testing and Smart Traffic routing each visitor to the best-converting variant. From $74/month (Build) to $187 (Optimize), and the visitor caps — around 20,000 a month on Build — push you up a tier when a campaign takes off.",
   "link": "https://unbounce.partnerlinks.io/ag7tbkfddk5n",
   "replaces": "Instapage"
  },
@@ -442,21 +442,21 @@
   "name": "Iconosquare",
   "category": "Growth & Revenue",
   "domain": "iconosquare.com",
-  "desc": "Deep social media analytics and reporting for agencies and brands. Track performance, schedule content, and monitor competitors.",
+  "desc": "Social analytics, reporting and competitor benchmarking, deepest on Instagram and the core networks. Free for one user and two profiles, then Launch around €33/month and Scale €69. Tiers gate on seats and profiles, so agencies managing many brands climb faster than the entry price suggests.",
   "link": "https://try.iconosquare.com/jafoipypg7xb"
  },
  {
   "name": "Adwisely",
   "category": "Growth & Revenue",
   "domain": "adwisely.com",
-  "desc": "Automated ad campaigns specifically built for e-commerce. Drive retargeting and prospecting across Google and Meta seamlessly.",
+  "desc": "Automated retargeting and prospecting ads on Meta and Google for Shopify, WooCommerce and BigCommerce stores. Costs a $49/month minimum plus 10% of the ad spend it manages (capped at $3,250 a month), so work the effective rate out at your own spend.",
   "link": "https://get.adwisely.com/lahunz19q93e"
  },
  {
   "name": "AdCreative.ai",
   "category": "Growth & Revenue",
   "domain": "adcreative.ai",
-  "desc": "Generate conversion-focused ad creatives and banners using AI. Drastically reduce design time while boosting CTR.",
+  "desc": "AI ad-creative and banner generation for performance marketers. Metered by download rather than by campaign: tiers run from roughly $29–39/month for 10 credits up to $249/month for 200, so iteration-heavy testing burns a starter allowance fast.",
   "link": "https://free-trial.adcreative.ai/9rbtqowzgwy2",
   "replaces": "Canva"
  },
@@ -464,7 +464,7 @@
   "name": "Landingi",
   "category": "Growth & Revenue",
   "domain": "landingi.com",
-  "desc": "An intuitive, end-to-end landing page platform. Build, publish, and optimize your marketing campaigns without touching code.",
+  "desc": "Landing page builder with 400+ templates, from $29/month for unlimited pages and 5,000 visitors; A/B testing and pop-ups start at $49. Roughly half what Unbounce and Instapage charge, and the trade is no AI traffic routing, no real-time collaboration and thinner technical control.",
   "link": "https://try.landingi.com/hsaaq00kz6qg",
   "replaces": "Unbounce"
  },
@@ -479,7 +479,7 @@
   "name": "ManyChat",
   "category": "Growth & Revenue",
   "domain": "manychat.com",
-  "desc": "Industry-leading chat marketing automation. Build engaging bot funnels for Instagram, Facebook Messenger, and SMS.",
+  "desc": "Comment-to-DM and chat funnels for Instagram, Messenger, WhatsApp and SMS. Flows are button-and-script based, so an unexpected reply falls back. The free tier holds 25 contacts and billing scales with the list — roughly $131/month at 10,000 contacts and $507 at 25,000.",
   "link": "https://manychat.partnerlinks.io/fytpn81je1y4"
  },
  {
@@ -502,7 +502,7 @@
   "name": "Clay",
   "category": "Growth & Revenue",
   "domain": "clay.com",
-  "desc": "AI-powered prospecting and outbound. Enrich leads from 75+ data sources and personalize at scale with GPT-driven copy that actually books meetings.",
+  "desc": "Waterfall enrichment and custom research workflows for go-to-market teams. It enriches rather than sends, so you still need a separate email tool. From about $185/month (Launch, 2,500 credits) to $495 (Growth), with credit spend that is hard to forecast and a two-to-four-week learning curve.",
   "link": "https://clay.com",
   "replaces": "ZoomInfo"
  },
@@ -510,7 +510,7 @@
   "name": "Rank Math",
   "category": "Growth & Revenue",
   "domain": "rankmath.com",
-  "desc": "The most powerful WordPress SEO plugin. Advanced schema, AI content insights, rank tracking and on-page optimization that actually moves rankings.",
+  "desc": "WordPress SEO plugin with schema, on-page analysis and rank tracking. The free version is generous enough that many sites never need to upgrade; PRO, from about $6.99/month billed annually, earns its keep once you want rank tracking, Content AI credits or many client sites.",
   "link": "https://rankmath.com/?ref=daanhaket",
   "replaces": "Yoast SEO"
  },
@@ -518,14 +518,14 @@
   "name": "Atria",
   "category": "Growth & Revenue",
   "domain": "tryatria.com",
-  "desc": "Generate winning ad creative and research competitor campaigns across Meta and TikTok — built for performance marketers.",
+  "desc": "Competitor ad research and AI creative generation for Meta and TikTok in one platform. Credit-metered: Core is about $159/month ($129 annual) with 4,000 AI credits and 50 brands tracked, and heavy users step up to Plus at roughly twice that.",
   "link": "https://affiliates.tryatria.com/i0fy7orc6mte"
  },
  {
   "name": "Beehiiv",
   "category": "Growth & Revenue",
   "domain": "beehiiv.com",
-  "desc": "The newsletter platform built for growth. Advanced analytics, monetization tools, and seamless integrations. Scale from 0 to millions of subscribers like Morning Brew.",
+  "desc": "Newsletter platform with growth, automation, SEO and monetisation tooling, priced by subscriber count. You keep 100% of paid subscriptions where Substack takes 10%; the trade is a steeper start than Substack's near-zero setup and built-in discovery.",
   "link": "https://www.beehiiv.com/?via=daan-haket",
   "replaces": "Substack"
  },
@@ -541,14 +541,14 @@
   "name": "Trainual",
   "category": "Operations & Workflow",
   "domain": "trainual.com",
-  "desc": "The ultimate playbook for your business: centralize SOPs and automate team onboarding. Its AI now drafts and updates training docs from your own account context — meeting notes, recurring questions, blockers — and runs content-health scans, while the Operations suite adds five-minute weekly team updates.",
+  "desc": "Documents SOPs and runs new-hire onboarding, with AI that drafts and updates training docs from your own account context. Not publicly priced: third-party sources put Core near $249/month for up to 10 seats billed annually, plus a reported one-time implementation fee around $1,000.",
   "link": "https://start.trainual.com/nn7g1qwtr0cd"
  },
  {
   "name": "Beautiful.ai",
   "category": "Operations & Workflow",
   "domain": "beautiful.ai",
-  "desc": "Presentation automation with smart design logic. Build professional client decks in minutes without struggling with formatting.",
+  "desc": "Presentation builder whose templates lay themselves out as you type. Pro is about $12/month billed annually but $45 month-to-month — a steep gap — and the constraints that make decks look consistent also block pixel-level custom layouts.",
   "link": "https://beautifulai.partnerlinks.io/7s7xjgpea39q",
   "replaces": "PowerPoint"
  },
@@ -556,7 +556,7 @@
   "name": "Gamma",
   "category": "Operations & Workflow",
   "domain": "gamma.app",
-  "desc": "A new medium for presenting ideas. Generate beautiful, interactive documents, decks, and webpages instantly with AI.",
+  "desc": "Turns a prompt or rough notes into a deck, document or webpage draft. Credit-metered: the free tier gives 400 one-time credits and carries Gamma branding, Plus is about $12/month for 1,000 credits. Output still needs a human pass for high-stakes decks.",
   "link": "https://try.gamma.app/cw0to3pyxe7t",
   "replaces": "PowerPoint"
  },
@@ -578,7 +578,7 @@
   "name": "Reclaim.ai",
   "category": "Operations & Workflow",
   "domain": "reclaim.ai",
-  "desc": "Smart calendar automation. Protect your deep work, auto-schedule habits, and defend your time against constant meeting requests.",
+  "desc": "Auto-schedules tasks, habits and meetings around your stated priorities. Google Calendar-first, so Outlook-heavy teams are out, and the free tier is limited. Paid seats run about $8–10/month on Starter and Plus, roughly 29% cheaper on annual billing.",
   "link": "https://go.reclaim.ai/puu4y5wv8xfj"
  },
  {
@@ -592,28 +592,28 @@
   "name": "SaneBox",
   "category": "Operations & Workflow",
   "domain": "sanebox.com",
-  "desc": "Intelligent email triage. SaneBox uses AI to silently filter out the noise, so you only see the emails that actually matter.",
+  "desc": "Email triage that moves low-priority mail out of the inbox and works with any provider. From about $3.49/month for one account up to $16.99 for four. The honest catch: you are paying monthly to filter mail that modern email clients increasingly sort for free.",
   "link": "https://try.sanebox.com/7wul6weu1xvd"
  },
  {
   "name": "Assembly",
   "category": "Business Operations",
   "domain": "assembly.com",
-  "desc": "AI-powered client portal for professional service firms: CRM, messaging, invoices, proposals, contracts and e-signatures under your own brand.",
+  "desc": "Branded client portal for agencies and professional service firms: messaging, invoices, proposals, contracts and e-signatures in one place. Two meters run at once — Starter stops at 50 clients on $39/month billed yearly, and each extra internal user costs $39 on Professional and $59 on Advanced.",
   "link": "https://try.assembly.com/dfgq60cnkuu3"
  },
  {
   "name": "Increff",
   "category": "Operations & Workflow",
   "domain": "increff.com",
-  "desc": "Enterprise omnichannel inventory and supply chain management. Optimize your merchandising with intelligent algorithms.",
+  "desc": "Warehouse management plus algorithm-driven merchandising and inventory optimisation for omnichannel retail. There is no public pricing and no flat fee — every deal is quoted case by case against warehouses, users and modules, so budget for an enterprise implementation.",
   "link": "https://partners.increff.com/qaohl2x2de5c"
  },
  {
   "name": "QuillBot",
   "category": "Operations & Workflow",
   "domain": "quillbot.com",
-  "desc": "Advanced AI writing assistant. Instantly paraphrase, summarize, and refine your business communications for maximum clarity.",
+  "desc": "Paraphrasing, grammar, summarising and plagiarism checking in one box of writing utilities. The free tier caps paraphrasing at 125 words and two modes, and the advertised $4.17/month assumes a year paid up front — no month-to-month rate is published.",
   "link": "https://try.quillbot.com/1kodsf2wz3o2",
   "replaces": "Grammarly"
  },
@@ -621,7 +621,7 @@
   "name": "Lindy.ai",
   "category": "Operations & Workflow",
   "domain": "lindy.ai",
-  "desc": "An AI teammate that lives in Slack: @mention it and it works across Gmail, Notion, HubSpot and 1,000+ other tools, sits in your meetings for shared context, runs jobs on a schedule and ships 40+ built-in skills. Nothing to build, and it asks before it changes anything.",
+  "desc": "An AI teammate that lives in Slack: @mention it and it works across your other tools, sits in meetings for shared context and runs jobs on a schedule. Sold per user — Plus $29.99/month for 3k credits, Pro $99.99 for 15k — so cost tracks headcount, and a removed seat runs to the end of the cycle.",
   "link": "https://try.lindy.ai/04841byjd5bi",
   "replaces": "Zapier"
  },
@@ -629,7 +629,7 @@
   "name": "Typewise",
   "category": "Operations & Workflow",
   "domain": "typewise.app",
-  "desc": "Enterprise AI text prediction and ticket resolution for customer support teams. Drastically reduce handle times and manual typing.",
+  "desc": "AI text prediction and drafted replies for enterprise support floors, tuned to your own vocabulary. From about €12/user/month for team plans, with real deployments quote-driven and priced on usage or outcome. The value case rests on measured agent-time saved — insist on that from the pilot.",
   "link": "https://partner.typewise.app/gi20pkpo8bcd"
  },
  {
@@ -650,7 +650,7 @@
   "name": "Synthesia",
   "category": "Operations & Workflow",
   "domain": "synthesia.io",
-  "desc": "Create studio-quality AI videos in minutes. 150+ realistic avatars, 120+ languages, no camera or studio needed. Trusted by half the Fortune 100.",
+  "desc": "AI avatar video for training, explainers and onboarding: type a script, no camera or actors needed. Priced in video-minute credits — Basic is free with about 10 minutes a month and no downloads, Starter $18/month billed yearly for 120 minutes a year. Re-generating an edit spends the minutes again.",
   "link": "https://www.synthesia.io/?via=daniel-haket",
   "replaces": "HeyGen"
  },
@@ -658,14 +658,14 @@
   "name": "InVideo",
   "category": "Operations & Workflow",
   "domain": "invideo.io",
-  "desc": "Type a prompt, get a publish-ready video. AI scriptwriter, voiceovers and 5,000+ smart templates for marketing teams that ship fast.",
+  "desc": "Turns a prompt or script into a first-draft video with AI voiceover, templates and stock footage. AI minutes are metered and do not roll over: Plus is around $28/month for roughly 50 minutes, Max $50–60 for 200. The free tier is watermarked, so it serves as evaluation only.",
   "link": "https://invideo.sjv.io/E00nbn?u=https%3A%2F%2Finvideo.io%2Fmake%2Fai-video-generator%2F"
  },
  {
   "name": "Murf",
   "category": "Operations & Workflow",
   "domain": "murf.ai",
-  "desc": "Enterprise-grade AI voice generator. 200+ natural voices in 20+ languages for voiceovers, podcasts, presentations and YouTube content.",
+  "desc": "AI voiceover generation for explainers, courses and product video. Metered in generation hours per year rather than per month: Creator is about $29/month for 24 hours a year, and every retake of a script bills again.",
   "link": "https://get.murf.ai/ym93ob513bo2",
   "replaces": "ElevenLabs"
  },
@@ -680,7 +680,7 @@
   "name": "CloudTalk",
   "category": "Communication & Voice",
   "domain": "cloudtalk.io",
-  "desc": "Next-generation cloud calling system designed for modern support and sales teams. Includes smart routing and CRM integrations. Its AI voice agents answer inbound calls around the clock, route them or take a message and hand the call to a human; calendar sync with automated booking and rescheduling sits on the paid AI Specialist tier, while the entry-level AI Receptionist still lists appointment scheduling as coming soon.",
+  "desc": "Cloud call centre with call routing, analytics and CRM integrations, from €19/user/month on annual billing (Expert €49 needs at least three licences). AI voice agents are separate subscriptions from €99/month for 200 minutes, and number rental plus outbound minutes stack on top of the seat price.",
   "link": "https://get.cloudtalk.io/750eho0hrkyk",
   "replaces": "RingCentral"
  },
@@ -688,14 +688,14 @@
   "name": "Calilio",
   "category": "Communication & Voice",
   "domain": "calilio.com",
-  "desc": "Modern, reliable business VoIP communications. Set up clear, automated phone menus and virtual numbers in minutes.",
+  "desc": "Cloud phone system with international numbers and call menus, from about $12/user/month annual on Standard. Numbers, minutes and SMS meter separately from a credit balance, so an active team's real bill sits above the per-seat price.",
   "link": "https://try.calilio.com/ntqjzss06d92"
  },
  {
   "name": "KrispCall",
   "category": "Communication & Voice",
   "domain": "krispcall.com",
-  "desc": "Unified cloud telephony platform. Manage virtual numbers across 100+ countries and automate bulk SMS campaigns seamlessly.",
+  "desc": "Virtual numbers across 100+ countries with a shared dashboard, dialer and CRM hooks, from about $12/user/month on annual billing. Calls and SMS are pay-as-you-go from a separate credit balance, so compare per-country call rates at your volume rather than the seat price.",
   "link": "https://try.krispcall.com/oxhjrkcubhma",
   "replaces": "RingCentral"
  },
@@ -717,21 +717,21 @@
   "name": "MindStudio",
   "category": "IT & Productivity",
   "domain": "mindstudio.ai",
-  "desc": "The premier no-code AI agent builder. Visually map out and deploy complex AI workflows and custom web apps in minutes.",
+  "desc": "Visual builder for AI agents and workflows across 200+ models, with model usage passed through at provider cost and no markup. The real bill is therefore subscription plus model spend: Individual is about $20/month, and a looping agent burns provider credits until you set caps.",
   "link": "https://get.mindstudio.ai/sw4f21ihy5xi"
  },
  {
   "name": "Consensus",
   "category": "IT & Productivity",
   "domain": "consensus.app",
-  "desc": "An AI search engine trained purely on peer-reviewed scientific research. The ultimate tool to avoid AI hallucinations.",
+  "desc": "AI search across peer-reviewed literature: it reports what published studies found, not whether those studies are sound. A free tier covers basic search; Pro is about $15/month, or roughly $10 billed annually. Study quality and conflicting results still need your own judgment.",
   "link": "https://get.consensus.app/jmzj2dn2d901"
  },
  {
   "name": "Proton Drive",
   "category": "IT & Productivity",
   "domain": "proton.me",
-  "desc": "Swiss-based, end-to-end encrypted cloud storage. Protect your sensitive business documents from surveillance and AI data mining.",
+  "desc": "End-to-end encrypted cloud storage from a Swiss provider. Free at 2–5 GB; Drive Plus about $3.99/month annual for 200 GB. Because Proton cannot read your files there is no server-side search inside documents, integrations are thinner, and losing your credentials without recovery loses the data.",
   "link": "https://now.getproton.me/xtd5ynchlrma",
   "replaces": "Dropbox"
  },
@@ -739,7 +739,7 @@
   "name": "IDrive",
   "category": "IT & Productivity",
   "domain": "idrive.com",
-  "desc": "Automated disaster recovery and cloud backup. Securely mirror unlimited devices to the cloud to protect against ransomware.",
+  "desc": "Cloud backup across many devices, with versioning, snapshots and physical seed-and-restore shipping. Personal is 5 TB at $9.99/month, shown at $6.99 on annual billing — but that discount is first-year only and the renewal step is about 43%, so budget on year-two rates.",
   "link": "https://partners.idrive.com/qrvz8k6i2arr",
   "replaces": "Backblaze"
  },
@@ -754,7 +754,7 @@
   "name": "Bitdefender",
   "category": "IT & Productivity",
   "domain": "bitdefender.com",
-  "desc": "Enterprise-grade cybersecurity and endpoint protection. Keep your company network safe from malware and advanced threats.",
+  "desc": "GravityZone endpoint protection for small business, managed from one console. Roughly $57–96 per device per year at list on an annual plan. The first year is promotional and renews higher, so budget for the renewal rate rather than the intro.",
   "link": "https://get.bitdefender.com/s1cknsqsf3d1",
   "replaces": "Norton"
  },
@@ -769,7 +769,7 @@
   "name": "Plesk",
   "category": "IT & Productivity",
   "domain": "plesk.com",
-  "desc": "The leading WebOps hosting and server management control panel. Securely manage your web infrastructure and applications.",
+  "desc": "Server control panel for agencies and hosters running many sites — per-domain management, security and one-click stacks. Licensed per server from about $14–18/month for 10 domains. Domain caps drive the tier, and a roughly 26% average price rise took effect in January 2026.",
   "link": "https://try.plesk.com/bhj2s1yu28h0",
   "replaces": "cPanel"
  },
@@ -805,7 +805,7 @@
   "name": "Replit",
   "category": "IT & Productivity",
   "domain": "replit.com",
-  "desc": "Build, deploy and scale software with AI as your co-pilot. Cloud IDE, instant deployments and Replit Agent that ships features for you.",
+  "desc": "Browser-based coding environment with instant deploys and an AI agent. Billing is effort-based: Core is $20/month including $25 of credits, Pro $95/month billed annually including $100. Credits expire monthly and a complex agent session burns them fast, which makes production costs hard to budget.",
   "link": "https://replit.com/signup?referral=dglhaket",
   "replaces": "GitHub Codespaces"
  },
@@ -836,7 +836,7 @@
   "name": "Kinsta",
   "category": "IT & Productivity",
   "domain": "kinsta.com",
-  "desc": "Managed WordPress hosting on Google Cloud's premium tier. Sub-300ms load times, free migrations and 24/7 expert support. The hosting agencies actually recommend.",
+  "desc": "Managed WordPress hosting on Google Cloud, with free migrations and 24/7 support. From about $35/month for one site (25,000 visits, 10 GB), or roughly $29 billed annually. Exceeding the visit cap bills per 1,000 extra visits, and Kinsta confirms it offers no partner-only discount codes.",
   "link": "https://kinsta.com/?kaid=EKSCJEFWBYJO",
   "replaces": "WP Engine"
  },
@@ -844,14 +844,14 @@
   "name": "WP Rocket",
   "category": "IT & Productivity",
   "domain": "wp-rocket.me",
-  "desc": "The most powerful WordPress caching plugin. Boost site speed by 300%+ with one-click optimization, lazy loading and CDN integration.",
+  "desc": "WordPress caching and performance plugin: page cache, lazy loading, file optimisation and CDN integration from one settings screen. Licensed annually from about $59 for one site to $299 for many, all tiers feature-identical. Stop paying and you keep your settings but lose updates and support.",
   "link": "https://www.awin1.com/cread.php?awinmid=52401&awinaffid=2880219&ued=https%3A%2F%2Fwp-rocket.me%2F"
  },
  {
   "name": "Aircall",
   "category": "Communication & Voice",
   "domain": "aircall.io",
-  "desc": "Cloud phone and call-center platform for sales and support teams. Smart call routing, CRM integrations and AI call insights — set up business numbers in 100+ countries in minutes.",
+  "desc": "Cloud phone system for sales and support teams: call routing, analytics and CRM integrations. A three-licence minimum applies, so entry is effectively about $90/month; Essentials is roughly $30/user/month annual against $40 month-to-month.",
   "link": "https://get.aircall.io/1sd4xwyb9qws",
   "replaces": "RingCentral"
  },
@@ -866,7 +866,7 @@
   "name": "Process Street",
   "category": "Operations & Workflow",
   "domain": "process.st",
-  "desc": "Turn your recurring work into simple, trackable checklists and SOPs. AI-powered workflows, approvals and conditional logic — so your team runs smoothly even when you're not in the room.",
+  "desc": "Recurring work as trackable checklists and SOPs, with approvals and conditional logic. Pricing is opaque: Startup begins near $100/month for up to five members and steps up to a custom Pro tier in the $1,500/month range, with seat minimums on top.",
   "link": "https://get.process.st/hyrxoou4prfc"
  },
  {
@@ -896,7 +896,7 @@
   "name": "Melio",
   "category": "Financial Operations",
   "domain": "meliopayments.com",
-  "desc": "Effortless B2B bill payments for small businesses. Pay vendors by bank transfer or card (even where cards aren't accepted), sync with your accounting tools and keep cash flow in your control.",
+  "desc": "Bill payments for small businesses by bank transfer or card, syncing with your accounting tools. The free Go plan covers five ACH transfers a month, then $0.50 each; Core is about $25/month. Card payments carry a flat 2.9%, which only pays off when you are deliberately floating cash.",
   "link": "https://affiliates.meliopayments.com/3k7t5bt87uuu",
   "replaces": "Bill.com"
  },
@@ -904,7 +904,7 @@
   "name": "Quo",
   "category": "Communication & Voice",
   "domain": "quo.com",
-  "desc": "The business phone system formerly known as OpenPhone. Shared numbers, AI call summaries and a clean app — professional calling and texting for startups and small teams.",
+  "desc": "Shared business numbers, texting and AI call summaries for small teams, formerly OpenPhone. About $15/user/month on annual billing, plus telecom taxes and surcharges in 16 US states. Call reliability off Wi-Fi is the recurring complaint, and there is no video conferencing.",
   "link": "https://get.quo.com/aibuildermarketplace",
   "replaces": "RingCentral"
  },
@@ -927,7 +927,7 @@
   "name": "TaxCycle",
   "category": "Financial Operations",
   "domain": "taxcycle.com",
-  "desc": "Professional tax preparation suite for Canadian accountants and bookkeepers. Prepare, review and e-file returns faster with smart checks and seamless CRA integration.",
+  "desc": "Professional tax preparation and CRA e-filing for Canadian accountants and bookkeepers. Quote-based and priced by module and firm size, with reported figures ranging from roughly CAD 1,680 into five figures for full suites. Canada-only, and not a consumer filing app.",
   "link": "https://invitation.taxcycle.com/ngza3ochezk9"
  },
  {
@@ -948,7 +948,7 @@
   "name": "Livestorm",
   "category": "Growth & Revenue",
   "domain": "livestorm.com",
-  "desc": "All-in-one webinar and video engagement platform for marketing teams. Browser-based events, automated emails, polls and analytics — run professional webinars without the tech headaches.",
+  "desc": "Browser-based webinars with registration, automated emails, polls and analytics. There is no plan price: Pro sells attendee credits at €2.50 each, bought a year up front, and one credit is spent per unique participant per session — a four-part series to 200 people costs 800 credits.",
   "link": "https://get.livestorm.co/cfc8vpp5fl59",
   "replaces": "Zoom Webinars"
  },
@@ -956,7 +956,7 @@
   "name": "Volza",
   "category": "Growth & Revenue",
   "domain": "volza.com",
-  "desc": "Global export-import trade intelligence. Search real shipment data to find verified buyers, suppliers and market trends across 80+ countries — prospecting built on actual trade records.",
+  "desc": "Export-import trade intelligence: search customs-level shipment records to find verified buyers and suppliers. From about $1,500 a year for 3B+ shipment records across 200+ countries. Downloads run on points that cost more in thinner markets, and some datasets refresh only every two months.",
   "link": "https://partner.volza.com/gfxywibpiht5",
   "replaces": "ImportGenius"
  },
@@ -979,7 +979,7 @@
   "name": "Shiftie",
   "category": "Operations & Workflow",
   "domain": "shiftie.co",
-  "desc": "Online staff scheduling and team management. Build rotas in minutes, handle clock-ins, leave and shift swaps — scheduling without the spreadsheet headache.",
+  "desc": "Rota building, clock-ins, leave and shift swaps for shift-based businesses. Charged per active employee — roughly £2.75 a month, dropping to about £1.50 once you pass 30 staff, with entry plans from about £39. Not an HR or payroll platform, so those stay separate purchases.",
   "link": "https://try.shiftie.co/vndu93lvag6m"
  },
  {
@@ -1001,7 +1001,7 @@
   "name": "Gravity Forms",
   "category": "IT & Productivity",
   "domain": "gravity.com",
-  "desc": "The gold standard in WordPress forms. Build advanced forms, surveys and workflows with conditional logic and hundreds of integrations.",
+  "desc": "Self-hosted WordPress form builder with conditional logic, payments and deep integrations. Licences run about $59/year for one site up to $259 for unlimited. WordPress-only, and much of the advanced power sits in paid add-ons that can add $99–349/year.",
   "link": "https://try.gravity.com/8odrg2wkes2d"
  },
  {
@@ -1015,14 +1015,14 @@
   "name": "Readymode",
   "category": "Communication & Voice",
   "domain": "readymode.com",
-  "desc": "Outbound customer engagement platform with AI-powered dialing. Reach more contacts per hour with compliant, intelligent call campaigns.",
+  "desc": "Predictive dialler with compliance tooling and supervisor monitoring for high-volume outbound floors. Starter is about $199/user/month and iQ $249 for five or more users, both with unlimited outbound minutes. Premium per seat, and predictive dialling carries real TCPA compliance responsibility.",
   "link": "https://try.readymode.com/w9q86uhvjvzd"
  },
  {
   "name": "Weave",
   "category": "Communication & Voice",
   "domain": "getweave.com",
-  "desc": "All-in-one communication platform for small practices: phone, texting, payments and reviews — front desk superpowers for healthcare and service businesses.",
+  "desc": "Phone, texting, payments and reviews unified for the front desk, tuned to dental, optometry and small healthcare practices. Quote-based per location: owners commonly report $400–700 per location per month plus a one-time setup fee near $750. Get the all-in number in writing.",
   "link": "https://partnerstack.getweave.com/6ofmdour3p3q"
  },
  {
@@ -1051,7 +1051,7 @@
   "name": "Toggl",
   "category": "Operations & Workflow",
   "domain": "toggl.com",
-  "desc": "Intuitive time tracking and project planning for teams. Gain actionable insights into your profitability and streamline your daily workflow.",
+  "desc": "Time tracking for freelancers, consultants and agencies, with budgets, rates and profitability per project. Free up to five users; Starter about $9/user/month on annual billing. The paid line is drawn at whether you bill clients — track time for personal discipline and the free tier covers it.",
   "link": "https://get.toggl.com/ro1ytpecga8j",
   "replaces": "Harvest"
  },
@@ -1059,21 +1059,21 @@
   "name": "Voye",
   "category": "Communication & Voice",
   "domain": "voyedatapool.com",
-  "desc": "Global connectivity and eSIM data pools for distributed teams and business travelers. Stay connected securely anywhere in the world.",
+  "desc": "Pooled eSIM data for travelling teams, billed on actual usage rather than prepaid bundles, with per-user spend controls. Coverage and speed vary by country and carrier partner, so pilot your heaviest routes first — the vendor's roaming-savings figures stay claims until your invoice confirms them.",
   "link": "https://affiliate.voyedatapool.com/1hxkqaqeqiow"
  },
  {
   "name": "Jubilee",
   "category": "Financial Operations",
   "domain": "jubileepro.com",
-  "desc": "Cloud-based legal and bankruptcy software designed to streamline case management, document automation, and filing processes.",
+  "desc": "Bankruptcy petition preparation, document automation and case management for legal practices. $95 per case pay-as-you-go, or annual plans from $995 for up to 36 filings to $4,995 for 500. Size the tier to your real filing volume; sporadic filers do better per case.",
   "link": "https://jubilee.partnerlinks.io/hluaegycd8vs"
  },
  {
   "name": "Bouncer",
   "category": "Growth & Revenue",
   "domain": "usebouncer.com",
-  "desc": "Powerful email verification and deliverability platform. Clean your email lists automatically to protect your sender reputation and boost campaign ROI.",
+  "desc": "Email-list verification sold as credits that never expire: $8 per 1,000 (also the minimum purchase), falling to about $2 per 1,000 at the top volume. Unknowns and duplicates are not charged. Treat 'accept-all' domain results as unverified.",
   "link": "https://withlove.usebouncer.com/a4znwz9xj85p",
   "replaces": "ZeroBounce"
  },
@@ -1081,7 +1081,7 @@
   "name": "SurveySparrow",
   "category": "Growth & Revenue",
   "domain": "surveysparrow.com",
-  "desc": "Omnichannel experience management platform. Create highly engaging, conversational surveys that drive higher completion rates and actionable customer feedback.",
+  "desc": "Conversational surveys and NPS with a polished respondent experience. A limited free plan, then roughly $19–39/month on Basic up to $149 on Business. Response limits on the lower tiers and a contact-sales wall on API and higher volume make budgeting fiddly, and there is no true monthly billing.",
   "link": "https://join.surveysparrow.com/tnkpgu26emfl",
   "replaces": "SurveyMonkey"
  },
@@ -1096,14 +1096,14 @@
   "name": "Stampezee",
   "category": "Growth & Revenue",
   "domain": "stampezee.com",
-  "desc": "Digital loyalty card application for modern businesses. Boost customer retention and repeat sales by replacing paper punch cards with a seamless digital experience.",
+  "desc": "Digital stamp cards for local businesses, replacing paper punch cards. Stamp Start is free for one branch, one card and up to 100 stamps; Stamp Lite is $29.99/month for two branches and three cards. Public pricing stays thin, so re-check the tiers before committing.",
   "link": "https://get.stampezee.com/xnins95skf4p"
  },
  {
   "name": "Wrike",
   "category": "Operations & Workflow",
   "domain": "wrike.com",
-  "desc": "Enterprise-grade work management platform. Centralize your projects, streamline cross-functional collaboration, and automate approvals in one secure workspace.",
+  "desc": "Work management for mid-to-large teams running cross-functional projects: reporting, workflows, approvals and resource management. Free up to five users; Team about $10/user/month and Business $25 on annual billing, with a five-seat minimum on Business.",
   "link": "https://get.wrike.com/qt81vit0326j",
   "replaces": "Asana"
  },
@@ -1111,7 +1111,7 @@
   "name": "Foxit",
   "category": "IT & Productivity",
   "domain": "foxit.com",
-  "desc": "Comprehensive PDF editor and e-signature solution. Edit, secure, and sign digital documents seamlessly as a lightweight alternative to Adobe Acrobat.",
+  "desc": "PDF editing, OCR and organising priced under Acrobat: about $129.99/year for the desktop editor. The basket is modular — e-signing is a separate subscription with a five-user minimum on the business tier, and the AI assistant is a roughly $49.99/year add-on.",
   "link": "https://partnerstack.foxit.com/9nxma1w823gf",
   "replaces": "Adobe Acrobat"
  },
@@ -1119,7 +1119,7 @@
   "name": "Contractor Foreman",
   "category": "Operations & Workflow",
   "domain": "contractorforeman.com",
-  "desc": "All-in-one construction management software. Handle estimating, scheduling, daily logs, and financial tracking effortlessly from the job site.",
+  "desc": "Construction management — estimating, scheduling, daily logs and financial tracking — priced per company rather than per seat, with unlimited projects on every tier. Annual runs $49/month for one user up to $332 for unlimited; quarterly billing costs about 26% more and Basic is annual-only.",
   "link": "https://try.contractorforeman.com/cawglgaebpxr"
  },
  {
@@ -1140,7 +1140,7 @@
   "name": "Salesflare",
   "category": "Growth & Revenue",
   "domain": "salesflare.com",
-  "desc": "An intelligent CRM for startups and SMBs that requires zero manual data entry. Automatically tracks emails, meetings, and contacts to maximize sales efficiency.",
+  "desc": "CRM for small B2B teams that auto-logs emails, meetings and contact details from your inbox and calendar. $29–99/user/month with no caps on contacts or pipelines. Deliberately lean: no built-in dialer, no quoting or invoicing, and basic reporting unless you export.",
   "link": "https://go.salesflare.com/3qgsyippvq9p",
   "replaces": "HubSpot"
  },
@@ -1148,7 +1148,7 @@
   "name": "Dify",
   "category": "IT & Productivity",
   "domain": "dify.ai",
-  "desc": "Leading open-source platform for building agentic AI workflows and LLM apps. Visual builder, RAG pipelines and model-agnostic — ship AI features without reinventing the plumbing.",
+  "desc": "Open-source platform for LLM apps and agent workflows: visual builder, RAG pipelines, model-agnostic. Free to self-host, but you own the servers, updates and reliability, and LLM tokens bill separately on every plan. Managed cloud runs about $59/month on Professional.",
   "link": "https://affiliate.dify.ai/6g7z70ov0bx6",
   "replaces": "LangChain"
  },
@@ -1164,7 +1164,7 @@
   "name": "Shorby",
   "category": "Growth & Revenue",
   "domain": "shorby.com",
-  "desc": "Smart link-in-bio pages and short links for social media. Turn one bio link into a hub for all your content, offers and channels.",
+  "desc": "Link-in-bio pages and short links, with messenger deep-links into WhatsApp or Telegram and retargeting pixels firing on every click. It charges from about $15/month where Linktree does not charge at all, so the gap only pays off if messenger selling or ad retargeting is genuinely your funnel.",
   "link": "https://shorby.partnerlinks.io/86ecade3e22e",
   "replaces": "Linktree"
  },
@@ -1196,7 +1196,7 @@
   "name": "DropGenius",
   "category": "Growth & Revenue",
   "domain": "dropgenius.com",
-  "desc": "AI-powered dropshipping store builder. Launch a ready-to-sell online store with products, branding and copy generated in minutes.",
+  "desc": "Generates a Shopify dropshipping store — products, branding and copy — as a starting template, not a finished business. Monthly runs $39 to $299, and annual billing drops Starter. Trustpilot sat near 1.6/5 at research time, with recurring complaints about charges after cancellation.",
   "link": "https://dropgenius.partnerlinks.io/e38toiu5ul2g"
  },
  {
@@ -1225,14 +1225,14 @@
   "name": "UENI",
   "category": "Growth & Revenue",
   "domain": "ueni.com",
-  "desc": "Done-for-you websites and online presence for small and local businesses. Get a professional site, bookings and listings live fast — without building it yourself.",
+  "desc": "A done-for-you small-business website, built for you rather than a builder you have to learn: a one-time build fee (promoted at $79 against a usual figure near $599) plus $24.99/month, including domain, email and a launch call. DIY editing is limited and the seven-day promise often slips.",
   "link": "https://psc.ueni.com/swnclusvb12q"
  },
  {
   "name": "CrankWheel",
   "category": "Communication & Voice",
   "domain": "crankwheel.com",
-  "desc": "Instant, no-download screen sharing built for sales calls. Share your screen with a prospect in seconds from any device to close deals faster.",
+  "desc": "No-download screen sharing for sales calls — a prospect clicks a link and sees your screen on any device. Deliberately narrow: no video conferencing, webinars or collaboration. The free plan covers one user and 15 meetings a month; Solo is about $29/user/month.",
   "link": "https://try.crankwheel.com/0coqsbab00ua"
  },
  {
@@ -1254,7 +1254,7 @@
   "name": "Todoist",
   "category": "Operations & Workflow",
   "domain": "todoist.com",
-  "desc": "A clean, powerful to-do and task manager. Capture tasks, set due dates and organize projects so nothing slips — across all your devices.",
+  "desc": "Task manager for individuals and small teams: quick capture, due dates and projects across devices. The free plan caps you at five projects and has no reminders, which moves most regular users to Pro at about $5/month billed annually. A to-do app, not a project suite with timelines or dependencies.",
   "link": "https://get.todoist.io/j2mu6x3husri",
   "replaces": "Asana"
  },
@@ -1262,7 +1262,7 @@
   "name": "Aira",
   "category": "Growth & Revenue",
   "domain": "aira.app",
-  "desc": "AI-powered sales engagement that qualifies and books leads automatically, so outreach keeps running without constant manual follow-up.",
+  "desc": "AI-assisted B2B prospecting on a Europe-native company database, with meeting notes flowing into records automatically. About €149/month, with a money-back guarantee. The product is young and independent review coverage is thin, so test it against a concrete metric of your own.",
   "link": "https://get.aira.app/i885nzzcmgg4"
  },
  {
@@ -1277,14 +1277,14 @@
   "name": "Ruby",
   "category": "Communication & Voice",
   "domain": "ruby.com",
-  "desc": "Live virtual receptionists and chat for small businesses. Real people backed by smart tech answer your calls and messages so you never miss a customer.",
+  "desc": "Live human receptionists answering your calls, plus chat. Billed by receptionist-minute: roughly $235–385/month for 50–100 minutes, rising into four figures at higher volume, with chat bundles from about $112/month. Premium rates that pay off only when a missed call is a lost client.",
   "link": "https://get.ruby.com/wlngs0yc8d9c"
  },
  {
   "name": "Devs.ai",
   "category": "IT & Productivity",
   "domain": "devs.ai",
-  "desc": "Build AI apps and agents without heavy engineering. Combine multiple leading LLMs to create chatbots and internal tools your team can actually use.",
+  "desc": "Build and ship AI agents and apps across many models without engineering work. The seat price is the smaller half of the bill: Personal includes $10 of model usage a month and Business $21, metered on top — and the plan cards state the included amount without stating the rate once it runs out.",
   "link": "https://join.devs.ai/exn0gdsa9tab"
  },
  {
@@ -1299,7 +1299,7 @@
   "name": "Leadpages",
   "category": "Growth & Revenue",
   "domain": "leadpages.com",
-  "desc": "Landing page and lead-generation builder. Launch high-converting pages, pop-ups and alert bars without a designer to turn traffic into leads.",
+  "desc": "Landing pages, pop-ups and alert bars, with unlimited traffic on every Leadpages plan where metered rivals count visitors. Conversion plans run $99 (Grow) to $399 (Scale), alongside a separate HTML Pub publishing line at $10–49. The value pick rather than the optimisation pick.",
   "link": "https://try.leadpages.com/q9pd6qx3xjq8",
   "replaces": "ClickFunnels"
  },
@@ -1331,7 +1331,7 @@
   "name": "Brevo",
   "category": "Growth & Revenue",
   "domain": "brevo.com",
-  "desc": "Email marketing, SMS and CRM in one platform. Design campaigns, automate follow-ups and manage contacts so you can nurture leads and customers from a single hub.",
+  "desc": "Email, SMS and a light CRM, priced by monthly send volume rather than contact count — cheaper for a large list you email selectively. Free forever at 300 emails a day with unlimited contacts; paid from about $9/month. Model your real send volume if you mail frequently.",
   "link": "https://get.brevo.com/1fja6u7hu62y",
   "replaces": "Mailchimp"
  },
@@ -1346,7 +1346,7 @@
   "name": "Capsule",
   "category": "Growth & Revenue",
   "domain": "capsulecrm.com",
-  "desc": "Simple, focused CRM for small businesses. Track contacts, sales pipelines and tasks in one tidy place so nothing slips between deals and follow-ups.",
+  "desc": "Deliberately simple CRM for small businesses: contacts, pipeline and tasks. Free for 250 contacts and two users, then about $21/user/month on Starter. The simplicity is the product — advanced automation, deep reporting and integrations thin out, and a scaling sales org can outgrow it.",
   "link": "https://get.capsulenow.io/q99x0fa3klb8",
   "replaces": "Salesforce"
  },
@@ -1441,7 +1441,7 @@
   "name": "NiceJob",
   "category": "Growth & Revenue",
   "domain": "nicejob.com",
-  "desc": "Reputation marketing on autopilot. Automatically ask happy customers for reviews, showcase them on your site, and turn word-of-mouth into a steady stream of leads.",
+  "desc": "Automates asking customers for reviews and showcases them on your site. Reviews runs about $75/month and Pro around $125, plus a one-off setup fee near $199. Reporting and customisation are fairly basic, and the automation only amplifies the service you already deliver.",
   "link": "https://try.nicejob.com/k3v3ud10kczz"
  },
  {
@@ -1486,14 +1486,14 @@
   "name": "Switcher Studio",
   "category": "Operations & Workflow",
   "domain": "switcherstudio.com",
-  "desc": "Multi-camera live video production from your iPhone and iPad. Stream, record and sell with professional switching, overlays and shopping integrations.",
+  "desc": "Multi-camera live production and streaming from iPhones and iPads you already own, with overlays and pay-per-view monetisation. Studio runs around $45/month on annual billing. iOS-only — no Android or desktop app — and wireless multi-cam is only as reliable as the venue's Wi-Fi.",
   "link": "https://start.switcherstudio.com/pq0alaki5yss"
  },
  {
   "name": "Blinq",
   "category": "IT & Productivity",
   "domain": "blinq.me",
-  "desc": "Digital business cards for modern networking. Share your contact details instantly via QR or link, and capture leads straight into your CRM.",
+  "desc": "Digital business cards shared by QR code or link, with contacts syncing into your CRM. A free plan covers two cards; Business is about $4.99/user/month annual with a five-user minimum, and the event lead-capture add-on starts near $199/month.",
   "link": "https://partners.blinq.me/ohdq0uiuc8xg"
  },
  {
@@ -1530,7 +1530,7 @@
   "name": "Campaigner",
   "category": "Growth & Revenue",
   "domain": "campaigner.com",
-  "desc": "Advanced email and SMS marketing for mid-market teams. Build automated journeys, segment audiences and run A/B tests with detailed reporting.",
+  "desc": "Email and SMS marketing for mid-market senders with larger lists. The useful features start high — automation and API only arrive on Essential at about $179/month, while Starter at $59 is a sending tool rather than an automation platform. Contact-based pricing bills dormant subscribers too.",
   "link": "https://pstk.campaigner.com/0ypcozjggnji",
   "replaces": "Mailchimp"
  },
@@ -1552,7 +1552,7 @@
   "name": "Hopp",
   "category": "IT & Productivity",
   "domain": "gethopp.com",
-  "desc": "Digital business cards and smart networking for teams. Share contact details instantly and capture leads, with branded cards your whole team can use.",
+  "desc": "Digital business cards and lead capture for teams, with contact details shared by link or QR. Several products share the Hopp name and public pricing beyond the free tier is fragmented, so confirm which product you are evaluating and get current rates in writing.",
   "link": "https://get.business.gethopp.com/bzi57c8cghwg"
  },
  {
@@ -1580,7 +1580,7 @@
   "name": "CallRail",
   "category": "Growth & Revenue",
   "domain": "callrail.com",
-  "desc": "Call tracking and marketing attribution. See which campaigns, keywords and ads drive phone calls and form leads, with recordings and analytics to prove ROI.",
+  "desc": "Call tracking and attribution — which campaigns, keywords and ads produce phone calls and form leads. Plans run about $50–195/month, but included minutes, numbers and SMS are modest and overages meter at roughly $0.05 a local minute. It is an attribution layer, not a phone system or CRM.",
   "link": "https://partners.callrail.com/nvve8beie0o6"
  },
  {
@@ -1730,7 +1730,7 @@
   "name": "Zeffy",
   "category": "Financial Operations",
   "domain": "zeffy.com",
-  "desc": "100% free fundraising and donation platform for nonprofits: ticketing, donation forms and payments with no platform fees.",
+  "desc": "Fundraising, ticketing and donation payments for nonprofits at genuinely $0 — no platform, transaction or card-processing fees. The model is an optional tip prompt shown to your donors at checkout, which they can set to zero. Weigh that against the 2–5% paid platforms take from every donation.",
   "link": "https://join.zeffy.com/d8gjswsqntkf"
  },
  {
@@ -1758,7 +1758,7 @@
   "name": "HiBob",
   "category": "Operations & Workflow",
   "domain": "hibob.com",
-  "desc": "Modern HR platform (Bob): HRIS, onboarding, time-off and people analytics for growing companies that want culture-first HR without enterprise bloat.",
+  "desc": "HRIS with onboarding, time-off and people analytics, built for scaling mid-size companies. Quote-only, per employee per month: third-party estimates cluster in the mid-teens, plus a one-off implementation fee reported at roughly 10–20% of the annual value. Get the number in writing.",
   "link": "https://partners.hibob.com/er7lzncj0udv",
   "replaces": "BambooHR"
  },
@@ -1766,7 +1766,7 @@
   "name": "Kixie",
   "category": "Communication & Voice",
   "domain": "kixie.com",
-  "desc": "Sales engagement with a power dialer: automated calling and SMS, CRM integration and call analytics to help reps connect with more leads, faster.",
+  "desc": "Power dialer with SMS and CRM integration for outbound sales teams, billed quarterly from about $35/user/month. Minutes are not included and the multi-line dialer and AI voice detection are add-ons, so a realistic all-in lands nearer $110–220/user/month.",
   "link": "https://get.kixie.com/e9lu0lbwzvmq"
  },
  {
@@ -1809,7 +1809,7 @@
   "name": "Dext",
   "category": "Financial Operations",
   "domain": "dext.com",
-  "desc": "Bookkeeping automation: capture receipts and invoices, extract the data automatically and sync to your accounting software — less manual entry.",
+  "desc": "Receipt and invoice capture that extracts the data and feeds it into Xero, QuickBooks or Sage. It is the capture layer, not accounting software, so you still need one of those. From about £24/month on Starter, and extraction accuracy varies enough to need manual correction.",
   "link": "https://join.dext.com/kpcxwghrlalz"
  },
  {
@@ -1824,7 +1824,7 @@
   "name": "Pixel Union",
   "category": "Growth & Revenue",
   "domain": "pixelunion.net",
-  "desc": "Premium Shopify themes and store apps for online retailers: professionally designed, conversion-focused storefronts without custom development.",
+  "desc": "Premium Shopify themes bought once rather than by subscription: Pixel Union themes around $300–340 and Out of the Sandbox themes roughly $350–495. A theme is a starting point — the conversion lift comes from how you configure and populate it, not from the purchase.",
   "link": "https://partners.pixelunion.net/iv57khdrl4uh"
  },
  {
@@ -1838,7 +1838,7 @@
   "name": "Riverside",
   "category": "Growth & Revenue",
   "domain": "riverside.fm",
-  "desc": "AI-powered studio to record studio-quality podcasts and video remotely — then edit, transcribe and repurpose into clips, all in the browser.",
+  "desc": "Records podcasts and video locally at each end, so guests on poor connections still come out broadcast-quality. The meter is separate-track recording time: Pro is $29/month for 15 hours, and hitting the cap stops new separate-track downloads until the next cycle rather than billing you more.",
   "link": "https://riverside.partnerlinks.io/g04f8x6h3qz8",
   "replaces": "Zencastr"
  },
@@ -1907,7 +1907,7 @@
   "name": "Guesty",
   "category": "Operations & Workflow",
   "domain": "guesty.com",
-  "desc": "All-in-one management for short-term and vacation rentals: unify bookings, guest messaging, channel distribution and pricing across 60+ channels (Airbnb, Vrbo and more) in one dashboard.",
+  "desc": "Property management for short-term and vacation rentals: bookings, guest messaging, channel distribution and pricing in one dashboard. Guesty Lite is roughly $9/month plus about 1% per reservation for one to three listings; Pro and Enterprise are custom-quoted. Heavy for a single listing.",
   "link": "https://join.guesty.com/hbsivmn3jiqk"
  },
  {
@@ -1937,7 +1937,7 @@
   "name": "Plansom",
   "category": "Operations & Workflow",
   "domain": "plansom.com",
-  "desc": "AI project management and work OS for teams: organise tasks, goals and collaboration, with AI that helps prioritise what actually moves the needle.",
+  "desc": "AI-assisted planning for tasks, goals and team collaboration, with a free Starter tier that keeps tasks unlimited. Pro is about $14.99/month or $149.99 a year. A smaller player next to Asana and ClickUp, with fewer integrations and a smaller ecosystem around it.",
   "link": "https://get.plansom.com/rbq5isz20va4",
   "replaces": "Asana"
  },
@@ -2007,7 +2007,7 @@
   "name": "Hello Bar",
   "category": "Growth & Revenue",
   "domain": "hellobar.com",
-  "desc": "Popup and notification-bar tool for lead capture: sticky bars, popups, slide-ins and full-screen takeovers that turn visitors into subscribers — with A/B testing, targeting rules and 20+ email-tool integrations.",
+  "desc": "Sticky bars, popups, slide-ins and full-screen takeovers for lead capture, with A/B testing and targeting rules. The meter is popup views rather than signups, so a traffic spike raises the bill however few emails you captured. Reported tiers start near $29–39/month for roughly 50k views.",
   "link": "https://try.hellobar.com/vz8mv5n0fc5o",
   "replaces": "OptinMonster"
  },
@@ -2071,7 +2071,7 @@
   "name": "Restream",
   "category": "Growth & Revenue",
   "domain": "restream.io",
-  "desc": "Live streaming studio and multistreaming platform: broadcast one show simultaneously to YouTube, LinkedIn, Facebook, Twitch and 30+ destinations from your browser — with guests, local recordings, captions and scheduled broadcasts.",
+  "desc": "Multistreaming studio: broadcast one show to YouTube, LinkedIn, Facebook and Twitch at once from the browser, with guests and local recordings. The channel caps are the business model — 3 on Standard at about $16/month annual, 5 on Professional — and each extra teammate is a $25/month seat.",
   "link": "https://try.restream.io/r09i9uua5ley",
   "replaces": null
  },
@@ -2282,7 +2282,7 @@
  },
  {
   "category": "HR & People",
-  "desc": "Employer of record and global contractor management — hire in 120+ countries without your own entity.",
+  "desc": "Employer of record and global contractor management for hiring where you have no legal entity. EOR is $699 per employee a month, contractors $29. Two costs sit in the FAQ rather than on the price card: a refundable deposit per EOR employee, and an FX fee when payment and contract currency differ.",
   "domain": "oysterhr.com",
   "link": "https://oyster.partnerlinks.io/4afbpr49frid",
   "name": "Oyster"
