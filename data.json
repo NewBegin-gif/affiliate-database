@@ -884,6 +884,13 @@
   "replaces": "Otter.ai"
  },
  {
+  "name": "Flatpay",
+  "domain": "flatpay.com",
+  "link": "https://try.flatpay.com/cvoy8rottjop",
+  "category": "Financial Operations",
+  "desc": "Card terminals, POS systems and online payments for physical shops across Europe, sold with on-site installation and 24/7 support. One flat rate on every card type: 1.49% on the terminal, 1.69% on the POS tiers, with daily payouts and no monthly subscription. Read their separate price list before you sign, though: it carries a £995 minimum monthly turnover with a £39 charge when you miss it, £410 for a replacement terminal, and POS installation from £995 to £2,495 — all excluding VAT (read 13 Aug 2026)."
+ },
+ {
   "name": "FlexiQuiz",
   "category": "Operations & Workflow",
   "domain": "flexiquiz.com",
