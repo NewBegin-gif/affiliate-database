@@ -321,7 +321,7 @@
   "name": "Bitvavo",
   "category": "Financial Operations",
   "domain": "bitvavo.com",
-  "desc": "Dutch-regulated, euro-native crypto exchange with deep EUR pairs and an API for automation. No subscription — the base tier under €100k monthly volume runs about 0.15% maker and 0.25% taker, dropping through nine volume tiers. Sign up via our link for €10K fee-free.",
+  "desc": "Dutch-regulated, euro-native crypto exchange with deep EUR pairs and an API for automation. No subscription — the base tier under €100k monthly volume runs about 0.15% maker and 0.25% taker, dropping through ten volume tiers. Sign up via our link for €10K fee-free.",
   "link": "https://account.bitvavo.com/create?a=68DCE39715&pid=invite&c=referral&af_adset=68DCE39715&deep_link_value=bitvavo%3A%2F%2Fcreate%3Fa%3D68DCE39715",
   "replaces": "Coinbase"
  },
@@ -1847,7 +1847,7 @@
   "name": "Ruby",
   "category": "Communication & Voice",
   "domain": "ruby.com",
-  "desc": "Live human receptionists answering your calls, plus chat. Billed by receptionist-minute: roughly $235–385/month for 50–100 minutes, rising into four figures at higher volume, with chat bundles from about $112/month. Premium rates that pay off only when a missed call is a lost client.",
+  "desc": "Live human receptionists answering your calls, plus chat. Billed by receptionist-minute: $250/month for 50 minutes and $395 for 100, rising to $1,725 for 500, with chat bundled from $115/month. Premium rates that pay off only when a missed call is a lost client.",
   "link": "https://get.ruby.com/wlngs0yc8d9c"
  },
  {
