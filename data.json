@@ -1821,6 +1821,13 @@
   "replaces": "Outreach"
  },
  {
+  "name": "respond.io",
+  "domain": "respond.io",
+  "link": "https://get.respond.io/59337pcu4fh7",
+  "category": "Communication & Voice",
+  "desc": "Shared inbox for WhatsApp, Instagram, Messenger, SMS, email and live chat, with workflow automation, broadcasts and AI agents on top. Priced per monthly active contact rather than per seat: $79 Starter, $159 Growth and $279 Advanced, around 20% off paid yearly, with a 7-day trial and no card. The catch is where the line sits: automation, broadcasts, AI agents and the API all start at Growth, so the entry plan is the inbox without the engine (read 13 Aug 2026)."
+ },
+ {
   "name": "Restream",
   "category": "Growth & Revenue",
   "domain": "restream.io",
