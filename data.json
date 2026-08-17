@@ -975,7 +975,7 @@
   "name": "Gamma",
   "category": "Operations & Workflow",
   "domain": "gamma.app",
-  "desc": "Turns a prompt or rough notes into a deck, document or webpage draft. Credit-metered: the free tier gives 400 one-time credits and carries Gamma branding, Plus is about $12/month for 1,000 credits. Output still needs a human pass for high-stakes decks.",
+  "desc": "Turns a prompt or rough notes into a deck, document or webpage draft. Credit-metered: the free tier gives 400 one-time credits and carries Gamma branding, Plus is €10/month (€8 on annual billing) for 1,000 monthly credits, read 16 Aug 2026 from an EU address. Output still needs a human pass for high-stakes decks.",
   "link": "https://try.gamma.app/cw0to3pyxe7t",
   "replaces": "PowerPoint"
  },
@@ -1594,7 +1594,7 @@
   "name": "Payoneer",
   "category": "Financial Operations",
   "domain": "payoneer.com",
-  "desc": "Local receiving accounts for freelancers and sellers paid by international clients and marketplaces. Free to open — the cost sits in the fees: 1% on non-local currency received, 1.2–4% on conversion, $1.50 flat to withdraw locally, and a $29.95 annual fee waived above $6,000 received.",
+  "desc": "Local receiving accounts for freelancers and sellers paid by international clients and marketplaces. Free to open — the cost sits in the fees: 1% on non-local currency received, 1.2–4% to withdraw to a bank in another country, whether or not currency is converted, $1.50 flat to withdraw locally, and a $29.95 annual fee waived above $6,000 received.",
   "link": "https://payoneer557.partnerlinks.io/whpnqt92bm0j",
   "replaces": "PayPal"
  },
