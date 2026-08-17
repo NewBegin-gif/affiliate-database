@@ -37,6 +37,13 @@
   "replaces": "Canva"
  },
  {
+  "name": "ADP",
+  "category": "HR & People",
+  "domain": "adp.com",
+  "desc": "Payroll, tax filing and HR for small and mid-sized employers, sold as four RUN packages: Essential, Enhanced, Complete and HR Pro. No public pricing anywhere — /pricing is a 404 and every tier on the comparison page says “Get pricing”, so budgeting means a sales call.",
+  "link": "https://adp.partnerlinks.io/rd4qocoua8as"
+ },
+ {
   "name": "Adwisely",
   "category": "Growth & Revenue",
   "domain": "adwisely.com",
@@ -54,7 +61,7 @@
   "name": "AgencyAnalytics",
   "category": "Growth & Revenue",
   "domain": "agencyanalytics.com",
-  "desc": "Client reporting and dashboards built for marketing agencies: aggregate 80+ marketing platforms into white-label dashboards and automated reports, with per-client KPI goals. White-labeling on every plan.",
+  "desc": "Client reporting and dashboards built for marketing agencies: aggregate 85+ marketing platforms into white-label dashboards and automated reports, with per-client KPI goals. White-labeling on every plan.",
   "link": "https://try.agencyanalytics.com/wbvfos4lz97z",
   "replaces": "Databox"
  },
@@ -171,6 +178,13 @@
   "link": "https://partners.answeringservicecare.com/nl6tzxl11oot",
   "category": "Communication & Voice",
   "desc": "US-based live answering with real people, 24/7 and bilingual English/Spanish, with call transfers, SMS and email relays, a client portal and app on every plan. Monthly plans run $40 Starter, $179 Small Business (100 minutes), $329 Pro (250) and $639 Enterprise (500), around 10% off if you pay a year upfront. Read the small print first: Starter includes zero minutes, there is a $50 start-up fee mentioned only in the body text, and the explanation below the table quotes three prices that do not match the table above it (read 12 Aug 2026)."
+ },
+ {
+  "name": "Aplos",
+  "category": "Finance & Accounting",
+  "domain": "aplos.com",
+  "desc": "Fund accounting built for nonprofits and faith-based organisations, tracking restricted and unrestricted money separately. Lite is $79/month for 2 users, then $129 and $229. A 50%-off-for-three-months promotion was running in August 2026, so check what month four costs.",
+  "link": "https://partnerstack.joinvelora.com/w52wdps7sva8"
  },
  {
   "name": "Apollo",
@@ -541,6 +555,13 @@
   "desc": "Creates a continuously-translated clone of your existing website — fast multilingual versions that stay synced as your site changes, without rebuilding it."
  },
  {
+  "name": "Cloro",
+  "category": "Marketing",
+  "domain": "cloro.dev",
+  "link": "https://affiliate.cloro.dev/7s5arpd4jhio",
+  "desc": "API die AI-zoekmachines uitleest — ChatGPT, Perplexity, Copilot, Gemini, Grok, AI Overview en Google Search — en per zoekopdracht de bronnen en citaties teruggeeft als JSON."
+ },
+ {
   "name": "Close",
   "category": "Growth & Revenue",
   "domain": "close.com",
@@ -555,6 +576,13 @@
   "desc": "Cloud call centre with call routing, analytics and CRM integrations, from €19/user/month on annual billing (Expert €49 needs at least three licences). AI voice agents are separate subscriptions from €99/month for 200 minutes, and number rental plus outbound minutes stack on top of the seat price.",
   "link": "https://get.cloudtalk.io/750eho0hrkyk",
   "replaces": "RingCentral"
+ },
+ {
+  "name": "CloudTask",
+  "category": "HR & People",
+  "domain": "cloudtask.com",
+  "desc": "Managed marketplace for LATAM go-to-market hires — SDRs, BDRs and similar — with payroll and compliance handled. $299/month membership, plus an all-in monthly rate per hire that is not published. Direct Hire instead costs 30% of first-year salary.",
+  "link": "https://get.cloudtask.com/6puug6ro1f8e"
  },
  {
   "name": "Cloudways",
@@ -712,6 +740,13 @@
   "domain": "diginius.com",
   "desc": "Digital marketing and e-commerce performance platform. Manage PPC, analytics and product feeds to improve online sales and visibility.",
   "link": "https://get.diginius.com/xbub3a16tmb1"
+ },
+ {
+  "name": "Digit",
+  "category": "Operations & Workflow",
+  "domain": "digit-software.com",
+  "desc": "Inventory, production, purchasing and sales in one system for manufacturers and distributors. Starter $400/month with 5 users, Growth $750, Professional $1,300, extra users $63 each. Watch the add-ons: integrations beyond two, API and MCP access are $100/month apiece.",
+  "link": "https://partners.digit-software.com/25eh3i1ndxue"
  },
  {
   "name": "doola",
@@ -1583,6 +1618,13 @@
   "desc": "Enterprise workforce-payments platform unifying global payroll, EOR hiring, contractor management and cross-border payments in one system — finance-first, with same-day local payouts on owned payment rails and deep ERP/HRIS integration. Premium, quote-only pricing."
  },
  {
+  "name": "Parim",
+  "category": "HR & People",
+  "domain": "parim.co",
+  "desc": "Workforce management for shift-heavy operations — staffing agencies, security, events — with unlimited users on every plan. Pricing starts from £47/month but every tier is quote-only: they price on functionality and the number of shifts you schedule.",
+  "link": "https://parimworkforcesoftware.partnerlinks.io/5vlq354x8uqb"
+ },
+ {
   "name": "Passpack",
   "category": "IT & Productivity",
   "domain": "passpack.com",
@@ -1639,6 +1681,13 @@
   "domain": "pixelunion.net",
   "desc": "Premium Shopify themes bought once rather than by subscription: Pixel Union themes around $300–340 and Out of the Sandbox themes roughly $350–495. A theme is a starting point — the conversion lift comes from how you configure and populate it, not from the purchase.",
   "link": "https://partners.pixelunion.net/iv57khdrl4uh"
+ },
+ {
+  "name": "Planday",
+  "category": "HR & People",
+  "domain": "planday.com",
+  "desc": "Employee scheduling and time tracking for shift businesses, owned by Xero. Starter is €2.99 per user/month with a 5-user minimum; Plus is €4.99 per user plus a €25 monthly platform fee and a 10-user minimum. 30-day trial, no card.",
+  "link": "https://partnerships.planday.com/02j1mx36pctn"
  },
  {
   "name": "Plansom",
@@ -1908,6 +1957,13 @@
   "link": "https://seelinc.partnerlinks.io/72rbemm1cqhd",
   "category": "E-commerce",
   "desc": "Shopper-paid returns and shipping protection for Shopify, BigCommerce and Adobe Commerce. Customers add Worry-Free Purchase at checkout and Seel pays the refund instead of you — free for the merchant."
+ },
+ {
+  "name": "Seller Investigators",
+  "category": "E-commerce",
+  "domain": "sellerinvestigators.com",
+  "desc": "Amazon FBA reimbursement recovery on contingency: a free 48-hour audit, then a 25% commission charged only after Amazon deposits recovered funds. No subscription. Ask which cases Amazon would have settled automatically before you sign.",
+  "link": "https://ps.carbon6.io/d2uxhs1usng6"
  },
  {
   "name": "Seller Snap",
@@ -2601,54 +2657,5 @@
   "domain": "zoominfo.com",
   "desc": "Enterprise B2B sales intelligence and contact database. Find verified company and contact data, buying signals and org charts to fuel outbound at scale.",
   "link": "https://try.zoominfo.com/me0vaf3cnryt"
- },
- {
-  "name": "Aplos",
-  "category": "Finance & Accounting",
-  "domain": "aplos.com",
-  "desc": "Fund accounting built for nonprofits and faith-based organisations, tracking restricted and unrestricted money separately. Lite is $79/month for 2 users, then $129 and $229. A 50%-off-for-three-months promotion was running in August 2026, so check what month four costs.",
-  "link": "https://partnerstack.joinvelora.com/w52wdps7sva8"
- },
- {
-  "name": "CloudTask",
-  "category": "HR & People",
-  "domain": "cloudtask.com",
-  "desc": "Managed marketplace for LATAM go-to-market hires — SDRs, BDRs and similar — with payroll and compliance handled. $299/month membership, plus an all-in monthly rate per hire that is not published. Direct Hire instead costs 30% of first-year salary.",
-  "link": "https://get.cloudtask.com/6puug6ro1f8e"
- },
- {
-  "name": "Digit",
-  "category": "Operations & Workflow",
-  "domain": "digit-software.com",
-  "desc": "Inventory, production, purchasing and sales in one system for manufacturers and distributors. Starter $400/month with 5 users, Growth $750, Professional $1,300, extra users $63 each. Watch the add-ons: integrations beyond two, API and MCP access are $100/month apiece.",
-  "link": "https://partners.digit-software.com/25eh3i1ndxue"
- },
- {
-  "name": "Parim",
-  "category": "HR & People",
-  "domain": "parim.co",
-  "desc": "Workforce management for shift-heavy operations — staffing agencies, security, events — with unlimited users on every plan. Pricing starts from £47/month but every tier is quote-only: they price on functionality and the number of shifts you schedule.",
-  "link": "https://parimworkforcesoftware.partnerlinks.io/5vlq354x8uqb"
- },
- {
-  "name": "Planday",
-  "category": "HR & People",
-  "domain": "planday.com",
-  "desc": "Employee scheduling and time tracking for shift businesses, owned by Xero. Starter is €2.99 per user/month with a 5-user minimum; Plus is €4.99 per user plus a €25 monthly platform fee and a 10-user minimum. 30-day trial, no card.",
-  "link": "https://partnerships.planday.com/02j1mx36pctn"
- },
- {
-  "name": "ADP",
-  "category": "HR & People",
-  "domain": "adp.com",
-  "desc": "Payroll, tax filing and HR for small and mid-sized employers, sold as four RUN packages: Essential, Enhanced, Complete and HR Pro. No public pricing anywhere — /pricing is a 404 and every tier on the comparison page says “Get pricing”, so budgeting means a sales call.",
-  "link": "https://adp.partnerlinks.io/rd4qocoua8as"
- },
- {
-  "name": "Seller Investigators",
-  "category": "E-commerce",
-  "domain": "sellerinvestigators.com",
-  "desc": "Amazon FBA reimbursement recovery on contingency: a free 48-hour audit, then a 25% commission charged only after Amazon deposits recovered funds. No subscription. Ask which cases Amazon would have settled automatically before you sign.",
-  "link": "https://ps.carbon6.io/d2uxhs1usng6"
  }
 ]
