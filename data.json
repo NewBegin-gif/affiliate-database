@@ -484,7 +484,7 @@
   "name": "Carbon6",
   "category": "Operations & Workflow",
   "domain": "carbon6.io",
-  "desc": "SPS Commerce Revenue Recovery — the toolset formerly sold as Carbon6, acquired by SPS Commerce on 7 Feb 2025 and folded into spscommerce.com. Recovers retailer deductions, chargebacks and shortages for 1P suppliers across Amazon, Walmart, Target and Kroger, alongside SoStocked, ScanUnlimited and SPS Ad Performance (formerly PixelMe). Note: the 3P Amazon FBA reimbursement arm was divested on 30 Jun 2026 to an undisclosed buyer.",
+  "desc": "A suite of Amazon seller tools sold per product rather than as one subscription: Seller Investigators (FBA reimbursement recovery), ChargeGuard (1P vendor recovery for chargeback fees, shortages and accruals), PixelMe, DSP Prime and PPC Entourage (advertising), SoStocked (demand and inventory planning), ScanUnlimited (wholesale sourcing), plus ManageByStats, D8aDriven, AMZAlert and SellerAssist. Ownership matters here: SPS Commerce bought Carbon6 in Feb 2025 and folded the 1P deduction-recovery work into spscommerce.com, then transferred the 3P Amazon-seller business to Carbon6 on 30 Jun 2026 — the suite is sold under the Carbon6 brand again, with the partner programme rebranding from SPS to Carbon6 on 24 Aug 2026 and commission terms unchanged.",
   "link": "https://ps.carbon6.io/d2uxhs1usng6"
  },
  {
@@ -1485,7 +1485,7 @@
   "name": "Ngram",
   "category": "IT & Productivity",
   "domain": "ngram.com",
-  "desc": "AI video creation for product and marketing teams. Turn docs, screenshots and recordings into polished, on-brand videos — scripted, storyboarded and produced with AI on a credit-based model. A published blog post or doc URL is a valid starting point in its own right: paste the link and it handles the research, script, storyboard, voice and style choice and the render in one sitting, with no editor in the loop, and hands back a shareable public link or an embed.",
+  "desc": "AI video creation for product and marketing teams. Turn docs, screenshots and recordings into polished, on-brand videos — scripted, storyboarded and produced with AI on a credit-based model, with a brand kit, captions and subtitles, AI voiceover and an AI avatar presenter. A published blog post or doc URL is a valid starting point in its own right: paste the link and it handles the research, script, storyboard, voice and style choice and the render in one sitting, with no editor in the loop, and hands back a shareable public link or an embed.",
   "link": "https://partner.ngram.com/32s9nqdqy7lr"
  },
  {
