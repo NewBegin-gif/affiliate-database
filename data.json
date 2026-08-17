@@ -559,7 +559,7 @@
   "category": "Marketing",
   "domain": "cloro.dev",
   "link": "https://affiliate.cloro.dev/7s5arpd4jhio",
-  "desc": "API die AI-zoekmachines uitleest — ChatGPT, Perplexity, Copilot, Gemini, Grok, AI Overview en Google Search — en per zoekopdracht de bronnen en citaties teruggeeft als JSON."
+  "desc": "API that reads AI search engines — ChatGPT, Perplexity, Copilot, Gemini, Grok, AI Overview and Google Search — and returns the sources and citations behind every query as structured JSON."
  },
  {
   "name": "Close",
@@ -2441,6 +2441,13 @@
   "domain": "unitelvoice.com",
   "desc": "Virtual business phone system for small teams. Get a toll-free or local number with auto-attendant, call routing and a mobile app — no hardware.",
   "link": "https://unitelvoice.partnerlinks.io/pez7g9obn4ti"
+ },
+ {
+  "name": "Unleashed Software",
+  "category": "Operations & Workflow",
+  "domain": "unleashedsoftware.com",
+  "link": "https://try.unleashedsoftware.com/xeg4thx9277o",
+  "desc": "Inventory and MRP software for manufacturers and wholesalers — real-time stock across warehouses, purchasing, sales orders and batch or serial tracking. The entry price covers 3 users and 100 sales orders a month; past that the bill stacks up."
  },
  {
   "name": "UptimeRobot",
