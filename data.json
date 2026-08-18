@@ -217,6 +217,13 @@
   "link": "https://try.assembly.com/dfgq60cnkuu3"
  },
  {
+  "name": "Atlas AI Store Builder",
+  "category": "E-commerce",
+  "domain": "helloatlas.io",
+  "link": "https://platform.shoffi.app/r/rl_GvKfZcQh",
+  "desc": "Shopify app that builds a full store or product page from a single product link — layout, copy and images generated automatically, plus bundle and cart upsells. $39/month covers 5 pages, $1,000 of bundle revenue and 250 orders; past that the meter tracks your revenue."
+ },
+ {
   "name": "Atria",
   "category": "Growth & Revenue",
   "domain": "tryatria.com",
@@ -231,6 +238,13 @@
   "link": "https://affiliate.attotime.com/0yonlt43h0ny"
  },
  {
+  "name": "Attribuly",
+  "category": "Growth & Revenue",
+  "domain": "attribuly.com",
+  "link": "https://platform.shoffi.app/r/rl_eroQWgHx",
+  "desc": "Recovers abandoned carts Klaviyo misses — identifies visitors, syncs intent signals back into Klaviyo and lets an AI agent send a personalised recovery email. Free until $1,000 of recovered revenue, then $450 or $500 a month."
+ },
+ {
   "name": "Audiorista",
   "domain": "audiorista.com",
   "link": "https://www.audiorista.com/?red=aibuil",
@@ -243,6 +257,13 @@
   "domain": "goaura.com",
   "link": "https://goaura.com",
   "name": "Aura"
+ },
+ {
+  "name": "AutoWrite",
+  "category": "Marketing",
+  "domain": "autowrite.blog",
+  "link": "https://platform.shoffi.app/r/rl_XXVnQavZ",
+  "desc": "AI blog writer for Shopify with SEO scoring, scheduling and publishing. Free plan available. New to the App Store: zero reviews as of 18 Aug 2026."
  },
  {
   "name": "Auware",
@@ -1022,6 +1043,13 @@
   "link": "https://try.gelato.com/c9ioyi0ycvpz"
  },
  {
+  "name": "GeoStock",
+  "category": "E-commerce",
+  "domain": "jtcinteractive.com",
+  "link": "https://platform.shoffi.app/r/rl_Ds2oXD0d",
+  "desc": "Shows per-location stock on the product page plus a store-locator map, so shoppers can see which branch has the item. From $9.99 a month, Plus $29.99. It displays inventory rather than managing it."
+ },
+ {
   "name": "Geotargetly",
   "domain": "geotargetly.com",
   "link": "https://geotargetly.com/?red=aibuil",
@@ -1117,6 +1145,13 @@
   "desc": "Sticky bars, popups, slide-ins and full-screen takeovers for lead capture, with A/B testing and targeting rules. The meter is popup views rather than signups, so a traffic spike raises the bill however few emails you captured. Reported tiers start near $29–39/month for roughly 50k views.",
   "link": "https://try.hellobar.com/vz8mv5n0fc5o",
   "replaces": "OptinMonster"
+ },
+ {
+  "name": "HelpCenter",
+  "category": "Customer Support",
+  "domain": "helpcenterapp.com",
+  "link": "https://platform.shoffi.app/r/rl_WyzIuyMD",
+  "desc": "Shopify helpdesk with live chat and an AI FAQ builder: email, chat and Messenger in one ticket queue, plus SEO-friendly FAQ pages. Free to install; paid from $5.99 to $49.99 a month."
  },
  {
   "name": "HiBob",
@@ -1950,6 +1985,13 @@
   "desc": "B2B contact database with AI list-building, plus an MCP server so Claude or ChatGPT can run the searching and enrichment. Paid plans are quote-based, reported around $147/month for 250 credits. Independent tests put deliverability near 74%, and contracts auto-renew with 30–60 days' notice to cancel.",
   "link": "https://get.seamless.ai/gleubirgjgj8",
   "replaces": "ZoomInfo"
+ },
+ {
+  "name": "Securify",
+  "category": "Security",
+  "domain": "securification.ai",
+  "link": "https://platform.shoffi.app/r/rl_7qblcw5i",
+  "desc": "Country blocker and fraud filter for Shopify: blocks countries, IP ranges, bots, VPNs and risky emails at checkout, and holds suspicious orders automatically. Free plan; paid $5.99 to $49 a month."
  },
  {
   "name": "Seel",
