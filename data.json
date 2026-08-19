@@ -2769,5 +2769,19 @@
   "domain": "tapita.io",
   "desc": "AI blog builder for Shopify: generates SEO-oriented posts with titles, images and keyword suggestions, embeds your products, and schedules bulk publishing from a drag-and-drop editor. Free with 50 one-off credits; Pro is $9.99 a month on Shopify Basic but rises with your Shopify plan to $14.99, $39.99 or $69.99.",
   "link": "https://platform.shoffi.app/r/rl_YezE0WYL"
+ },
+ {
+  "name": "Section Library",
+  "category": "Design & Content",
+  "domain": "sectionlibrary.com",
+  "desc": "Shopify app that adds 200+ ready-made theme sections plus AI-generated custom ones (Gemini 3.1 Pro), all inside the native theme editor so layouts change without a developer. Free plan gives 8 credits a month; paid runs $9, $19 or $29 a month for 25, 55 or 90 credits. Live since October 2023 with a single App Store review.",
+  "link": "https://platform.shoffi.app/r/rl_O72vMWMm"
+ },
+ {
+  "name": "Disputifier",
+  "category": "Financial Operations",
+  "domain": "disputifier.com",
+  "desc": "Chargeback automation for Shopify: submits dispute evidence for you, buys chargeback alerts that refund incoming disputes before they land, and screens orders for fraud and late shipments. Free to install; recovery costs 20% of every won chargeback (capped at $250 a win), alerts run $17-$27.50 each and the two prevention add-ons $0.05 an order.",
+  "link": "https://platform.shoffi.app/r/rl_ON7TzQLR"
  }
 ]
