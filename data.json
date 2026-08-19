@@ -1341,7 +1341,7 @@
   "name": "Kixie",
   "category": "Communication & Voice",
   "domain": "kixie.com",
-  "desc": "Power dialer with SMS and CRM integration for outbound sales teams, billed quarterly from about $35/user/month. Minutes are not included and the multi-line dialer and AI voice detection are add-ons, so a realistic all-in lands nearer $110–220/user/month.",
+  "desc": "Power dialer with SMS and CRM integration for outbound sales teams. Kixie publishes no seat price: three tiers separated by how many lines they dial, with the multi-line AI voice detection, ConnectionBoost, Conversation Intelligence and DNC compliance all sold as add-ons on top.",
   "link": "https://get.kixie.com/e9lu0lbwzvmq"
  },
  {
@@ -1982,7 +1982,7 @@
   "name": "SaneBox",
   "category": "Operations & Workflow",
   "domain": "sanebox.com",
-  "desc": "Email triage that moves low-priority mail out of the inbox and works with any provider. From about $3.49/month for one account up to $16.99 for four. The honest catch: you are paying monthly to filter mail that modern email clients increasingly sort for free.",
+  "desc": "Email triage that moves low-priority mail out of the inbox and works with any provider. From $4.54/month for one account on a two-year commitment — $9.49 month to month — up to $22.04 for four accounts with every feature. The honest catch: you are paying monthly to filter mail that modern email clients increasingly sort for free.",
   "link": "https://try.sanebox.com/7wul6weu1xvd"
  },
  {
@@ -2713,5 +2713,19 @@
   "domain": "zoominfo.com",
   "desc": "Enterprise B2B sales intelligence and contact database. Find verified company and contact data, buying signals and org charts to fuel outbound at scale.",
   "link": "https://try.zoominfo.com/me0vaf3cnryt"
+ },
+ {
+  "name": "HubSpot",
+  "category": "Sales & CRM",
+  "domain": "hubspot.com",
+  "desc": "CRM platform with marketing, sales, service and content hubs on one contact database. Free for up to 2 users and 1,000 contacts; Starter is advertised at $7 per seat a month against a $20 list price, and Professional starts at $800 a month with a mandatory $3,000 onboarding fee on top.",
+  "link": "https://www.hubspot.com/"
+ },
+ {
+  "name": "Gixo",
+  "category": "Design & Content",
+  "domain": "gixo.ai",
+  "desc": "Seven separate AI workspaces — decks, articles, visuals, briefs, proposals, legal drafts and books — each sold on its own plan. Published floors run from $10 a month for Quill, Lumen and Prism to $49 for Arc, with a 14-day trial on six of the seven and no bundle price.",
+  "link": "https://gixo.ai/?red=aibuil"
  }
 ]
