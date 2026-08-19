@@ -2741,5 +2741,33 @@
   "domain": "dripshipper.io",
   "desc": "Private-label coffee and tea dropshipping for Shopify: they roast, bag and ship from their own US facilities within 3-5 business days, with your brand on the packaging. Starter $30 a month or $240 a year, Professional $99, Elite $197, all with a 14-day trial and per-order product and shipping cost on top.",
   "link": "https://platform.shoffi.app/r/rl_82dCreuw"
+ },
+ {
+  "name": "Modelize",
+  "category": "Design & Content",
+  "domain": "modelize.studio",
+  "desc": "Shopify app that generates on-model, lifestyle, studio and flat-lay product photos in bulk from your existing catalogue images, using Google's Gemini image models. Free tier is 3 one-off images; Starter $19 a month buys 100 images, Pro $49 buys 250 at up to 4K, Enterprise $99 buys 500 with extras at $0.20 each.",
+  "link": "https://platform.shoffi.app/r/rl_iGThInDm"
+ },
+ {
+  "name": "Cloze",
+  "category": "Customer Support",
+  "domain": "cloze.bot",
+  "desc": "AI shopping assistant for Shopify: a chat widget wired to your live catalogue, inventory and knowledge base that answers product questions, compares items, tracks orders and hands off to a human. Free for 25 conversations a month; paid runs $49, $99 or $199 a month on the App Store, with extra conversations at $0.10. New listing: no reviews yet as of 19 Aug 2026.",
+  "link": "https://platform.shoffi.app/r/rl_A1yoHyzX"
+ },
+ {
+  "name": "StoreSEO",
+  "category": "SEO & Marketing",
+  "domain": "storeseo.com",
+  "desc": "SEO suite for Shopify: bulk meta titles and descriptions, image compression and alt text, JSON-LD schema, sitemap submission, instant indexing requests and Search Console reporting, with AI credits for generated copy. Free forever for 25 products; paid runs $14.99, $39.99 or $249.99 a month by product count.",
+  "link": "https://platform.shoffi.app/r/rl_NhfsK9HT"
+ },
+ {
+  "name": "Tapita AI SEO Blog Builder",
+  "category": "SEO & Marketing",
+  "domain": "tapita.io",
+  "desc": "AI blog builder for Shopify: generates SEO-oriented posts with titles, images and keyword suggestions, embeds your products, and schedules bulk publishing from a drag-and-drop editor. Free with 50 one-off credits; Pro is $9.99 a month on Shopify Basic but rises with your Shopify plan to $14.99, $39.99 or $69.99.",
+  "link": "https://platform.shoffi.app/r/rl_YezE0WYL"
  }
 ]
