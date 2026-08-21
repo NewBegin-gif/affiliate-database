@@ -335,7 +335,7 @@
   "domain": "billingnow.com",
   "link": "https://billingnow.com/?red=aibuil",
   "category": "Finance & Accounting",
-  "desc": "Invoicing and expense tracking with AI — unlimited invoices, expenses, clients and users on one flat $9.99/month plan, made in Geneva."
+  "desc": "Invoicing and expense tracking with AI — unlimited invoices, expenses, clients and users, at $9.99 a month or $99.90 a year, made in Geneva."
  },
  {
   "name": "Birch",
@@ -2825,5 +2825,40 @@
   "domain": "castmagic.io",
   "desc": "Turns recorded audio and video into a stack of ready-to-use assets: transcripts in 60+ languages, show notes, summaries, newsletters, social posts, clips and audiograms, with custom prompts and an AI chat across your whole library. Billed annually at $19, $48 or $139 a month for 30, 100 or 400 transcribed hours; Business & Scale starts at $699 a month by demo.",
   "link": "https://get.castmagic.io/bo9siddhzqx6"
+ },
+ {
+  "name": "Tapita SEO Optimizer",
+  "category": "SEO & Marketing",
+  "domain": "tapita.io",
+  "desc": "All-in-one Shopify SEO app: site audits with LLMs.txt for AI search engines, bulk and AI-written metadata, image alt text and compression, JSON-LD schema, broken-link auto-redirects and one-click speed fixes. Free plan available; Basic is $9.99 a month and Pro $39.99 on Shopify Basic, plus $5, $30 or $60 more a month on Grow, Advanced and Plus.",
+  "link": "https://platform.shoffi.app/r/rl_CHreIi9B"
+ },
+ {
+  "name": "Selixer",
+  "category": "E-commerce",
+  "domain": "selixer.com",
+  "desc": "Shopify profit dashboard that nets ad spend, COGS, returns and fees out of revenue and reports what you keep per product, campaign and customer, built for fashion and apparel brands. Essance $149 a month, Catalyst $299 and Aether $399, each with a 14-day trial; the profit waterfall and campaign ROAS start at $299.",
+  "link": "https://platform.shoffi.app/r/rl_KJx7vv0I"
+ },
+ {
+  "name": "EcomXray",
+  "category": "E-commerce",
+  "domain": "ecomxray.io",
+  "desc": "Shows cost price, gross margin, current stock and net units sold over 30, 90 and 365 days for every Shopify product, with restock advice from real sales velocity. The analytics are free; Pro at $29 a month adds in-place product editing, SEO fields, an activity log and a Chrome extension.",
+  "link": "https://platform.shoffi.app/r/rl_B7QNSCnr"
+ },
+ {
+  "name": "Intelis",
+  "category": "E-commerce",
+  "domain": "intelis.ai",
+  "desc": "Monitors competitor prices on Google Shopping and direct competitor sites and reprices your Shopify catalogue automatically with AI matching rules. Priced by tracked products or variants: $49 a month for 100, $179 for 1,000, $249 for 2,000 and $399 for 5,000, each with a 14-day trial.",
+  "link": "https://platform.shoffi.app/r/rl_erepc6ss"
+ },
+ {
+  "name": "StoreFAQ",
+  "category": "Customer Support",
+  "domain": "storefaq.io",
+  "desc": "Builds SEO-friendly FAQ pages and product FAQ accordions with JSON-LD schema on Shopify, plus an AI chatbot, instant answers and live chat. Free plan covers 100 FAQ page views; Professional $7.99 a month, Growth $14.99 and Enterprise $49.99, all metered on page views and AI conversations.",
+  "link": "https://platform.shoffi.app/r/rl_5FnnB8qq"
  }
 ]
