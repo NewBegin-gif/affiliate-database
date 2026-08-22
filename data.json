@@ -2860,5 +2860,33 @@
   "domain": "storefaq.io",
   "desc": "Builds SEO-friendly FAQ pages and product FAQ accordions with JSON-LD schema on Shopify, plus an AI chatbot, instant answers and live chat. Free plan covers 100 FAQ page views; Professional $7.99 a month, Growth $14.99 and Enterprise $49.99, all metered on page views and AI conversations.",
   "link": "https://platform.shoffi.app/r/rl_5FnnB8qq"
+ },
+ {
+  "name": "ProtectMyOrder",
+  "category": "E-commerce",
+  "domain": "protectmyorder.com",
+  "desc": "Shopify checkout upsell for premium services: package protection against lost and stolen parcels, carbon-neutral shipping and free returns, sold on the cart page, in checkout or through a custom widget, with fixed, dynamic or percentage pricing and an A/B test against half your traffic. Merchants keep 80% of the upsell revenue and settle every claim themselves. Free to install; ProtectMyOrder takes 19.99% of delivery protection revenue with a minimum charge of $20 a month.",
+  "link": "https://platform.shoffi.app/r/rl_3GZwq1Fp"
+ },
+ {
+  "name": "BackupMaster",
+  "category": "Operations & Workflow",
+  "domain": "backupmaster.io",
+  "desc": "Automatic daily backups for Shopify: products, collections, themes, blogs, pages, files, metafields, metaobjects, translations, customers, orders and inventory, with 365-day retention and one-click restore; Pro adds downloadable copies, Google Drive sync and store duplication for staging. The free tier is for Shopify Partner dev stores only; live stores run $19, $39 or $79 a month for 300, 600 or 1,500 orders, 10% off annually.",
+  "link": "https://platform.shoffi.app/r/rl_lOT5iWTk"
+ },
+ {
+  "name": "Blocky",
+  "category": "Security",
+  "domain": "effectify.io",
+  "desc": "Shopify fraud filter that blocks visitors and orders by country, IP (v4 and v6), email, name, address and phone, with an AI bot blocker for TOR, proxy and VPN traffic that gets past reCAPTCHA, country redirects, a right-click blocker and visitor analytics. The free tier is for development stores only; live stores run $9.99 for country blocking, $16.99 with IP blocking or $19.99 for the identity and bot filters, 30% off annually. Not sold to Shopify Plus stores.",
+  "link": "https://platform.shoffi.app/r/rl_I3K3306i"
+ },
+ {
+  "name": "Dondy",
+  "category": "Marketing",
+  "domain": "dondy.net",
+  "desc": "WhatsApp marketing and support for Shopify on the official WhatsApp Business API: abandoned-cart recovery, campaigns to Shopify segments, automated order messages, a shared inbox and an AI chatbot for sales and support. Free for the chat button; $6.99 a month for manual messages, $79.99 for automation and campaigns, $159.99 with the AI chatbot, plus Meta's own per-conversation charges from $0.0126.",
+  "link": "https://platform.shoffi.app/r/rl_crZ3TcbF"
  }
 ]
