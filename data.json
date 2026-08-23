@@ -2888,5 +2888,47 @@
   "domain": "dondy.net",
   "desc": "WhatsApp marketing and support for Shopify on the official WhatsApp Business API: abandoned-cart recovery, campaigns to Shopify segments, automated order messages, a shared inbox and an AI chatbot for sales and support. Free for the chat button; $6.99 a month for manual messages, $79.99 for automation and campaigns, $159.99 with the AI chatbot, plus Meta's own per-conversation charges from $0.0126.",
   "link": "https://platform.shoffi.app/r/rl_crZ3TcbF"
+ },
+ {
+  "name": "Essential Loyalty",
+  "domain": "essential-apps.com",
+  "category": "Growth & Revenue",
+  "desc": "Shopify loyalty and rewards app metered on loyalty-influenced orders rather than total orders, with VIP tiers and referrals on the free plan.",
+  "link": "https://platform.shoffi.app/r/rl_67Q8o64N"
+ },
+ {
+  "name": "TiXel",
+  "domain": "effectify.io",
+  "category": "Marketing",
+  "desc": "Shopify app for Meta and TikTok pixels, with unlimited pixels, product-level scoping and server-side Events API tracking on one flat plan.",
+  "link": "https://platform.shoffi.app/r/rl_Iy5GxUnu"
+ },
+ {
+  "name": "Meeri",
+  "domain": "meeritech.com",
+  "category": "Marketing",
+  "desc": "Shopify app that recovers abandoned carts with AI-written web push notifications instead of email or SMS — no address or phone needed to subscribe, and no commission on recovered revenue. Free for 300 notifications a month; Pro is $4.99.",
+  "link": "https://platform.shoffi.app/r/rl_vSqzYDCx"
+ },
+ {
+  "name": "Storista",
+  "domain": "storista.io",
+  "category": "Marketing",
+  "desc": "Shopify app that turns TikTok, Reels and UGC clips into shoppable video widgets — carousels, stories, grids and spotlights — with auto-sync from TikTok and Instagram. Free for 10 videos, $15 for 50, and AI product tagging from $49.",
+  "link": "https://platform.shoffi.app/r/rl_Koyaq7Kj"
+ },
+ {
+  "name": "MigrationPro",
+  "domain": "migrationpro.io",
+  "category": "Operations & Workflow",
+  "desc": "Shopify app that imports products, customers, orders, collections, URLs and 301 redirects from WooCommerce, Wix, Magento and 30-odd other platforms. One-time payment rather than a subscription, from $29 self-service or $300 done-for-you, after a free ten-record demo.",
+  "link": "https://platform.shoffi.app/r/rl_350YjLe6"
+ },
+ {
+  "name": "Koongo",
+  "domain": "koongo.com",
+  "category": "E-commerce",
+  "desc": "Shopify app that syncs product feeds, stock and orders across Amazon, eBay, Bol, Zalando, Allegro and 500-plus channels from one dashboard. Free tier for 100 items; paid plans from $39 a month, separated by refresh frequency, with surcharges beyond the included limits.",
+  "link": "https://platform.shoffi.app/r/rl_KDJFdTWa"
  }
 ]
