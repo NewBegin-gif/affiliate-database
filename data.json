@@ -751,7 +751,7 @@
     "name": "Dify",
     "category": "IT & Productivity",
     "domain": "dify.ai",
-    "desc": "Open-source platform for LLM apps and agent workflows: visual builder, RAG pipelines, model-agnostic. Free to self-host, but you own the servers, updates and reliability, and LLM tokens bill separately on every plan. Managed cloud runs about $59/month on Professional.",
+    "desc": "Source-available platform for LLM apps and agent workflows: visual builder, RAG pipelines, model-agnostic. The Community Edition is free of a software fee to self-host, but you own the servers, updates and reliability. Managed Dify Cloud runs $59/month on Professional, priced per workspace.",
     "link": "https://affiliate.dify.ai/6g7z70ov0bx6",
     "replaces": "LangChain"
   },

@@ -1,0 +1,4 @@
+# Lokale dossierbackups: ontstaan bij elke bewerking, horen niet in de historie.
+data.json.bak-*
+data.json.bak_*
+*.tmp
