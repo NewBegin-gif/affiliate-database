@@ -2958,5 +2958,19 @@
     "domain": "tidio.com",
     "desc": "Live chat, ticketing and the Lyro AI agent in one platform: AI answers routine questions from your own data, hands the rest to the team with context, and Flows chase leads proactively.",
     "link": "https://affiliate.tidio.com/n4o3znrjj9vm"
+  },
+  {
+    "name": "Fast Bundle",
+    "category": "Growth & Revenue",
+    "domain": "fastbundle.co",
+    "desc": "Shopify app that covers every bundle format from one place — fixed bundles, mix-and-match, build-your-own, BOGO, volume breaks and AI frequently-bought-together — on product pages, in the cart and in POS. Metered on the sales your bundles generate rather than on catalogue size: free under $500 a month, then $19, $49 and $139, with $299 for uncapped bundle revenue. Shopify pulled the app after a July 2026 security incident and relisted it on 30 July.",
+    "link": "https://fastbundle.partnerlinks.io/9mnlvh4bs4me"
+  },
+  {
+    "name": "TnC",
+    "category": "E-commerce",
+    "domain": "effectify.io",
+    "desc": "Shopify app that puts a mandatory “I agree to the terms” checkbox on the cart and on the Buy It Now, PayPal and Apple Pay express buttons, logs the consent timestamp against the order, and can show it only for chosen products or countries for GDPR and age gates. From $6.99 a month; the checkbox inside Shopify's own checkout page needs Shopify Plus and a $19.99 tier the App Store listing does not show.",
+    "link": "https://platform.shoffi.app/r/rl_1Hn8jwo7"
   }
 ]
