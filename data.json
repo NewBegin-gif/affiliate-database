@@ -2972,5 +2972,19 @@
     "domain": "effectify.io",
     "desc": "Shopify app that puts a mandatory “I agree to the terms” checkbox on the cart and on the Buy It Now, PayPal and Apple Pay express buttons, logs the consent timestamp against the order, and can show it only for chosen products or countries for GDPR and age gates. From $6.99 a month; the checkbox inside Shopify's own checkout page needs Shopify Plus and a $19.99 tier the App Store listing does not show.",
     "link": "https://platform.shoffi.app/r/rl_1Hn8jwo7"
+  },
+  {
+    "name": "TheTop",
+    "category": "IT & Productivity",
+    "domain": "thetop.com",
+    "desc": "An AI 'chief of staff' that pulls Gmail, Google Calendar, Outlook, Microsoft 365 and RSS feeds into one ranked morning brief, then drafts the replies and quick actions the brief calls for. Essential is $15/month for two connected sources; the enrichment, smart reply and five-source cap that let it act rather than summarise sit on Pro at $30.",
+    "link": "https://join.thetop.com/bvtsnmltfl93"
+  },
+  {
+    "name": "Scrolly",
+    "category": "E-commerce",
+    "domain": "effectify.io",
+    "desc": "Free Shopify app from Effectify that adds a customizable floating back-to-top button and, optionally, infinite scroll on collection pages, with no code and no paid tier. The button is a safe convenience; the infinite scroll replaces the paginated collection URLs crawlers use, so it is a merchandising decision rather than a styling one.",
+    "link": "https://platform.shoffi.app/r/rl_nRCzw16P"
   }
 ]
