@@ -17,7 +17,7 @@ VAULT_NEW = {
     "Freshchat": "https://affiliatepartner-freshchat.freshworks.com/613iz3k6u70i",
     "Birch": "https://join.bir.ch/aje5arihw6cw",
     "Freshservice": "https://affiliatepartner-freshservice.freshworks.com/fllek8c4eikg",
-    "AWeber": "https://psjoin.aweber.com/l7c34qaiww5c",
+    "AWeber": "https://www.aweber.com/easy-email.htm?id=561874",
     "InboxAlly": "https://get.inboxally.com/anvbioq7ns18",
     "Gelato": "https://try.gelato.com/c9ioyi0ycvpz",
     "AfterSell": "https://try.aftersell.app/vv4g49ide6z2",

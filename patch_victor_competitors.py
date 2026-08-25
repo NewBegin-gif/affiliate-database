@@ -13,7 +13,7 @@ VAULT_NEW = {
     "Clay":"https://clay.com","CallRail":"https://partners.callrail.com/nvve8beie0o6",
     "Aspire":"https://partners.aspireapp.com/AIBuilder","Checkr":"https://get.checkr.com/dlmrvlliqgxm",
     "Freshchat":"https://affiliatepartner-freshchat.freshworks.com/613iz3k6u70i","Birch":"https://join.bir.ch/aje5arihw6cw",
-    "Freshservice":"https://affiliatepartner-freshservice.freshworks.com/fllek8c4eikg","AWeber":"https://psjoin.aweber.com/l7c34qaiww5c",
+    "Freshservice":"https://affiliatepartner-freshservice.freshworks.com/fllek8c4eikg","AWeber":"https://www.aweber.com/easy-email.htm?id=561874",
     "InboxAlly":"https://get.inboxally.com/anvbioq7ns18","Gelato":"https://try.gelato.com/c9ioyi0ycvpz",
     "AfterSell":"https://try.aftersell.app/vv4g49ide6z2","SMTP.com":"https://pstk.smtp.com/aav1yxqg0i9h",
     "1Password":"https://1password.partnerlinks.io/jvm7u5ka0ctm","Stamped":"https://get.stamped.io/sdjq70urrlg6",
