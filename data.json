@@ -2428,7 +2428,7 @@
     "name": "Trainual",
     "category": "Operations & Workflow",
     "domain": "trainual.com",
-    "desc": "Documents SOPs and runs new-hire onboarding, with AI that drafts and updates training docs from your own account context. Not publicly priced: third-party sources put Core near $249/month for up to 10 seats billed annually, plus a reported one-time implementation fee around $1,000.",
+    "desc": "Documents SOPs and runs new-hire onboarding, with AI that drafts and updates training docs from your own account context. Not publicly priced: all four plans are quote-gated behind a demo, and the only figure the pricing page publishes is a one-time implementation fee of $1,000.",
     "link": "https://start.trainual.com/nn7g1qwtr0cd"
   },
   {
@@ -2970,7 +2970,7 @@
     "name": "TnC",
     "category": "E-commerce",
     "domain": "effectify.io",
-    "desc": "Shopify app that puts a mandatory “I agree to the terms” checkbox on the cart and on the Buy It Now, PayPal and Apple Pay express buttons, logs the consent timestamp against the order, and can show it only for chosen products or countries for GDPR and age gates. From $6.99 a month; the checkbox inside Shopify's own checkout page needs Shopify Plus and a $19.99 tier the App Store listing does not show.",
+    "desc": "Shopify app that puts a mandatory “I agree to the terms” checkbox on the cart and on the Buy It Now, PayPal and Apple Pay express buttons, logs the consent timestamp against the order, and can show it only for chosen products or countries for GDPR and age gates. From $7.99 a month, with the consent timestamp starting at $12.99; the checkbox inside Shopify's own checkout page needs Shopify Plus and a $19.99 tier the App Store listing does not show.",
     "link": "https://platform.shoffi.app/r/rl_1Hn8jwo7"
   },
   {
@@ -2993,5 +2993,12 @@
     "domain": "datarails.com",
     "desc": "Excel-native FP&A platform for finance teams. Consolidation, planning, reporting and dashboards built on top of the spreadsheets you already use, with governed data behind them.",
     "link": "https://datarails.partnerlinks.io/jfaezjgqrnua"
+  },
+  {
+    "name": "Surfer (SurferSEO)",
+    "domain": "surferseo.com",
+    "link": "https://get.surferseo.com/wcvko5qhbzuq",
+    "category": "Marketing",
+    "desc": "Content optimization against live SERP data, and since 2026 a tracker for how often a brand is cited in AI answers like ChatGPT and Google AI Overviews. Billed yearly at four tiers."
   }
 ]
