@@ -3014,5 +3014,12 @@
   "link": "https://try.supportbee.com/ewmir3q4j35f",
   "category": "Customer Support",
   "desc": "Email ticketing for collaborative customer service: a shared team inbox where every agent has their own login, plus an integrated knowledge base and, on the upper tier, a customer portal. Per seat, no free plan."
+ },
+ {
+  "name": "Pecan AI",
+  "domain": "pecan.ai",
+  "link": "https://affiliate.pecan.ai/sk9dygon1y77",
+  "category": "Growth & Revenue",
+  "desc": "Predictive AI that builds churn, LTV and demand models from your own data and delivers the results into your warehouse or CRM. Priced by prediction batches rather than seats, and quote-only at every tier."
  }
 ]
