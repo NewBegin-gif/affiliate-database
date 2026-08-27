@@ -14,7 +14,7 @@ from pathlib import Path
 APPLY = "--apply" in sys.argv
 REPO = Path("/root/felix_hq/repos/aibuildermarketplace")
 B2B = REPO / "b2b"
-TESTED_URLS = ("/b2b/bitvavo-trading-bot/", "/b2b/replit-trading-bot/", "/b2b/hostinger-vps-review/")
+TESTED_URLS = ("/b2b/bitvavo-trading-bot/", "/b2b/replit-trading-bot/", "/b2b/hostinger-review/")
 
 pat = re.compile(r'(<a href="([^"]*)"[^>]*>)My hands-on review →</a>')
 

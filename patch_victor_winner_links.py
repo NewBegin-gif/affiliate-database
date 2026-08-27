@@ -28,7 +28,7 @@ inject = (
     "('bitvavo-scale-up','Is Bitvavo right for your business?'),"
     "('replit-trading-bot','Build a Replit trading bot'),"
     "('aisdr-vs-clay-en','AiSDR vs Clay'),"
-    "('hostinger-vps-review','Hostinger VPS review'),"
+    "('hostinger-review','Hostinger VPS review'),"
     "('beehiiv-pricing-en','Beehiiv pricing guide'),"
     "('trainual-employee-onboarding-software-en','Trainual for onboarding'),"
     "('sanebox-pricing-en','SaneBox pricing')]\n"
