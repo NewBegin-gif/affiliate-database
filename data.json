@@ -1325,7 +1325,7 @@
   "name": "Kinsta",
   "category": "IT & Productivity",
   "domain": "kinsta.com",
-  "desc": "Managed WordPress hosting on Google Cloud, with free migrations and 24/7 support. From about $35/month for one site (25,000 visits, 10 GB), or roughly $29 billed annually. Exceeding the visit cap bills per 1,000 extra visits, and Kinsta confirms it offers no partner-only discount codes.",
+  "desc": "Managed WordPress hosting on Google Cloud, with free migrations and 24/7 support. From $35/month for one site (10 GB, metered on 20 GB bandwidth or 35,000 visits), or $30/month billed annually at $350 a year. Overage bills per 1,000 extra visits; Kinsta gives no partner-only discount codes.",
   "link": "https://kinsta.com/?kaid=EKSCJEFWBYJO",
   "replaces": "WP Engine"
  },
