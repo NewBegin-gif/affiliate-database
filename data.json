@@ -3028,5 +3028,26 @@
   "domain": "rippling.com",
   "desc": "Workforce platform that unifies HR, IT and Finance in one system of record: run payroll and benefits, manage hiring, onboarding and time tracking, and provision devices and app access automatically — with policy-driven automation across employee data, approvals and compliance.",
   "link": "https://try.rippling.com/02bwxo4t3avf"
+ },
+ {
+  "name": "Ava AI",
+  "category": "E-commerce",
+  "domain": "avasales.ai",
+  "desc": "AI phone agent for Shopify stores: answers support calls 24/7 — order lookup, edits and refunds mid-call — and runs outbound abandoned-cart recovery calls, with recordings, transcripts and its own business number. Priced by call minutes.",
+  "link": "https://platform.shoffi.app/r/rl_RzyAfYun"
+ },
+ {
+  "name": "SupaEasy",
+  "category": "E-commerce",
+  "domain": "supaeasy.com",
+  "desc": "No-code Shopify Functions generator (by Nextools): build and migrate custom discount, checkout, payment, shipping and validation logic from the Shopify Admin, with a migrator for deprecated Scripts and an AI generator that writes functions from a plain-language brief.",
+  "link": "https://platform.shoffi.app/r/rl_OzQi1tCl"
+ },
+ {
+  "name": "Easy Advanced Translations",
+  "category": "E-commerce",
+  "domain": "northwest.dev",
+  "desc": "AI Shopify store translation (by Northwest): translate products, collections, theme text, metafields and even hard-coded and third-party-app text across languages, with a choice of engine (its own, Google, OpenAI or DeepSeek), image translation, protected terms and Shopify Markets support.",
+  "link": "https://platform.shoffi.app/r/rl_Hr9ZDxNE"
  }
 ]
