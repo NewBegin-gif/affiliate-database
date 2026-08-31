@@ -3109,5 +3109,29 @@
   "desc": "AI Shopify store translation (by Northwest): translate products, collections, theme text, metafields and even hard-coded and third-party-app text across languages, with a choice of engine (its own, Google, OpenAI or DeepSeek), image translation, protected terms and Shopify Markets support.",
   "link": "https://platform.shoffi.app/r/rl_Hr9ZDxNE",
   "platform": "shopify"
+ },
+ {
+  "name": "Optizen",
+  "category": "Growth & Revenue",
+  "domain": "optizenapp.com",
+  "desc": "Shopify app that puts video upsells and bundles on product, cart and post-purchase pages, using your own clips or AI-generated ones. Free plan covers one campaign and five conversions; Starter is $9.99/month and Pro $29.99/month, but the AI video generation is metered on top — 2 credits a month on Starter and 5 on Pro, then $2 or $1.50 per extra clip.",
+  "link": "https://platform.shoffi.app/r/rl_EDFZdxe0",
+  "platform": "shopify"
+ },
+ {
+  "name": "Post Purchase Upsell Hero",
+  "category": "Growth & Revenue",
+  "domain": "postpurchaseupsellhero.com",
+  "desc": "One-click post-purchase upsell and downsell offers for Shopify, with targeting rules, AI product recommendations, A/B testing and a revenue dashboard. There is no monthly fee: the Performance plan is $0 and charges 2.5% of the first $20,000 of upsell revenue it generates each month, with everything above that free — so the bill tops out at $500 and is nothing in a month it sells nothing.",
+  "link": "https://platform.shoffi.app/r/rl_Vj9IsFUe",
+  "platform": "shopify"
+ },
+ {
+  "name": "UpsellPlus",
+  "category": "Growth & Revenue",
+  "domain": "upsellplus.com",
+  "desc": "Upsells, cross-sells and free gifts across Shopify product pages, cart, checkout, post-purchase, customer accounts and POS, with AI recommendations and A/B testing in 23 storefront languages. Free plan runs one offer; Launch is $49/month, the Shopify Plus tier $119 and Scale $199 — each capped by how much upsell revenue it may generate ($500, $2,000 and $5,000 a month).",
+  "link": "https://platform.shoffi.app/r/rl_yd5jty7y",
+  "platform": "shopify"
  }
 ]
