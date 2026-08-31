@@ -48,14 +48,16 @@
   "category": "Growth & Revenue",
   "domain": "adwisely.com",
   "desc": "Automated retargeting and prospecting ads on Meta and Google for Shopify, WooCommerce and BigCommerce stores. Costs a $49/month minimum plus 10% of the ad spend it manages (capped at $3,250 a month), so work the effective rate out at your own spend.",
-  "link": "https://get.adwisely.com/lahunz19q93e"
+  "link": "https://get.adwisely.com/lahunz19q93e",
+  "platform": "shopify"
  },
  {
   "name": "AfterSell",
   "category": "Growth & Revenue",
   "domain": "aftersell.app",
   "desc": "Post-purchase upsell and cross-sell app for Shopify (by Rokt): one-click upsells, downsells and thank-you-page offers plus checkout customization to lift average order value — no extra ad spend.",
-  "link": "https://try.aftersell.app/vv4g49ide6z2"
+  "link": "https://try.aftersell.app/vv4g49ide6z2",
+  "platform": "shopify"
  },
  {
   "name": "AgencyAnalytics",
@@ -148,7 +150,8 @@
   "domain": "alttext.ai",
   "link": "https://alttext.ai/?red=aibuil",
   "category": "Marketing",
-  "desc": "Bulk AI alt-text generation for image-heavy sites: crawls your pages or plugs into your CMS (WordPress, Shopify, WooCommerce, Magento, Contentful, DatoCMS) and writes the alt attributes back automatically, in 130+ languages. Credit-metered — 25 free credits to try, then from $5/mo for 100 images."
+  "desc": "Bulk AI alt-text generation for image-heavy sites: crawls your pages or plugs into your CMS (WordPress, Shopify, WooCommerce, Magento, Contentful, DatoCMS) and writes the alt attributes back automatically, in 130+ languages. Credit-metered — 25 free credits to try, then from $5/mo for 100 images.",
+  "platform": "shopify"
  },
  {
   "name": "Alvys",
@@ -221,7 +224,8 @@
   "category": "E-commerce",
   "domain": "helloatlas.io",
   "link": "https://platform.shoffi.app/r/rl_GvKfZcQh",
-  "desc": "Shopify app that builds a full store or product page from a single product link — layout, copy and images generated automatically, plus bundle and cart upsells. $39/month covers 5 pages, $1,000 of bundle revenue and 250 orders; past that the meter tracks your revenue."
+  "desc": "Shopify app that builds a full store or product page from a single product link — layout, copy and images generated automatically, plus bundle and cart upsells. $39/month covers 5 pages, $1,000 of bundle revenue and 250 orders; past that the meter tracks your revenue.",
+  "platform": "shopify"
  },
  {
   "name": "Atria",
@@ -242,7 +246,8 @@
   "category": "Growth & Revenue",
   "domain": "attribuly.com",
   "link": "https://platform.shoffi.app/r/rl_eroQWgHx",
-  "desc": "Recovers abandoned carts Klaviyo misses — identifies visitors, syncs intent signals back into Klaviyo and lets an AI agent send a personalised recovery email. Free until $1,000 of recovered revenue, then $450 or $500 a month."
+  "desc": "Recovers abandoned carts Klaviyo misses — identifies visitors, syncs intent signals back into Klaviyo and lets an AI agent send a personalised recovery email. Free until $1,000 of recovered revenue, then $450 or $500 a month.",
+  "platform": "shopify"
  },
  {
   "name": "Audiorista",
@@ -263,14 +268,16 @@
   "category": "Marketing",
   "domain": "autowrite.blog",
   "link": "https://platform.shoffi.app/r/rl_XXVnQavZ",
-  "desc": "AI blog writer for Shopify with SEO scoring, scheduling and publishing. Free plan available. New to the App Store: zero reviews as of 18 Aug 2026."
+  "desc": "AI blog writer for Shopify with SEO scoring, scheduling and publishing. Free plan available. New to the App Store: zero reviews as of 18 Aug 2026.",
+  "platform": "shopify"
  },
  {
   "name": "Auware",
   "category": "Growth & Revenue",
   "domain": "auware.com",
   "desc": "AI-built, audience-specific Shopify pages: automatically generates a personalized page per buyer persona — not just landing pages but advertorials, listicles, comparison and product (PDP) pages — with targeted headlines, social proof and FAQs, plus per-segment analytics. Built to lift ad conversion for DTC brands. No code.",
-  "link": "https://get.auware.com/3bbijs3hb8rg"
+  "link": "https://get.auware.com/3bbijs3hb8rg",
+  "platform": "shopify"
  },
  {
   "name": "AWeber",
@@ -781,7 +788,8 @@
   "domain": "drip.com",
   "link": "https://try.drip.com/5jr8q83uwr56",
   "category": "Marketing",
-  "desc": "Ecommerce email and onsite marketing built around your store's order data — segments, abandoned-cart and welcome playbooks, pop-ups and A/B testing, with one-click links to Shopify, WooCommerce and BigCommerce. Priced purely on list size from $39/month for 2,500 people, 14-day trial without a card. Two things the headline price hides: chat support only starts at $99/month, and the promised unlimited sends turn into a hard cap of twelve emails per contact per month somewhere above 25,000 contacts (read 12 Aug 2026)."
+  "desc": "Ecommerce email and onsite marketing built around your store's order data — segments, abandoned-cart and welcome playbooks, pop-ups and A/B testing, with one-click links to Shopify, WooCommerce and BigCommerce. Priced purely on list size from $39/month for 2,500 people, 14-day trial without a card. Two things the headline price hides: chat support only starts at $99/month, and the promised unlimited sends turn into a hard cap of twelve emails per contact per month somewhere above 25,000 contacts (read 12 Aug 2026).",
+  "platform": "shopify"
  },
  {
   "name": "Dripify",
@@ -795,7 +803,8 @@
   "category": "Growth & Revenue",
   "domain": "dropgenius.com",
   "desc": "Generates a Shopify dropshipping store — products, branding and copy — as a starting template, not a finished business. Monthly runs $39 to $299, and annual billing drops Starter. Trustpilot sat near 1.6/5 at research time, with recurring complaints about charges after cancellation.",
-  "link": "https://dropgenius.partnerlinks.io/e38toiu5ul2g"
+  "link": "https://dropgenius.partnerlinks.io/e38toiu5ul2g",
+  "platform": "shopify"
  },
  {
   "name": "Dryground AI",
@@ -816,7 +825,8 @@
   "category": "Communication & Voice",
   "domain": "edesk.com",
   "desc": "E-commerce helpdesk: one unified inbox for Amazon, eBay, Shopify and email, with order data and an AI Agent that bills per resolved outcome. Free plan; paid from $39/agent/mo (annual).",
-  "link": "https://www.edesk.com/?red=aibuil"
+  "link": "https://www.edesk.com/?red=aibuil",
+  "platform": "shopify"
  },
  {
   "name": "ElevateForward",
@@ -1040,14 +1050,16 @@
   "category": "Growth & Revenue",
   "domain": "gelato.com",
   "desc": "Global print-on-demand platform: design, produce and ship custom products (apparel, wall art, mugs, photo books) locally in 30+ countries with no inventory — integrates with Shopify, Etsy and WooCommerce.",
-  "link": "https://try.gelato.com/c9ioyi0ycvpz"
+  "link": "https://try.gelato.com/c9ioyi0ycvpz",
+  "platform": "shopify"
  },
  {
   "name": "GeoStock",
   "category": "E-commerce",
   "domain": "jtcinteractive.com",
   "link": "https://platform.shoffi.app/r/rl_Ds2oXD0d",
-  "desc": "Shows per-location stock on the product page plus a store-locator map, so shoppers can see which branch has the item. From $9.99 a month, Plus $29.99. It displays inventory rather than managing it."
+  "desc": "Shows per-location stock on the product page plus a store-locator map, so shoppers can see which branch has the item. From $9.99 a month, Plus $29.99. It displays inventory rather than managing it.",
+  "platform": "shopify"
  },
  {
   "name": "Geotargetly",
@@ -1151,7 +1163,8 @@
   "category": "Customer Support",
   "domain": "helpcenterapp.com",
   "link": "https://platform.shoffi.app/r/rl_WyzIuyMD",
-  "desc": "Shopify helpdesk with live chat and an AI FAQ builder: email, chat and Messenger in one ticket queue, plus SEO-friendly FAQ pages. Free to install; paid from $5.99 to $49.99 a month."
+  "desc": "Shopify helpdesk with live chat and an AI FAQ builder: email, chat and Messenger in one ticket queue, plus SEO-friendly FAQ pages. Free to install; paid from $5.99 to $49.99 a month.",
+  "platform": "shopify"
  },
  {
   "name": "HiBob",
@@ -1253,7 +1266,7 @@
   "name": "InVideo",
   "category": "Operations & Workflow",
   "domain": "invideo.io",
-  "desc": "Turns a prompt or script into a first-draft video with AI voiceover, templates and stock footage. AI minutes are metered and do not roll over: Plus is around $28/month for roughly 50 minutes, Max $50–60 for 200. The free tier is watermarked, so it serves as evaluation only.",
+  "desc": "Turns a prompt or script into a first-draft video with AI voiceover, templates and stock footage. Plans are monthly credit allowances that do not roll over: Plus $20 a month, Max $100, Generative $200, Elite $1,000, roughly 15% cheaper paid yearly. The pricing page no longer lists a free tier, so Plus is the cheapest way in.",
   "link": "https://invideo.sjv.io/E00nbn?u=https%3A%2F%2Finvideo.io%2Fmake%2Fai-video-generator%2F"
  },
  {
@@ -1578,7 +1591,8 @@
   "category": "Growth & Revenue",
   "domain": "notify-me.io",
   "desc": "Shopify app to recover lost sales on out-of-stock products: back-in-stock notifications, pre-orders and wishlists that keep customers buying instead of bouncing.",
-  "link": "https://affiliate.notify-me.io/rg8yn9oel32b"
+  "link": "https://affiliate.notify-me.io/rg8yn9oel32b",
+  "platform": "shopify"
  },
  {
   "name": "Nouswise",
@@ -1715,7 +1729,8 @@
   "category": "Growth & Revenue",
   "domain": "pixelunion.net",
   "desc": "Premium Shopify themes bought once rather than by subscription: Pixel Union themes around $300–340 and Out of the Sandbox themes roughly $350–495. A theme is a starting point — the conversion lift comes from how you configure and populate it, not from the purchase.",
-  "link": "https://partners.pixelunion.net/iv57khdrl4uh"
+  "link": "https://partners.pixelunion.net/iv57khdrl4uh",
+  "platform": "shopify"
  },
  {
   "name": "Planday",
@@ -1745,7 +1760,8 @@
   "desc": "SMS marketing for Shopify stores: campaigns, automations and opt-in tools.",
   "domain": "postscript.io",
   "link": "https://postscript.partnerlinks.io/wle2bu9y77jv",
-  "name": "Postscript"
+  "name": "Postscript",
+  "platform": "shopify"
  },
  {
   "name": "Prezi",
@@ -1798,7 +1814,8 @@
   "domain": "pushowl.com",
   "desc": "Shopify web-push and omnichannel marketing, now part of Brevo. One-click push lets stores re-engage shoppers who never leave an email — recovering abandoned carts and browsing sessions — then layer in email, SMS and WhatsApp on Brevo's deliverability stack. Usage-based pricing: you pay for what you send, not list size.",
   "link": "https://pushowl.partnerlinks.io/q6pgekp20d5r",
-  "replaces": null
+  "replaces": null,
+  "platform": "shopify"
  },
  {
   "name": "Pylon",
@@ -1812,7 +1829,8 @@
   "domain": "pythago.io",
   "link": "https://pythago.io/?red=aibuil",
   "category": "E-commerce",
-  "desc": "AI analytics and ROI tracking for dropshippers — real-time ROAS optimization, product research and competitor tools across one or more Shopify stores."
+  "desc": "AI analytics and ROI tracking for dropshippers — real-time ROAS optimization, product research and competitor tools across one or more Shopify stores.",
+  "platform": "shopify"
  },
  {
   "name": "Qoyod",
@@ -1998,14 +2016,16 @@
   "category": "Security",
   "domain": "securification.ai",
   "link": "https://platform.shoffi.app/r/rl_7qblcw5i",
-  "desc": "Country blocker and fraud filter for Shopify: blocks countries, IP ranges, bots, VPNs and risky emails at checkout, and holds suspicious orders automatically. Free plan; paid $5.99 to $49 a month."
+  "desc": "Country blocker and fraud filter for Shopify: blocks countries, IP ranges, bots, VPNs and risky emails at checkout, and holds suspicious orders automatically. Free plan; paid $5.99 to $49 a month.",
+  "platform": "shopify"
  },
  {
   "name": "Seel",
   "domain": "seel.com",
   "link": "https://seelinc.partnerlinks.io/72rbemm1cqhd",
   "category": "E-commerce",
-  "desc": "Shopper-paid returns and shipping protection for Shopify, BigCommerce and Adobe Commerce. Customers add Worry-Free Purchase at checkout and Seel pays the refund instead of you — free for the merchant."
+  "desc": "Shopper-paid returns and shipping protection for Shopify, BigCommerce and Adobe Commerce. Customers add Worry-Free Purchase at checkout and Seel pays the refund instead of you — free for the merchant.",
+  "platform": "shopify"
  },
  {
   "name": "Seller Investigators",
@@ -2211,7 +2231,8 @@
   "category": "Growth & Revenue",
   "domain": "stamped.io",
   "desc": "Reviews, ratings and loyalty platform for e-commerce: collect product reviews and user-generated content, run rewards and loyalty programs, and show social proof to lift conversions on Shopify and other stores.",
-  "link": "https://get.stamped.io/sdjq70urrlg6"
+  "link": "https://get.stamped.io/sdjq70urrlg6",
+  "platform": "shopify"
  },
  {
   "name": "Stampezee",
@@ -2253,7 +2274,8 @@
   "category": "Growth & Revenue",
   "domain": "superfiliate.com",
   "desc": "Creator-led growth for D2C brands: run influencer, affiliate and referral programs in one platform across Shopify, Meta and TikTok Shop — discovery, automation, gifting and revenue tracking.",
-  "link": "https://ps.superfiliate.com/z350tf5gg5u4"
+  "link": "https://ps.superfiliate.com/z350tf5gg5u4",
+  "platform": "shopify"
  },
  {
   "name": "SurveyMonkey",
@@ -2299,7 +2321,8 @@
   "domain": "tapstitch.com",
   "desc": "Fashion-first print-on-demand for brand-builders: premium heavyweight blanks (streetwear tees, oversized hoodies), bigger print areas and made-to-order apparel with no inventory — integrates with Shopify.",
   "link": "https://affiliate.tapstitch.com/45ovsuzucqqg",
-  "replaces": "Printify"
+  "replaces": "Printify",
+  "platform": "shopify"
  },
  {
   "name": "Tax1099",
@@ -2733,91 +2756,104 @@
   "category": "E-commerce",
   "domain": "zendrop.com",
   "desc": "AI dropshipping and print-on-demand for Shopify: browse 1M+ products from US and global suppliers, link them to your store and let fulfilment and tracking run automatically, with custom branding, POD and 3PL as you scale. Free to install, but linking products needs a paid tier — $29, $49 or $79 a month by product count, with per-order product and shipping cost on top.",
-  "link": "https://platform.shoffi.app/r/rl_hnqujHNg"
+  "link": "https://platform.shoffi.app/r/rl_hnqujHNg",
+  "platform": "shopify"
  },
  {
   "name": "Dripshipper",
   "category": "E-commerce",
   "domain": "dripshipper.io",
   "desc": "Private-label coffee and tea dropshipping for Shopify: they roast, bag and ship from their own US facilities within 3-5 business days, with your brand on the packaging. Starter $30 a month or $240 a year, Professional $99, Elite $197, all with a 14-day trial and per-order product and shipping cost on top.",
-  "link": "https://platform.shoffi.app/r/rl_82dCreuw"
+  "link": "https://platform.shoffi.app/r/rl_82dCreuw",
+  "platform": "shopify"
  },
  {
   "name": "Modelize",
   "category": "Design & Content",
   "domain": "modelize.studio",
   "desc": "Shopify app that generates on-model, lifestyle, studio and flat-lay product photos in bulk from your existing catalogue images, using Google's Gemini image models. Free tier is 3 one-off images; Starter $19 a month buys 100 images, Pro $49 buys 250 at up to 4K, Enterprise $99 buys 500 with extras at $0.20 each.",
-  "link": "https://platform.shoffi.app/r/rl_iGThInDm"
+  "link": "https://platform.shoffi.app/r/rl_iGThInDm",
+  "platform": "shopify"
  },
  {
   "name": "Cloze",
   "category": "Customer Support",
   "domain": "cloze.bot",
   "desc": "AI shopping assistant for Shopify: a chat widget wired to your live catalogue, inventory and knowledge base that answers product questions, compares items, tracks orders and hands off to a human. Free for 25 conversations a month; paid runs $49, $99 or $199 a month on the App Store, with extra conversations at $0.10. New listing: no reviews yet as of 19 Aug 2026.",
-  "link": "https://platform.shoffi.app/r/rl_A1yoHyzX"
+  "link": "https://platform.shoffi.app/r/rl_A1yoHyzX",
+  "platform": "shopify"
  },
  {
   "name": "StoreSEO",
   "category": "SEO & Marketing",
   "domain": "storeseo.com",
   "desc": "SEO suite for Shopify: bulk meta titles and descriptions, image compression and alt text, JSON-LD schema, sitemap submission, instant indexing requests and Search Console reporting, with AI credits for generated copy. Free forever for 25 products; paid runs $14.99, $39.99 or $249.99 a month by product count.",
-  "link": "https://platform.shoffi.app/r/rl_NhfsK9HT"
+  "link": "https://platform.shoffi.app/r/rl_NhfsK9HT",
+  "platform": "shopify"
  },
  {
   "name": "Tapita AI SEO Blog Builder",
   "category": "SEO & Marketing",
   "domain": "tapita.io",
   "desc": "AI blog builder for Shopify: generates SEO-oriented posts with titles, images and keyword suggestions, embeds your products, and schedules bulk publishing from a drag-and-drop editor. Free with 50 one-off credits; Pro is $9.99 a month on Shopify Basic but rises with your Shopify plan to $14.99, $39.99 or $69.99.",
-  "link": "https://platform.shoffi.app/r/rl_YezE0WYL"
+  "link": "https://platform.shoffi.app/r/rl_YezE0WYL",
+  "platform": "shopify"
  },
  {
   "name": "Section Library",
   "category": "Design & Content",
   "domain": "sectionlibrary.com",
   "desc": "Shopify app that adds 200+ ready-made theme sections plus AI-generated custom ones (Gemini 3.1 Pro), all inside the native theme editor so layouts change without a developer. Free plan gives 8 credits a month; paid runs $9, $19 or $29 a month for 25, 55 or 90 credits. Live since October 2023 with a single App Store review.",
-  "link": "https://platform.shoffi.app/r/rl_O72vMWMm"
+  "link": "https://platform.shoffi.app/r/rl_O72vMWMm",
+  "platform": "shopify"
  },
  {
   "name": "Disputifier",
   "category": "Financial Operations",
   "domain": "disputifier.com",
   "desc": "Chargeback automation for Shopify: submits dispute evidence for you, buys chargeback alerts that refund incoming disputes before they land, and screens orders for fraud and late shipments. Free to install; recovery costs 20% of every won chargeback (capped at $250 a win), alerts run $17-$27.50 each and the two prevention add-ons $0.05 an order.",
-  "link": "https://platform.shoffi.app/r/rl_ON7TzQLR"
+  "link": "https://platform.shoffi.app/r/rl_ON7TzQLR",
+  "platform": "shopify"
  },
  {
   "name": "SEOmatic",
   "category": "SEO & Marketing",
   "domain": "seomatic.io",
   "desc": "SEO suite for Shopify from Aheadworks: unlimited image compression with alt text, AI-generated meta titles and descriptions, SEO audit, schema markup and both XML and HTML sitemaps. Free up to 10 products; the paid ladder is priced purely by catalogue size — $15, $25 or $40 a month for 500, 2,000 or 5,000 products, with a 14-day trial. Live since 2015, rated 4.4 over 114 App Store reviews.",
-  "link": "https://platform.shoffi.app/r/rl_CVTgz8Zx"
+  "link": "https://platform.shoffi.app/r/rl_CVTgz8Zx",
+  "platform": "shopify"
  },
  {
   "name": "NeuroAds",
   "category": "Customer Support",
   "domain": "neuroadsinc.com",
   "desc": "AI chat widget for Shopify trained on your catalogue, orders and policy pages that replies in the shopper's own language, with rich product cards, discount codes, order tracking and add-to-cart inside the chat. Free for 200 conversations a month; paid runs $19, $49 or $119 a month for 800, 3,000 or unlimited conversations. Launched June 2026 with six App Store reviews.",
-  "link": "https://platform.shoffi.app/r/rl_l5Drunq1"
+  "link": "https://platform.shoffi.app/r/rl_l5Drunq1",
+  "platform": "shopify"
  },
  {
   "name": "AskNest",
   "category": "Customer Support",
   "domain": "ecommercestorez.us",
   "desc": "Multilingual FAQ bot for the Shopify storefront that answers from your own FAQs, policy pages and product catalogue in seven languages, with product recommendations and best sellers. Free for 50 AI replies a month; paid runs $4.99, $9.99 or $19.99 a month for 500, 1,500 or 5,000 replies. Launched May 2026 with a single App Store review.",
-  "link": "https://platform.shoffi.app/r/rl_CKIYlURe"
+  "link": "https://platform.shoffi.app/r/rl_CKIYlURe",
+  "platform": "shopify"
  },
  {
   "name": "ChatGPT AI Product Description",
   "category": "Design & Content",
   "domain": "profitoniumapps.com",
   "desc": "Bulk copy generator for Shopify from Profitonium: product descriptions, titles, meta tags and image alt text for thousands of products at once, in 30+ languages, with custom instruction templates and automatic descriptions on import. Free tier gives 100 credits a month; paid runs $19, $49 or $249 a month for 2,000, 11,000 or 110,000 credits. Live since 2021, rated 4.9 over 466 App Store reviews.",
-  "link": "https://platform.shoffi.app/r/rl_j2egI436"
+  "link": "https://platform.shoffi.app/r/rl_j2egI436",
+  "platform": "shopify"
  },
  {
   "name": "AgentNest",
   "category": "SEO & Marketing",
   "domain": "ecommercestorez.us",
   "desc": "Scans your Shopify catalogue for the product-data gaps AI shopping surfaces trip over — status, category, description, image alt text — and applies the eligible ones in a click. Scanning, the readiness score and the full issue report are free and unlimited; you pay only for applied fixes, at $19, $49 or $99 a month for 100, 1,000 or 5,000 a month. Launched 6 August 2026 with no reviews yet.",
-  "link": "https://platform.shoffi.app/r/rl_uBscHcSN"
+  "link": "https://platform.shoffi.app/r/rl_uBscHcSN",
+  "platform": "shopify"
  },
  {
   "name": "Castmagic",
@@ -2831,126 +2867,144 @@
   "category": "SEO & Marketing",
   "domain": "tapita.io",
   "desc": "All-in-one Shopify SEO app: site audits with LLMs.txt for AI search engines, bulk and AI-written metadata, image alt text and compression, JSON-LD schema, broken-link auto-redirects and one-click speed fixes. Free plan available; Basic is $9.99 a month and Pro $39.99 on Shopify Basic, plus $5, $30 or $60 more a month on Grow, Advanced and Plus.",
-  "link": "https://platform.shoffi.app/r/rl_CHreIi9B"
+  "link": "https://platform.shoffi.app/r/rl_CHreIi9B",
+  "platform": "shopify"
  },
  {
   "name": "Selixer",
   "category": "E-commerce",
   "domain": "selixer.com",
   "desc": "Shopify profit dashboard that nets ad spend, COGS, returns and fees out of revenue and reports what you keep per product, campaign and customer, built for fashion and apparel brands. Essance $149 a month, Catalyst $299 and Aether $399, each with a 14-day trial; the profit waterfall and campaign ROAS start at $299.",
-  "link": "https://platform.shoffi.app/r/rl_KJx7vv0I"
+  "link": "https://platform.shoffi.app/r/rl_KJx7vv0I",
+  "platform": "shopify"
  },
  {
   "name": "EcomXray",
   "category": "E-commerce",
   "domain": "ecomxray.io",
   "desc": "Shows cost price, gross margin, current stock and net units sold over 30, 90 and 365 days for every Shopify product, with restock advice from real sales velocity. The analytics are free; Pro at $29 a month adds in-place product editing, SEO fields, an activity log and a Chrome extension.",
-  "link": "https://platform.shoffi.app/r/rl_B7QNSCnr"
+  "link": "https://platform.shoffi.app/r/rl_B7QNSCnr",
+  "platform": "shopify"
  },
  {
   "name": "Intelis",
   "category": "E-commerce",
   "domain": "intelis.ai",
   "desc": "Monitors competitor prices on Google Shopping and direct competitor sites and reprices your Shopify catalogue automatically with AI matching rules. Priced by tracked products or variants: $49 a month for 100, $179 for 1,000, $249 for 2,000 and $399 for 5,000, each with a 14-day trial.",
-  "link": "https://platform.shoffi.app/r/rl_erepc6ss"
+  "link": "https://platform.shoffi.app/r/rl_erepc6ss",
+  "platform": "shopify"
  },
  {
   "name": "StoreFAQ",
   "category": "Customer Support",
   "domain": "storefaq.io",
   "desc": "Builds SEO-friendly FAQ pages and product FAQ accordions with JSON-LD schema on Shopify, plus an AI chatbot, instant answers and live chat. Free plan covers 100 FAQ page views; Professional $7.99 a month, Growth $14.99 and Enterprise $49.99, all metered on page views and AI conversations.",
-  "link": "https://platform.shoffi.app/r/rl_5FnnB8qq"
+  "link": "https://platform.shoffi.app/r/rl_5FnnB8qq",
+  "platform": "shopify"
  },
  {
   "name": "ProtectMyOrder",
   "category": "E-commerce",
   "domain": "protectmyorder.com",
   "desc": "Shopify checkout upsell for premium services: package protection against lost and stolen parcels, carbon-neutral shipping and free returns, sold on the cart page, in checkout or through a custom widget, with fixed, dynamic or percentage pricing and an A/B test against half your traffic. Free to install; the App Store plan takes 19.99% of delivery protection revenue with a $20-a-month minimum and leaves the claims with the merchant, who keeps the other 80%. On the vendor's own pricing page a 44.99% tier puts their agents on those claims, and a further 30% hands them the liability for refunds and replacements.",
-  "link": "https://platform.shoffi.app/r/rl_3GZwq1Fp"
+  "link": "https://platform.shoffi.app/r/rl_3GZwq1Fp",
+  "platform": "shopify"
  },
  {
   "name": "BackupMaster",
   "category": "Operations & Workflow",
   "domain": "backupmaster.io",
   "desc": "Automatic daily backups for Shopify: products, collections, themes, blogs, pages, files, metafields, metaobjects, translations, customers, orders and inventory, with 365-day retention and one-click restore; Pro adds downloadable copies, Google Drive sync and store duplication for staging. The free tier is for Shopify Partner dev stores only; live stores run $19, $39 or $79 a month for 300, 600 or 1,500 orders, 10% off annually.",
-  "link": "https://platform.shoffi.app/r/rl_lOT5iWTk"
+  "link": "https://platform.shoffi.app/r/rl_lOT5iWTk",
+  "platform": "shopify"
  },
  {
   "name": "Blocky",
   "category": "Security",
   "domain": "effectify.io",
   "desc": "Shopify fraud filter that blocks visitors and orders by country, IP (v4 and v6), email, name, address and phone, with an AI bot blocker for TOR, proxy and VPN traffic that gets past reCAPTCHA, country redirects, a right-click blocker and visitor analytics. The free tier is for development stores only; live stores run $9.99 for country blocking, $16.99 with IP blocking or $19.99 for the identity and bot filters, 30% off annually. Not sold to Shopify Plus stores.",
-  "link": "https://platform.shoffi.app/r/rl_I3K3306i"
+  "link": "https://platform.shoffi.app/r/rl_I3K3306i",
+  "platform": "shopify"
  },
  {
   "name": "Dondy",
   "category": "Marketing",
   "domain": "dondy.net",
   "desc": "WhatsApp marketing and support for Shopify on the official WhatsApp Business API: abandoned-cart recovery, campaigns to Shopify segments, automated order messages, a shared inbox and an AI chatbot for sales and support. Free for the chat button; $6.99 a month for manual messages, $79.99 for automation and campaigns, $159.99 with the AI chatbot, plus Meta's own per-conversation charges from $0.0126.",
-  "link": "https://platform.shoffi.app/r/rl_crZ3TcbF"
+  "link": "https://platform.shoffi.app/r/rl_crZ3TcbF",
+  "platform": "shopify"
  },
  {
   "name": "Essential Loyalty",
   "domain": "essential-apps.com",
   "category": "Growth & Revenue",
   "desc": "Shopify loyalty and rewards app metered on loyalty-influenced orders rather than total orders, with VIP tiers and referrals on the free plan.",
-  "link": "https://platform.shoffi.app/r/rl_67Q8o64N"
+  "link": "https://platform.shoffi.app/r/rl_67Q8o64N",
+  "platform": "shopify"
  },
  {
   "name": "TiXel",
   "domain": "effectify.io",
   "category": "Marketing",
   "desc": "Shopify app for Meta and TikTok pixels, with unlimited pixels, product-level scoping and server-side Events API tracking on one flat plan.",
-  "link": "https://platform.shoffi.app/r/rl_Iy5GxUnu"
+  "link": "https://platform.shoffi.app/r/rl_Iy5GxUnu",
+  "platform": "shopify"
  },
  {
   "name": "Meeri",
   "domain": "meeritech.com",
   "category": "Marketing",
   "desc": "Shopify app that recovers abandoned carts with AI-written web push notifications instead of email or SMS — no address or phone needed to subscribe, and no commission on recovered revenue. Free for 300 notifications a month; Pro is $4.99.",
-  "link": "https://platform.shoffi.app/r/rl_vSqzYDCx"
+  "link": "https://platform.shoffi.app/r/rl_vSqzYDCx",
+  "platform": "shopify"
  },
  {
   "name": "Storista",
   "domain": "storista.io",
   "category": "Marketing",
   "desc": "Shopify app that turns TikTok, Reels and UGC clips into shoppable video widgets — carousels, stories, grids and spotlights — with auto-sync from TikTok and Instagram. Free for 10 videos, $15 for 50, and AI product tagging from $49.",
-  "link": "https://platform.shoffi.app/r/rl_Koyaq7Kj"
+  "link": "https://platform.shoffi.app/r/rl_Koyaq7Kj",
+  "platform": "shopify"
  },
  {
   "name": "MigrationPro",
   "domain": "migrationpro.io",
   "category": "Operations & Workflow",
   "desc": "Shopify app that imports products, customers, orders, collections, URLs and 301 redirects from WooCommerce, Wix, Magento and 30-odd other platforms. One-time payment rather than a subscription, from $29 self-service or $300 done-for-you, after a free ten-record demo.",
-  "link": "https://platform.shoffi.app/r/rl_350YjLe6"
+  "link": "https://platform.shoffi.app/r/rl_350YjLe6",
+  "platform": "shopify"
  },
  {
   "name": "Koongo",
   "domain": "koongo.com",
   "category": "E-commerce",
   "desc": "Shopify app that syncs product feeds, stock and orders across Amazon, eBay, Bol, Zalando, Allegro and 500-plus channels from one dashboard. Free tier for 100 items; paid plans from $39 a month, separated by refresh frequency, with surcharges beyond the included limits.",
-  "link": "https://platform.shoffi.app/r/rl_KDJFdTWa"
+  "link": "https://platform.shoffi.app/r/rl_KDJFdTWa",
+  "platform": "shopify"
  },
  {
   "name": "Way",
   "domain": "effectify.io",
   "category": "E-commerce",
   "desc": "Shopify store locator on Google Maps with no API key needed, priced by location count rather than by feature.",
-  "link": "https://platform.shoffi.app/r/rl_h7orAJ1n"
+  "link": "https://platform.shoffi.app/r/rl_h7orAJ1n",
+  "platform": "shopify"
  },
  {
   "name": "Shipdock",
   "domain": "happyapps.cz",
   "category": "E-commerce",
   "desc": "Shopify pickup points, multi-carrier label printing and cash-on-delivery tracking, strongest on the Central European carrier networks.",
-  "link": "https://platform.shoffi.app/r/rl_GhvBej7p"
+  "link": "https://platform.shoffi.app/r/rl_GhvBej7p",
+  "platform": "shopify"
  },
  {
   "name": "Scarcity.AI",
   "domain": "effectify.io",
   "category": "E-commerce",
   "desc": "Three Shopify urgency apps — low stock counter, countdown timer and live visitors counter — that read real data but let you choose which true number the shopper sees.",
-  "link": "https://platform.shoffi.app/r/rl_ylAWuNjW"
+  "link": "https://platform.shoffi.app/r/rl_ylAWuNjW",
+  "platform": "shopify"
  },
  {
   "name": "Tidio",
@@ -2964,14 +3018,16 @@
   "category": "Growth & Revenue",
   "domain": "fastbundle.co",
   "desc": "Shopify app that covers every bundle format from one place — fixed bundles, mix-and-match, build-your-own, BOGO, volume breaks and AI frequently-bought-together — on product pages, in the cart and in POS. Metered on the sales your bundles generate rather than on catalogue size: free under $500 a month, then $19, $49 and $139, with $299 for uncapped bundle revenue. Shopify pulled the app after a July 2026 security incident and relisted it on 30 July.",
-  "link": "https://fastbundle.partnerlinks.io/9mnlvh4bs4me"
+  "link": "https://fastbundle.partnerlinks.io/9mnlvh4bs4me",
+  "platform": "shopify"
  },
  {
   "name": "TnC",
   "category": "E-commerce",
   "domain": "effectify.io",
   "desc": "Shopify app that puts a mandatory “I agree to the terms” checkbox on the cart and on the Buy It Now, PayPal and Apple Pay express buttons, logs the consent timestamp against the order, and can show it only for chosen products or countries for GDPR and age gates. From $7.99 a month, with the consent timestamp starting at $12.99; the checkbox inside Shopify's own checkout page needs Shopify Plus and a $19.99 tier the App Store listing does not show.",
-  "link": "https://platform.shoffi.app/r/rl_1Hn8jwo7"
+  "link": "https://platform.shoffi.app/r/rl_1Hn8jwo7",
+  "platform": "shopify"
  },
  {
   "name": "TheTop",
@@ -2985,7 +3041,8 @@
   "category": "E-commerce",
   "domain": "effectify.io",
   "desc": "Free Shopify app from Effectify that adds a customizable floating back-to-top button and, optionally, infinite scroll on collection pages, with no code and no paid tier. The button is a safe convenience; the infinite scroll replaces the paginated collection URLs crawlers use, so it is a merchandising decision rather than a styling one.",
-  "link": "https://platform.shoffi.app/r/rl_nRCzw16P"
+  "link": "https://platform.shoffi.app/r/rl_nRCzw16P",
+  "platform": "shopify"
  },
  {
   "name": "Datarails",
@@ -3034,20 +3091,23 @@
   "category": "E-commerce",
   "domain": "avasales.ai",
   "desc": "AI phone agent for Shopify stores: answers support calls 24/7 — order lookup, edits and refunds mid-call — and runs outbound abandoned-cart recovery calls, with recordings, transcripts and its own business number. Priced by call minutes.",
-  "link": "https://platform.shoffi.app/r/rl_RzyAfYun"
+  "link": "https://platform.shoffi.app/r/rl_RzyAfYun",
+  "platform": "shopify"
  },
  {
   "name": "SupaEasy",
   "category": "E-commerce",
   "domain": "supaeasy.com",
   "desc": "No-code Shopify Functions generator (by Nextools): build and migrate custom discount, checkout, payment, shipping and validation logic from the Shopify Admin, with a migrator for deprecated Scripts and an AI generator that writes functions from a plain-language brief.",
-  "link": "https://platform.shoffi.app/r/rl_OzQi1tCl"
+  "link": "https://platform.shoffi.app/r/rl_OzQi1tCl",
+  "platform": "shopify"
  },
  {
   "name": "Easy Advanced Translations",
   "category": "E-commerce",
   "domain": "northwest.dev",
   "desc": "AI Shopify store translation (by Northwest): translate products, collections, theme text, metafields and even hard-coded and third-party-app text across languages, with a choice of engine (its own, Google, OpenAI or DeepSeek), image translation, protected terms and Shopify Markets support.",
-  "link": "https://platform.shoffi.app/r/rl_Hr9ZDxNE"
+  "link": "https://platform.shoffi.app/r/rl_Hr9ZDxNE",
+  "platform": "shopify"
  }
 ]
