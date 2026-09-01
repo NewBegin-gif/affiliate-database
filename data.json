@@ -3147,5 +3147,12 @@
   "domain": "bitscale.ai",
   "desc": "GTM data layer that sits on top of your CRM: enrich records through waterfalls across 100+ B2B sources, track buying signals and run AI agents against the result. Free tier at 200 credits; paid from $349 a month for 15,000.",
   "link": "https://join.bitscale.ai/wg8nzhxu9cfm"
+ },
+ {
+  "name": "Kiwi Sizing",
+  "category": "E-commerce",
+  "domain": "kiwisizing.com",
+  "desc": "Shopify size charts and AI fit recommendations, built to cut returns. Free plan carries a Kiwi watermark; Premium is $7.99 a month and the only paid tier without order-volume charges. From Staytuned.",
+  "link": "https://apps.shopify.com/kiwi-sizing"
  }
 ]
