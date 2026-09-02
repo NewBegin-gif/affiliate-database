@@ -1677,7 +1677,7 @@
   "name": "Passpack",
   "category": "IT & Productivity",
   "domain": "passpack.com",
-  "desc": "Team password manager for small businesses and MSPs. Store, share and organize credentials with zero-knowledge encryption, role-based access, MFA, device registration, full audit trails and shared team vaults — at a low per-user price.",
+  "desc": "Team password manager for small businesses and MSPs. Store, share and organize credentials with zero-knowledge encryption, role-based access, MFA, device registration, full audit trails and shared team vaults — at a low per-user price. An iOS app arrived in August 2026; Android is announced but not yet out.",
   "link": "https://try.passpack.com/1ueahem79erx",
   "replaces": "1Password"
  },
