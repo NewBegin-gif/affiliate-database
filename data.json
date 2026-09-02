@@ -3168,5 +3168,29 @@
   "domain": "zenpire.tech",
   "desc": "Shopify pre-orders with badges, partial payments, mixed-cart warnings and back-in-stock emails. Priced by which Shopify plan you are on rather than by features: $19.95 on Basic up to $99.95 on Plus.",
   "link": "https://try.zenpire.tech/t9s08487ewps-0c3lys"
+ },
+ {
+  "name": "Wiz Checkout Upsell",
+  "category": "Growth & Revenue",
+  "domain": "skailama.com",
+  "desc": "Shopify checkout and post-purchase app from Skai Lama: upsells, volume discounts, subscription upgrades and free gifts, plus checkout banners, trust badges, input fields and gift messages, with thank-you and order status page offers behind them. Essential is $49/month but post-purchase only; the checkout-stage editing the app is named for starts on the $99 Plus Growth plan, and $199 Checkout concierge adds A/B testing across all extensions.",
+  "link": "https://platform.shoffi.app/r/rl_eU2hsg8h",
+  "platform": "shopify"
+ },
+ {
+  "name": "Pumper Bundles",
+  "category": "Growth & Revenue",
+  "domain": "pumper.run",
+  "desc": "Shopify bundle app by Profit Pumper: unlimited product bundles, quantity breaks, volume and cart discounts, BOGO and free-gift offers, with cart drawer and page builder integrations. The plans are a revenue ceiling rather than a feature ladder — all four carry identical features. Free covers up to $300 of attributed extra revenue, Starter $9.99/month up to $1,000, Growth $29.99 up to $5,000 and Unlimited $49.99 with no cap.",
+  "link": "https://platform.shoffi.app/r/rl_Q3sl1CJT",
+  "platform": "shopify"
+ },
+ {
+  "name": "Upsell.com",
+  "category": "Growth & Revenue",
+  "domain": "upsell.com",
+  "desc": "Shopify upsell app, formerly ReConvert: AI-driven cart, checkout and post-purchase upsell and cross-sell funnels, frequently-bought-together and product page recommendations, A/B testing and analytics with segmentation. The free plan is development stores only, and the three published tiers — $4.99, $9.99 and $19.99 a month — stop at 200 orders or $200 of upsell revenue; above that the listing only says charges rise.",
+  "link": "https://platform.shoffi.app/r/rl_PjwDj0Cq",
+  "platform": "shopify"
  }
 ]
