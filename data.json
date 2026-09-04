@@ -3215,5 +3215,12 @@
   "link": "https://platform.shoffi.app/r/rl_t5CpUycy",
   "desc": "Shopify bundle builder for build-your-own-box, gift-box, mix-and-match, fixed-price, volume and subscription bundles, with bundle inventory synced across Shopify and 3PLs and POS support. Priced on bundle sales rather than orders: free up to $500 a month, Essential $29 up to $3,000, Growth $49 up to $5,000, Scale $99 up to $10,000, with 14-16% off on annual billing. 4.9 stars over 1,216 reviews as of 4 Sep 2026.",
   "platform": "shopify"
+ },
+ {
+  "name": "Claap",
+  "category": "Sales & CRM",
+  "domain": "claap.io",
+  "desc": "AI sales intelligence that records calls without putting a bot in the meeting, then turns them into CRM fields, follow-up emails, deal scoring and coaching. Basic is free; Pro is €24 per license a month on annual billing (€30 monthly); Business, which holds the CRM and coaching features, is €48 (€60 monthly) and quote-led.",
+  "link": "https://get.claap.io/43c2npncjv1f"
  }
 ]
