@@ -3222,5 +3222,12 @@
   "domain": "claap.io",
   "desc": "AI sales intelligence that records calls without putting a bot in the meeting, then turns them into CRM fields, follow-up emails, deal scoring and coaching. Basic is free; Pro is €24 per license a month on annual billing (€30 monthly); Business, which holds the CRM and coaching features, is €48 (€60 monthly) and quote-led.",
   "link": "https://get.claap.io/43c2npncjv1f"
+ },
+ {
+  "name": "Mycroft",
+  "category": "Security",
+  "domain": "mycroft.io",
+  "link": "https://try.mycroft.io/tlfhcxheacia",
+  "desc": "Security and compliance platform plus managed service for companies without a security department: a GRC platform mapped to CMMC, FedRAMP, SOC 2, ISO 27001, HIPAA and GDPR, bundled with cloud and application security, device management, third-party risk and awareness training, and backed by a Risk Operations Center staffed by its own experts around the clock. 150+ native integrations across AWS, Azure, GCP and the major code hosts. Three packages — Platform, Scale, Managed — and none of them is publicly priced. Mycroft Technologies Inc.; not the Mycroft AI voice assistant."
  }
 ]
