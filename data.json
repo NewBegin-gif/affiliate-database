@@ -3199,5 +3199,21 @@
   "domain": "modge.com",
   "desc": "Desktop time tracking and workforce analytics for remote and hybrid teams: automatic hours, app and URL classification, shift adherence, leave, payroll-ready timesheets and Stripe invoicing. Basic $4 per seat per month on annual billing ($5 monthly), Pro $5.50, Premium $7; screenshots are optional and off by default. 14-day trial, no card.",
   "link": "https://get.modge.com/ryba396aujtj"
+ },
+ {
+  "name": "Smarty Discounts",
+  "category": "E-commerce",
+  "domain": "neezon.com",
+  "link": "https://platform.shoffi.app/r/rl_Dv5hEJA5",
+  "desc": "Shopify discount engine for the rules the native one cannot express: capped and fixed-amount discounts that hold up across currencies, tiers by quantity, subtotal or weight, BXGY, gifts and mix-and-match, targeted by product, customer, cart, market, country or company. Free plan available; Lite $9.99 a month or $99.99 a year, Pro $25.99 or $259.99. Each tier includes two discounts at the level above. Launched January 2025, six reviews as of 4 Sep 2026.",
+  "platform": "shopify"
+ },
+ {
+  "name": "Easy Bundles",
+  "category": "E-commerce",
+  "domain": "skailama.com",
+  "link": "https://platform.shoffi.app/r/rl_t5CpUycy",
+  "desc": "Shopify bundle builder for build-your-own-box, gift-box, mix-and-match, fixed-price, volume and subscription bundles, with bundle inventory synced across Shopify and 3PLs and POS support. Priced on bundle sales rather than orders: free up to $500 a month, Essential $29 up to $3,000, Growth $49 up to $5,000, Scale $99 up to $10,000, with 14-16% off on annual billing. 4.9 stars over 1,216 reviews as of 4 Sep 2026.",
+  "platform": "shopify"
  }
 ]
