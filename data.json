@@ -766,7 +766,7 @@
   "name": "Digit",
   "category": "Operations & Workflow",
   "domain": "digit-software.com",
-  "desc": "Inventory, production, purchasing and sales in one system for manufacturers and distributors. Starter $400/month with 5 users, Growth $750, Professional $1,300, extra users $63 each. Watch the add-ons: integrations beyond two, API and MCP access are $100/month apiece.",
+  "desc": "Inventory, production, purchasing and sales in one system for manufacturers and distributors. Starter $400/month with 5 users, Growth $750, Professional $1,300, extra users $63 each. Watch the add-ons: a third integration is $100 to $125 a month depending on which part of their pricing page you read, and API or MCP access is $125 a month each.",
   "link": "https://partners.digit-software.com/25eh3i1ndxue"
  },
  {
@@ -2006,7 +2006,7 @@
  },
  {
   "name": "Securify",
-  "category": "Security",
+  "category": "E-commerce",
   "domain": "securification.ai",
   "link": "https://platform.shoffi.app/r/rl_7qblcw5i",
   "desc": "Country blocker and fraud filter for Shopify: blocks countries, IP ranges, bots, VPNs and risky emails at checkout, and holds suspicious orders automatically. Free plan; paid $5.99 to $49 a month.",
@@ -2913,7 +2913,7 @@
  },
  {
   "name": "Blocky",
-  "category": "Security",
+  "category": "E-commerce",
   "domain": "effectify.io",
   "desc": "Shopify fraud filter that blocks visitors and orders by country, IP (v4 and v6), email, name, address and phone, with an AI bot blocker for TOR, proxy and VPN traffic that gets past reCAPTCHA, country redirects, a right-click blocker and visitor analytics. The free tier is for development stores only; live stores run $9.99 for country blocking, $16.99 with IP blocking or $19.99 for the identity and bot filters, 30% off annually. Not sold to Shopify Plus stores.",
   "link": "https://platform.shoffi.app/r/rl_I3K3306i",
