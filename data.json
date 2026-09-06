@@ -56,7 +56,7 @@
   "category": "Growth & Revenue",
   "domain": "aftersell.app",
   "desc": "Post-purchase upsell and cross-sell app for Shopify (by Rokt): one-click upsells, downsells and thank-you-page offers plus checkout customization to lift average order value — no extra ad spend.",
-  "link": "https://try.aftersell.app/vv4g49ide6z2",
+  "link": "https://apps.shopify.com/aftersell",
   "platform": "shopify"
  },
  {
@@ -1438,7 +1438,7 @@
   "category": "Growth & Revenue",
   "domain": "logome.ai",
   "desc": "Generates a logo and basic brand assets from a prompt. Designing and previewing is free, but downloading requires a paid plan — Basic at around $29/month gives one file without a transparent background. Their public site including pricing returned 404 at last check, so verify what you are charged.",
-  "link": "https://logomeai.partnerlinks.io/b7op64h8prya?url=https%3A%2F%2Fapp.logome.ai%2F"
+  "link": "https://logomeai.partnerlinks.io/b7op64h8prya"
  },
  {
   "name": "Lucrovox",
@@ -2082,7 +2082,7 @@
   "name": "Shiftie",
   "category": "Operations & Workflow",
   "domain": "shiftie.co",
-  "desc": "Rota building, clock-ins, leave and shift swaps for shift-based businesses. Charged per active employee — roughly £2.75 a month, dropping to about £1.50 once you pass 30 staff, with entry plans from about £39. Not an HR or payroll platform, so those stay separate purchases.",
+  "desc": "Rota building, clock-ins, leave and shift swaps for shift-based businesses. Charged per active employee — £2.75 a month for the first 30 and £1.50 for each one above that, with no minimum and a custom quote past 200 staff. Not an HR or payroll platform, so those stay separate purchases.",
   "link": "https://try.shiftie.co/vndu93lvag6m"
  },
  {
@@ -3093,7 +3093,8 @@
   "domain": "supaeasy.com",
   "desc": "No-code Shopify Functions generator (by Nextools): build and migrate custom discount, checkout, payment, shipping and validation logic from the Shopify Admin, with a migrator for deprecated Scripts and an AI generator that writes functions from a plain-language brief.",
   "link": "https://platform.shoffi.app/r/rl_OzQi1tCl",
-  "platform": "shopify"
+  "platform": "shopify",
+  "url": "https://platform.shoffi.app/r/rl_OzQi1tCl"
  },
  {
   "name": "Easy Advanced Translations",
@@ -3101,7 +3102,8 @@
   "domain": "northwest.dev",
   "desc": "AI Shopify store translation (by Northwest): translate products, collections, theme text, metafields and even hard-coded and third-party-app text across languages, with a choice of engine (its own, Google, OpenAI or DeepSeek), image translation, protected terms and Shopify Markets support.",
   "link": "https://platform.shoffi.app/r/rl_Hr9ZDxNE",
-  "platform": "shopify"
+  "platform": "shopify",
+  "url": "https://platform.shoffi.app/r/rl_Hr9ZDxNE"
  },
  {
   "name": "Optizen",
@@ -3229,5 +3231,14 @@
   "domain": "mycroft.io",
   "link": "https://try.mycroft.io/tlfhcxheacia",
   "desc": "Security and compliance platform plus managed service for companies without a security department: a GRC platform mapped to CMMC, FedRAMP, SOC 2, ISO 27001, HIPAA and GDPR, bundled with cloud and application security, device management, third-party risk and awareness training, and backed by a Risk Operations Center staffed by its own experts around the clock. 150+ native integrations across AWS, Azure, GCP and the major code hosts. Three packages — Platform, Scale, Managed — and none of them is publicly priced. Mycroft Technologies Inc.; not the Mycroft AI voice assistant."
+ },
+ {
+  "name": "Stackable",
+  "category": "E-commerce",
+  "domain": "stkbl.app",
+  "link": "https://platform.shoffi.app/r/rl_25GFb2VQ",
+  "desc": "Shopify discount app (by Optizio) that folds several discounts into one code: order, collection and shipping discounts combined, a progress type that raises the discount as the cart grows, and checkout upsells on the top tier. No free plan — Growth is $19.99 a month, Unlimited $99.99, both with a 7-day trial.",
+  "platform": "shopify",
+  "url": "https://platform.shoffi.app/r/rl_25GFb2VQ"
  }
 ]
