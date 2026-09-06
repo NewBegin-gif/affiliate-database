@@ -3240,5 +3240,23 @@
   "desc": "Shopify discount app (by Optizio) that folds several discounts into one code: order, collection and shipping discounts combined, a progress type that raises the discount as the cart grows, and checkout upsells on the top tier. No free plan — Growth is $19.99 a month, Unlimited $99.99, both with a 7-day trial.",
   "platform": "shopify",
   "url": "https://platform.shoffi.app/r/rl_25GFb2VQ"
+ },
+ {
+  "name": "Code Bulk Discounts",
+  "category": "E-commerce",
+  "domain": "discountkit.app",
+  "link": "https://platform.shoffi.app/r/rl_f2Wu0xQl",
+  "desc": "Shopify app (by Optizio) that turns a discount you have already created into thousands of unique codes and exports them as CSV for email and SMS campaigns. Free covers 500 lifetime codes; Pro is $14.99 a month for unlimited codes.",
+  "platform": "shopify",
+  "url": "https://platform.shoffi.app/r/rl_f2Wu0xQl"
+ },
+ {
+  "name": "Kite",
+  "category": "E-commerce",
+  "domain": "kite.skailama.app",
+  "link": "https://platform.shoffi.app/r/rl_Yhjmmgv2",
+  "desc": "Shopify discount toolkit (by Skai Lama) built on native Shopify Functions: free gift with purchase, buy X get Y, tiered and volume discounts, progress bars and bulk codes. Free to install for the first 50 discount orders a month, then $29; Starter $29, Growth $49, Pro $99.",
+  "platform": "shopify",
+  "url": "https://platform.shoffi.app/r/rl_Yhjmmgv2"
  }
 ]
