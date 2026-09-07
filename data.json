@@ -1933,7 +1933,7 @@
   "name": "Restream",
   "category": "Growth & Revenue",
   "domain": "restream.io",
-  "desc": "Multistreaming studio: broadcast one show to YouTube, LinkedIn, Facebook and Twitch at once from the browser, with guests and local recordings. The channel caps are the business model — 3 on Standard at $190 a year, 5 on Professional — and Standard cannot add a second seat at all; extra seats are $25/month on Professional and above.",
+  "desc": "Multistreaming studio: broadcast one show to YouTube, LinkedIn, Facebook and Twitch at once from the browser, with guests and local recordings. The channel caps are the business model — 3 on Standard at $190 a year, 5 on Professional — and extra seats start at Professional, at $25/month; the Standard column offers none.",
   "link": "https://try.restream.io/r09i9uua5ley",
   "replaces": null
  },
