@@ -3288,5 +3288,12 @@
   "domain": "zoominfo.com",
   "desc": "Enterprise B2B sales intelligence and contact database. Find verified company and contact data, buying signals and org charts to fuel outbound at scale.",
   "link": "https://try.zoominfo.com/me0vaf3cnryt"
+ },
+ {
+  "name": "noCRM",
+  "domain": "nocrm.io",
+  "link": "https://www.nocrm.io/?red=aibuil",
+  "category": "Sales & CRM",
+  "desc": "Action-driven sales tool from France's Positive Group: every lead carries a next step instead of a form to fill in. Three per-seat tiers — Starter €11, Expert €22, Dream €33 per user a month on annual billing (€19/€29/€39 monthly) — but two-way email, WhatsApp, VoIP and team permissions are Dream only. 15-day trial, no free plan."
  }
 ]
