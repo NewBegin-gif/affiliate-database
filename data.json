@@ -56,7 +56,7 @@
   "category": "Growth & Revenue",
   "domain": "aftersell.app",
   "desc": "Post-purchase upsell and cross-sell app for Shopify (by Rokt): one-click upsells, downsells and thank-you-page offers plus checkout customization to lift average order value — no extra ad spend.",
-  "link": "https://apps.shopify.com/aftersell",
+  "link": "https://try.aftersell.app/vv4g49ide6z2",
   "platform": "shopify"
  },
  {
@@ -1690,13 +1690,6 @@
   "desc": "Browser-based webinars with registration, automated emails, polls and analytics. There is no plan price: Pro sells attendee credits at €2.50 each, bought a year up front, and one credit is spent per unique participant per session — a four-part series to 200 people costs 800 credits.",
   "link": "https://get.livestorm.co/cfc8vpp5fl59",
   "replaces": "Zoom Webinars"
- },
- {
-  "name": "Logome.ai",
-  "category": "Growth & Revenue",
-  "domain": "logome.ai",
-  "desc": "Generates a logo and basic brand assets from a prompt. Designing and previewing is free, but downloading requires a paid plan — Basic at around $29/month gives one file without a transparent background. Their public site including pricing returned 404 at last check, so verify what you are charged.",
-  "link": "https://logome.ai"
  },
  {
   "name": "Lucrovox",

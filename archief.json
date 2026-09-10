@@ -1,0 +1,12 @@
+[
+ {
+  "name": "Logome.ai",
+  "category": "Growth & Revenue",
+  "domain": "logome.ai",
+  "desc": "An AI logo and brand-kit generator that stopped answering. Every route on logome.ai returned HTTP 404 when we measured it on 10 September 2026 — from two networks, through the affiliate link and in a real browser — and no successor domain exists. De-listed; this page is the record.",
+  "link": "https://logome.ai",
+  "sinds": "2026-09-10",
+  "reden": "product weg: logome.ai geeft op elke route HTTP 404 (Webflow-edge, geen gepubliceerde site), app.logome.ai staat niet meer in DNS, laatste levende Wayback-opname 16 jun 2026, en er is geen opvolgerdomein. PartnerStack toont het partnership nog als 'active' met destination https://www.logome.ai/ — diezelfde 404.",
+  "bron": "eigen meting 10 sep 2026: curl vanaf de VPS en de Mac, de PartnerStack-link logomeai.partnerlinks.io/b7op64h8prya (302 naar www.logome.ai, daar 404), een echte browser (titel '404 - Page not found'), DNS/whois en de Wayback-CDX."
+ }
+]
