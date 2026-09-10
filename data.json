@@ -18,7 +18,7 @@
   "domain": "accessibe.com",
   "link": "https://try.accessibe.com/g102j14bqso5",
   "category": "IT & Productivity",
-  "desc": "Web-accessibility widget (accessWidget) that scans a site every 24 hours and adjusts it in the browser — contrast, text sizing, keyboard hints — plus an accessibility statement. Priced by monthly visits: $490/year up to 5,000, $1,490 up to 30,000, $3,990 up to 100,000. An aid, not WCAG conformance — for that the same vendor sells accessFlow (developer audits with ready-to-commit code fixes) and accessServices (VPATs, file remediation, expert audits), both quoted rather than priced publicly."
+  "desc": "Web-accessibility widget (accessWidget) that scans a site every 24 hours and adjusts it in the browser — contrast, text sizing, keyboard hints — plus an accessibility statement. Priced by monthly visits, with a monthly and a yearly rate on every tier: $59 a month or $490 a year up to 5,000 visits, $179 or $1,490 up to 30,000, $479 or $3,990 up to 100,000 (read 10 Sep 2026). An aid, not WCAG conformance — for that the same vendor sells accessFlow (developer audits with ready-to-commit code fixes) and accessServices (VPATs, file remediation, expert audits), both quoted rather than priced publicly."
  },
  {
   "name": "ActiveCampaign",
@@ -32,7 +32,7 @@
   "name": "AdCreative.ai",
   "category": "Growth & Revenue",
   "domain": "adcreative.ai",
-  "desc": "AI ad-creative and banner generation for performance marketers. Metered by download rather than by campaign: tiers run from roughly $29–39/month for 10 credits up to $249/month for 200, so iteration-heavy testing burns a starter allowance fast.",
+  "desc": "AI ad-creative and banner generation for performance marketers. Metered by download rather than by campaign: tiers run from roughly $29–39/month for 10 credits up to $1,399/month for 200, so iteration-heavy testing burns a starter allowance fast.",
   "link": "https://free-trial.adcreative.ai/9rbtqowzgwy2",
   "replaces": "Canva"
  },
