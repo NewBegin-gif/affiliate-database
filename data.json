@@ -1109,6 +1109,14 @@
   "link": "https://feedvisor.partnerlinks.io/2lx0ci1imt4c"
  },
  {
+  "name": "Feedyio",
+  "category": "E-commerce",
+  "domain": "feedyio.com",
+  "desc": "Shopify product-feed engine (by happyapps.cz) that generates and syncs feeds for Google, Meta, Pinterest, TikTok, Bing and 130-plus marketplaces and price-comparison sites, with strong coverage of the Central European channels (Heureka, Glami, Kaufland, Favi). Custom XML, CSV, TXT or JSON feeds are built from your own Liquid template, with category mapping, attribute rules and validation before products get rejected. Free tier up to 30 products; Basic $9.99 a month, Advanced $19.99, Pro $29.99, capped on catalogue size. Launched May 2022, 115 reviews as of 10 Sep 2026.",
+  "link": "https://platform.shoffi.app/r/rl_zWJe8yiW",
+  "platform": "shopify"
+ },
+ {
   "category": "Business Operations",
   "desc": "Case management for law firms: matters, intake, depositions, e-signature and AI document work.",
   "domain": "filevine.com",
@@ -1299,6 +1307,14 @@
   "link": "https://grapeleads.com/?gr_pk=OG4A",
   "category": "Sales & CRM",
   "desc": "Lead-finding for web developers and agencies — surfaces local businesses without websites from Google Maps, with contact details, on signup credits."
+ },
+ {
+  "name": "Grapevine",
+  "category": "Marketing",
+  "domain": "grapevine-surveys.com",
+  "desc": "Shopify-native survey platform for post-purchase, NPS, CSAT and attribution questions, with unlimited responses on a single plan. Reports revenue and AOV per marketing channel, targets surveys by order value, product, country, payment method or customer, runs on-site, by email and on Shopify POS, and exports to Shopify Flow, Klaviyo and GA4; survey data can be queried with your own AI assistant through the vendor's MCP server. One plan at $25 a month with a 14-day trial and no free tier. Launched August 2017, 221 reviews as of 10 Sep 2026.",
+  "link": "https://platform.shoffi.app/r/rl_rCP4WXWG",
+  "platform": "shopify"
  },
  {
   "name": "Gravity Forms",
@@ -1599,6 +1615,14 @@
   "desc": "Landing page builder with 400+ templates, from $29/month for unlimited pages and 5,000 visitors; A/B testing and pop-ups start at $49. Roughly half what Unbounce and Instapage charge, and the trade is no AI traffic routing, no real-time collaboration and thinner technical control.",
   "link": "https://try.landingi.com/hsaaq00kz6qg",
   "replaces": "Unbounce"
+ },
+ {
+  "name": "LangShop",
+  "category": "E-commerce",
+  "domain": "langshop.io",
+  "desc": "Shopify translation and currency app (by Aheadworks) that localises products, themes, checkout, SEO and third-party app content with OpenAI, DeepL Pro or Google Cloud Translation, or with professional agency translators, and adds a geolocated language and currency switcher. Glossary and content rules keep terms consistent. Free plan for one language and 50 products; Basic $10 a month or $100 a year, Standard $40 or $400, Advanced $75 or $750, each capping languages and translated products. Launched September 2016, 480 reviews as of 10 Sep 2026.",
+  "link": "https://platform.shoffi.app/r/rl_K2FnzAjR",
+  "platform": "shopify"
  },
  {
   "name": "Later",
