@@ -1859,6 +1859,13 @@
   "link": "https://try.nicejob.com/k3v3ud10kczz"
  },
  {
+  "name": "noCRM",
+  "domain": "nocrm.io",
+  "link": "https://www.nocrm.io/?red=aibuil",
+  "category": "Sales & CRM",
+  "desc": "Action-driven sales tool from France's Positive Group: every lead carries a next step instead of a form to fill in. Three per-seat tiers — Starter €11, Expert €22, Dream €33 per user a month on annual billing (€19/€29/€39 monthly) — but two-way email, WhatsApp, VoIP and team permissions are Dream only. 15-day trial, no free plan."
+ },
+ {
   "name": "NordVPN",
   "category": "IT & Productivity",
   "domain": "nordvpn.com",
@@ -2217,6 +2224,13 @@
   "desc": "WordPress SEO plugin with schema, on-page analysis and rank tracking. The free version is generous enough that many sites never need to upgrade; PRO, from about $6.99/month billed annually, earns its keep once you want rank tracking, Content AI credits or many client sites.",
   "link": "https://rankmath.com/?ref=daanhaket",
   "replaces": "Yoast SEO"
+ },
+ {
+  "name": "ReachStream",
+  "category": "Sales & CRM",
+  "domain": "reachstream.com",
+  "desc": "B2B contact database with a published price instead of a quote: unlimited contact and company views on every tier, with the meter running on exports rather than on looking. Free is $0 for 100 export credits a month; Starter $39 a month ($29 annually) for 5,000, Pro $59/$49 for 10,000, Business $99/$79 for 20,000 and three seats. Annual billing takes 20% off the price and changes nothing about the allowance. Read on their own pricing page on 10 September 2026.",
+  "link": "https://www.awin1.com/cread.php?awinmid=116059&awinaffid=2880219"
  },
  {
   "name": "Readymode",
@@ -3288,12 +3302,5 @@
   "domain": "zoominfo.com",
   "desc": "Enterprise B2B sales intelligence and contact database. Find verified company and contact data, buying signals and org charts to fuel outbound at scale.",
   "link": "https://try.zoominfo.com/me0vaf3cnryt"
- },
- {
-  "name": "noCRM",
-  "domain": "nocrm.io",
-  "link": "https://www.nocrm.io/?red=aibuil",
-  "category": "Sales & CRM",
-  "desc": "Action-driven sales tool from France's Positive Group: every lead carries a next step instead of a form to fill in. Three per-seat tiers — Starter €11, Expert €22, Dream €33 per user a month on annual billing (€19/€29/€39 monthly) — but two-way email, WhatsApp, VoIP and team permissions are Dream only. 15-day trial, no free plan."
  }
 ]
