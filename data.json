@@ -2100,7 +2100,7 @@
  {
   "name": "PreOrder Now",
   "category": "E-commerce",
-  "domain": "zenpire.tech",
+  "domain": "preordernow.app",
   "desc": "Shopify pre-orders with badges, partial payments, mixed-cart warnings and back-in-stock emails. Priced by which Shopify plan you are on rather than by features: $19.95 on Basic up to $99.95 on Plus.",
   "link": "https://try.zenpire.tech/t9s08487ewps-0c3lys"
  },
@@ -3195,7 +3195,7 @@
   "domain": "wegic.ai",
   "link": "https://try.wegic.ai/gy39hk291ujf",
   "category": "Design & Content",
-  "desc": "AI website builder that generates and hosts sites from a conversation — credit-based, with custom domains and code export on higher tiers, and built-in image generation powered by ChatGPT Image-2 (upload a reference or prompt, drop the result straight into your design). It can also turn a single product photo or mockup into a ready-to-sell product page. A one-click optimize pass audits a published site for SEO and site-health problems and applies the fixes itself — vendor-announced in July 2026, and not something we have tested."
+  "desc": "AI website builder that generates and hosts sites from a conversation — credit-based, with custom domains and code export on higher tiers. Wegic's own help center documents images only by upload or external URL; the built-in image generation the vendor promotes, including a product-photo-to-product-page pass, is not in that documentation and we have not tested it. A one-click optimize pass audits a published site for SEO and site-health problems and applies the fixes itself — vendor-announced in July 2026, and not something we have tested."
  },
  {
   "name": "WhatConverts",
