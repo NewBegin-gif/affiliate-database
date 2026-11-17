@@ -4949,5 +4949,19 @@
   "domain": "intercom.com",
   "desc": "Customer service platform that combines a helpdesk and shared inbox with the Fin AI agent, priced per seat plus a fee per resolved conversation.",
   "link": "https://intercommmm.partnerlinks.io/afbfogpj0c9l-zib6ma"
+ },
+ {
+  "name": "EmailOctopus",
+  "category": "Marketing",
+  "domain": "emailoctopus.com",
+  "desc": "Email marketing for newsletters and small businesses, with a free plan for 2,500 subscribers and a Pro plan that removes branding.",
+  "link": "https://emailoctopus.com/?ref=daniel9g"
+ },
+ {
+  "name": "Rewardful",
+  "category": "Growth & Revenue",
+  "domain": "rewardful.com",
+  "desc": "Affiliate and referral tracking for SaaS companies that bill through Stripe, with flat monthly pricing and a 14-day free trial.",
+  "link": "https://www.rewardful.com/?via=marketingandsalessoftware"
  }
 ]
