@@ -5073,5 +5073,12 @@
   "domain": "apps.shopify.com",
   "desc": "Shopify slide cart drawer app with upsells under the cart, free for the first 20 orders and then priced by order volume.",
   "link": "https://platform.shoffi.app/r/rl_UU5jZETB"
+ },
+ {
+  "name": "BSS B2B Solution",
+  "category": "E-commerce",
+  "domain": "apps.shopify.com",
+  "desc": "Shopify wholesale pricing app with price rules by customer tag, B2B registration forms and approvals, with a free plan.",
+  "link": "https://apps.shopify.com/b2b-solution-custom-pricing?ref=aff-bss-ppxp6h"
  }
 ]
