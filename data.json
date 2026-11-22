@@ -5094,5 +5094,12 @@
   "domain": "apps.shopify.com",
   "desc": "Shopify app that adds text boxes, swatches, file uploads and price add-ons to product pages, with conditional logic on paid plans and a free plan for 10 option sets.",
   "link": "https://apps.shopify.com/product-options-by-bss?ref=aff-bss-ppxp6h"
+ },
+ {
+  "name": "Cal.com",
+  "category": "Operations & Workflow",
+  "domain": "cal.com",
+  "desc": "Scheduling tool with shareable booking pages, Cal Video, workflows and Stripe payments on a free plan, with round-robin and routing for teams.",
+  "link": "https://refer.cal.com/aibm-test-jvn5"
  }
 ]
