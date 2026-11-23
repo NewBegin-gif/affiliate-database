@@ -5115,5 +5115,19 @@
   "domain": "shutterstock.com",
   "desc": "Stock photo library with an AI image generator, licensed downloads and image packs.",
   "link": "https://shutterstock.7eer.net/c/7503701/42119/1305"
+ },
+ {
+  "name": "GemPages",
+  "category": "E-commerce",
+  "domain": "gempages.net",
+  "desc": "Shopify page and sales-funnel builder with a drag-and-drop editor, prebuilt templates, post-purchase upsells and A/B offer testing.",
+  "link": "https://gempages.net/?ref=Jwbq1c6m"
+ },
+ {
+  "name": "MailerLite",
+  "category": "Marketing",
+  "domain": "mailerlite.com",
+  "desc": "Email marketing for small senders and creators: drag-and-drop campaigns from templates, automations, subscriber groups and a free plan for small lists.",
+  "link": "https://www.mailerlite.com/?linkId=lp_170762&sourceId=marketingandsalessoftware&tenantId=mailerlite"
  }
 ]
