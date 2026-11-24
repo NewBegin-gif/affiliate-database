@@ -5129,5 +5129,21 @@
   "domain": "mailerlite.com",
   "desc": "Email marketing for small senders and creators: drag-and-drop campaigns from templates, automations, subscriber groups and a free plan for small lists.",
   "link": "https://www.mailerlite.com/?linkId=lp_170762&sourceId=marketingandsalessoftware&tenantId=mailerlite"
+ },
+ {
+  "name": "ShipProtect ShippingProtection",
+  "category": "E-commerce",
+  "domain": "apps.shopify.com",
+  "desc": "Shopify shipping protection box for the cart: percentage, fixed or dynamic fee, toggle or checkbox layout and pre-tick options, with the premiums kept by the store.",
+  "link": "https://platform.shoffi.app/r/rl_Excfr0C3",
+  "platform": "shopify"
+ },
+ {
+  "name": "Wiz Email App",
+  "category": "E-commerce",
+  "domain": "apps.shopify.com",
+  "desc": "Shopify email app that drafts abandoned cart, welcome, browse and winback flows with AI, plus popups, campaigns, segmentation and analytics.",
+  "link": "https://platform.shoffi.app/r/rl_XKxTogfl",
+  "platform": "shopify"
  }
 ]
