@@ -2965,7 +2965,7 @@
   "name": "TheTop",
   "category": "IT & Productivity",
   "domain": "thetop.com",
-  "desc": "An enterprise layer in front of your AI providers: it attributes spend by department, reuses repeated work, routes each task to a cheaper model and applies policy before execution. Self-serve entry at $175 a month for the first 12 months (then $350), with usage-based pricing beyond it (pricing page read 23 Nov 2026).",
+  "desc": "An enterprise layer in front of your AI providers: it attributes spend by department, reuses repeated work, routes each task to a cheaper model and applies policy before execution.",
   "link": "https://join.thetop.com/bvtsnmltfl93"
  },
  {
@@ -5144,6 +5144,29 @@
   "domain": "apps.shopify.com",
   "desc": "Shopify email app that drafts abandoned cart, welcome, browse and winback flows with AI, plus popups, campaigns, segmentation and analytics.",
   "link": "https://platform.shoffi.app/r/rl_XKxTogfl",
+  "platform": "shopify"
+ },
+ {
+  "name": "BSS B2B Request a Quote",
+  "category": "E-commerce",
+  "domain": "apps.shopify.com",
+  "desc": "Shopify app that hides prices behind an Add to quote button, lets merchants build quotes with custom prices and PO numbers, and converts them into draft orders.",
+  "link": "https://apps.shopify.com/b2b-customer-portal-quick-order?ref=aff-bss-ppxp6h"
+ },
+ {
+  "name": "KeepCart",
+  "category": "E-commerce",
+  "domain": "apps.shopify.com",
+  "desc": "Shopify app against coupon leaks: tracks where your discount codes show up, locks a code to a protected link and, on paid plans, blocks coupon extensions at checkout.",
+  "link": "https://platform.shoffi.app/r/rl_urHHIeNf",
+  "platform": "shopify"
+ },
+ {
+  "name": "Section Store",
+  "category": "E-commerce",
+  "domain": "apps.shopify.com",
+  "desc": "Shopify app with free and premium theme sections you add from the theme editor, plus a cart drawer, bundles and AI pages on the Plus plan.",
+  "link": "https://platform.shoffi.app/r/rl_UNnaVoOf",
   "platform": "shopify"
  }
 ]
