@@ -5168,5 +5168,13 @@
   "desc": "Shopify app with free and premium theme sections you add from the theme editor, plus a cart drawer, bundles and AI pages on the Plus plan.",
   "link": "https://platform.shoffi.app/r/rl_UNnaVoOf",
   "platform": "shopify"
+ },
+ {
+  "name": "Sledge",
+  "category": "E-commerce",
+  "domain": "apps.shopify.com",
+  "desc": "Shopify app for AI search, product filters, merchandising and offers such as bundles and upsells, with a free plan on development stores.",
+  "link": "https://platform.shoffi.app/r/rl_BTIP9QEQ",
+  "platform": "shopify"
  }
 ]
