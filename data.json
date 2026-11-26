@@ -5176,5 +5176,13 @@
   "desc": "Shopify app for AI search, product filters, merchandising and offers such as bundles and upsells, with a free plan on development stores.",
   "link": "https://platform.shoffi.app/r/rl_BTIP9QEQ",
   "platform": "shopify"
+ },
+ {
+  "name": "Proposall",
+  "category": "E-commerce",
+  "domain": "apps.shopify.com",
+  "desc": "Shopify app for building custom quotes from your products with your own prices and emailing them to customers, with e-signatures on paid plans.",
+  "link": "https://platform.shoffi.app/r/rl_9u1GQjQj",
+  "platform": "shopify"
  }
 ]
