@@ -5184,5 +5184,21 @@
   "desc": "Shopify app for building custom quotes from your products with your own prices and emailing them to customers, with e-signatures on paid plans.",
   "link": "https://platform.shoffi.app/r/rl_9u1GQjQj",
   "platform": "shopify"
+ },
+ {
+  "name": "BestTrack",
+  "category": "E-commerce",
+  "domain": "apps.shopify.com",
+  "desc": "Shopify order tracking app with a branded tracking page, carrier detection, status email templates and a dropshipping mode.",
+  "link": "https://platform.shoffi.app/r/rl_gTs2bGJX",
+  "platform": "shopify"
+ },
+ {
+  "name": "Loox",
+  "category": "E-commerce",
+  "domain": "apps.shopify.com",
+  "desc": "Shopify app that collects photo and video reviews with review request emails and shows them in on brand widgets, with AI sorting on paid plans.",
+  "link": "https://loox.io/app/marketingandsalessoftware",
+  "platform": "shopify"
  }
 ]
