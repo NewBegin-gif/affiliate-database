@@ -5200,5 +5200,12 @@
   "desc": "Shopify app that collects photo and video reviews with review request emails and shows them in on brand widgets, with AI sorting on paid plans.",
   "link": "https://loox.io/app/marketingandsalessoftware",
   "platform": "shopify"
+ },
+ {
+  "name": "Pabbly Connect",
+  "category": "Operations & Workflow",
+  "domain": "pabbly.com",
+  "desc": "Workflow automation tool that connects apps with webhooks, formatters and API steps. Only actions on outside apps count as tasks, and there is a free plan.",
+  "link": "https://payments.pabbly.com/api/affurl/RVYZ07kQyUZ0Z1HUKZ1m/0OpWIzVXc3W7cMLq?target=9Z2AHyhSldo6KI1Fn"
  }
 ]
