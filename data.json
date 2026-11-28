@@ -5207,5 +5207,13 @@
   "domain": "pabbly.com",
   "desc": "Workflow automation tool that connects apps with webhooks, formatters and API steps. Only actions on outside apps count as tasks, and there is a free plan.",
   "link": "https://payments.pabbly.com/api/affurl/RVYZ07kQyUZ0Z1HUKZ1m/0OpWIzVXc3W7cMLq?target=9Z2AHyhSldo6KI1Fn"
+ },
+ {
+  "name": "Reviewers.com",
+  "category": "E-commerce",
+  "domain": "reviewers.com",
+  "desc": "Shopify app that gets video reviews from real US shoppers who order your product with a free code, with a free first campaign of up to 10 videos.",
+  "link": "https://app.reviewers.com/rvs-app/marketingandsalessoftware",
+  "platform": "shopify"
  }
 ]
